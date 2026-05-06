@@ -1,8 +1,8 @@
 /*   STEP 1   */
-export const leagueID = "1253477414021902336"; // your league ID
-export const leagueName = "FL Players"; // your league name
+export const leagueID = "1314321039802507264"; // your league ID
+export const leagueName = "FL Evolution"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
