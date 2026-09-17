@@ -88,6 +88,11 @@ export const tabs = [
                 dest: '/awards',
             },
             {
+                icon: 'menu_book',
+                label: 'Record Book',
+                dest: '/record-book',
+            },
+            {
                 icon: 'military_tech',
                 label: 'Records',
                 dest: '/records',

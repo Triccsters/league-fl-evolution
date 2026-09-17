@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T15:55:31+00:00",
+ "generated": "2026-09-17T16:20:51+00:00",
  "site": {
   "league_name": "FL Evolution",
   "season": 2026,
@@ -8,7 +8,122 @@
    "sleeper"
   ],
   "yahoo_years": null,
-  "sleeper_from": 2019
+  "sleeper_from": 2019,
+  "missing_seasons": []
+ },
+ "team_names": {
+  "2019": {
+   "TuanonStan": "Playoffs?!",
+   "Wallner": "The Hunted",
+   "brettmn13": "Pillow man ZZZ",
+   "Austin7Rock": "Chillin' With Mahomies ",
+   "YoungBuck04": "Dirty Birds",
+   "Colt45Johnson": "Kerryon my wayward Brown",
+   "JoeyK14": "Recyclops",
+   "XFIRE3": "Lottery Wheel",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Hot Beaver Trap",
+   "triccster": "Harold and kumara",
+   "Jbird531": "Big Truss "
+  },
+  "2020": {
+   "TuanonStan": "Please save us",
+   "Wallner": "Dead Man Walking",
+   "brettmn13": "Back to back poop champ",
+   "Austin7Rock": "back to back fivers",
+   "YoungBuck04": "John Waller",
+   "Colt45Johnson": "ALSO the Silky Wilsons",
+   "JoeyK14": "JoeyK14",
+   "XFIRE3": "Team No Picks",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Hot Beaver Trap",
+   "triccster": "triccster",
+   "Jbird531": "Jbird531"
+  },
+  "2021": {
+   "TuanonStan": "Perennial Rebuilder",
+   "Wallner": "Wallner",
+   "brettmn13": "Team Brettmn29",
+   "TrifectaRich": "TrifectaRich",
+   "YoungBuck04": "YoungBuck04",
+   "Colt45Johnson": "Give me Moore",
+   "JoeyK14": "JoeyK14",
+   "Rongo914": "Rongo914",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Rosterbation King 🤴",
+   "triccster": "triccster",
+   "Jbird531": "Jbird531"
+  },
+  "2022": {
+   "TuanonStan": "2 Fast Tua Furious",
+   "Wallner": "Wallner",
+   "brettmn13": "Madriguera",
+   "TrifectaRich": "TrifectaRich",
+   "YoungBuck04": "Chasing Last",
+   "Colt45Johnson": "Gunshot Go Hards",
+   "DMsourbeer": "DM sourbeer",
+   "RebuildingRUs": "Guranteed 1.01",
+   "thecreamer": "thecreamer",
+   "butterygoop": "TopSide Piss King 🤴 👑 ",
+   "triccster": "triccster",
+   "Jbird531": "Jbird531"
+  },
+  "2023": {
+   "TuanonStan": "Tuanon",
+   "Wallner": "Wallner",
+   "brettmn13": "Madriguera",
+   "TrifectaRich": "TrifectaRich",
+   "YoungBuck04": "Chasing Last",
+   "Colt45Johnson": "Ayahuasca All-Stars",
+   "DMsourbeer": "DM sourbeer",
+   "RebuildingRUs": "Guranteed 1.01",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Picken otton with olave",
+   "triccster": "triccster",
+   "Jbird531": "Shot caller "
+  },
+  "2024": {
+   "TuanonStan": "Tuanon",
+   "Wallner": "Wallner",
+   "brettmn13": "Madriguera",
+   "TrifectaRich": "TrifectaRich",
+   "YoungBuck04": "Screw Them RB’s",
+   "Colt45Johnson": "Ayahuasca All-Stars",
+   "DMsourbeer": "DM sourbeer",
+   "RebuildingRUs": "Guranteed 1.01",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Picken otton with olave",
+   "triccster": "triccster",
+   "Jbird531": "Shot caller "
+  },
+  "2025": {
+   "TuanonStan": "Tuanon",
+   "Wallner": "Wallner",
+   "brettmn13": "Madriguera",
+   "TrifectaRich": "TrifectaRich",
+   "YoungBuck04": "Screw Them RB’s",
+   "Colt45Johnson": "Rippin Darts",
+   "DMsourbeer": "DM sourbeer",
+   "RebuildingRUs": "Guranteed 1.01",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Picken otton with olave",
+   "triccster": "triccster",
+   "Jbird531": "Shot caller "
+  },
+  "2026": {
+   "TuanonStan": "Tuanon",
+   "Wallner": "Wallner",
+   "brettmn13": "Madriguera",
+   "TrifectaRich": "TrifectaRich",
+   "YoungBuck04": "Screw Them RB’s",
+   "Colt45Johnson": "Rippin Darts",
+   "DMsourbeer": "DM sourbeer",
+   "RebuildingRUs": "Guranteed 1.01",
+   "thecreamer": "thecreamer",
+   "butterygoop": "Picken otton with olave",
+   "triccster": "triccster",
+   "Jbird531": "Shot caller "
+  }
  },
  "fields": [
   "season",
@@ -24,67 +139,83 @@
  "managers": {
   "Austin7Rock": {
    "name": "Austin7Rock",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "Colt45Johnson": {
    "name": "Colt",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "DMsourbeer": {
    "name": "DMsourbeer",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "Jbird531": {
    "name": "Joey",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "JoeyK14": {
    "name": "JoeyK14",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "RebuildingRUs": {
    "name": "RebuildingRUs",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "Rongo914": {
    "name": "Rongo914",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "TrifectaRich": {
    "name": "TrifectaRich",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "TuanonStan": {
    "name": "James",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "Wallner": {
    "name": "John Wallner",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "XFIRE3": {
    "name": "XFIRE3",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "YoungBuck04": {
    "name": "Zak",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "brettmn13": {
    "name": "Brett",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "butterygoop": {
    "name": "Anthony",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "thecreamer": {
    "name": "Zach Nase",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   },
   "triccster": {
    "name": "T.J.",
-   "yahoo": null
+   "yahoo": null,
+   "hidden": false
   }
  },
  "current": [
