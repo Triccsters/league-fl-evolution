@@ -1,0 +1,158 @@
+[
+ {
+  "managerID": "464423186352566272",
+  "handle": "butterygoop",
+  "name": "Anthony",
+  "photo": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 73-24. Champion: 2019, 2020, 2021. Toughest opponent: Joey (6-8). <a href=\"/rivalries/Jbird531--butterygoop\">That rivalry</a> · <a href=\"/rivalries?who=butterygoop\">All of Anthony's rivalries</a>",
+  "rival": {
+   "name": "Joey",
+   "link": 5,
+   "image": "https://sleepercdn.com/avatars/a7edf17a1956ebe79017732156625301"
+  }
+ },
+ {
+  "managerID": "451576189174149120",
+  "handle": "brettmn13",
+  "name": "Brett",
+  "photo": "https://sleepercdn.com/avatars/56b79b81bd2877574c51e79e7f7110cc",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 48-49. Champion: 2023, 2024. Toughest opponent: Anthony (1-6). <a href=\"/rivalries/brettmn13--butterygoop\">That rivalry</a> · <a href=\"/rivalries?who=brettmn13\">All of Brett's rivalries</a>",
+  "rival": {
+   "name": "Anthony",
+   "link": 0,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ },
+ {
+  "managerID": "461294939997728768",
+  "handle": "Colt45Johnson",
+  "name": "Colt",
+  "photo": "https://sleepercdn.com/avatars/4504012f02d0e04aced33e35bac84c9f",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 47-50. Still chasing a first title. Toughest opponent: Anthony (1-9). <a href=\"/rivalries/Colt45Johnson--butterygoop\">That rivalry</a> · <a href=\"/rivalries?who=Colt45Johnson\">All of Colt's rivalries</a>",
+  "rival": {
+   "name": "Anthony",
+   "link": 0,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ },
+ {
+  "managerID": "690393810215211008",
+  "handle": "DMsourbeer",
+  "name": "DMsourbeer",
+  "photo": "https://sleepercdn.com/avatars/784a269a76d871cb6fe43a49460a03bc",
+  "fantasyStart": 2022,
+  "bio": "Regular season since 2022: 22-35. Still chasing a first title. Toughest opponent: Zach Nase (0-7). <a href=\"/rivalries/DMsourbeer--thecreamer\">That rivalry</a> · <a href=\"/rivalries?who=DMsourbeer\">All of DMsourbeer's rivalries</a>",
+  "rival": {
+   "name": "Zach Nase",
+   "link": 10,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ },
+ {
+  "managerID": "467037388468645888",
+  "handle": "TuanonStan",
+  "name": "James",
+  "photo": "https://sleepercdn.com/avatars/7afb1b19e4712555d01fc64d1ed4fc2b",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 58-39. Champion: 2022. Toughest opponent: John Wallner (3-4). <a href=\"/rivalries/TuanonStan--Wallner\">That rivalry</a> · <a href=\"/rivalries?who=TuanonStan\">All of James's rivalries</a>",
+  "rival": {
+   "name": "John Wallner",
+   "link": 6,
+   "image": "https://sleepercdn.com/avatars/3b55a73b1ca6ca0e0b5dfaec192d78a0"
+  }
+ },
+ {
+  "managerID": "467477091919589376",
+  "handle": "Jbird531",
+  "name": "Joey",
+  "photo": "https://sleepercdn.com/avatars/a7edf17a1956ebe79017732156625301",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 46-51. Champion: 2025. Toughest opponent: Brett (2-6). <a href=\"/rivalries/Jbird531--brettmn13\">That rivalry</a> · <a href=\"/rivalries?who=Jbird531\">All of Joey's rivalries</a>",
+  "rival": {
+   "name": "Brett",
+   "link": 1,
+   "image": "https://sleepercdn.com/avatars/56b79b81bd2877574c51e79e7f7110cc"
+  }
+ },
+ {
+  "managerID": "451561756448256000",
+  "handle": "Wallner",
+  "name": "John Wallner",
+  "photo": "https://sleepercdn.com/avatars/3b55a73b1ca6ca0e0b5dfaec192d78a0",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 56-41. 1 final, still chasing a title. Toughest opponent: Anthony (4-9). <a href=\"/rivalries/Wallner--butterygoop\">That rivalry</a> · <a href=\"/rivalries?who=Wallner\">All of John Wallner's rivalries</a>",
+  "rival": {
+   "name": "Anthony",
+   "link": 0,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ },
+ {
+  "managerID": "796865892418965504",
+  "handle": "RebuildingRUs",
+  "name": "RebuildingRUs",
+  "photo": "https://sleepercdn.com/avatars/8eb8f8bf999945d523f2c4033f70473e",
+  "fantasyStart": 2022,
+  "bio": "Regular season since 2022: 10-47. Still chasing a first title. Toughest opponent: Joey (1-7). <a href=\"/rivalries/Jbird531--RebuildingRUs\">That rivalry</a> · <a href=\"/rivalries?who=RebuildingRUs\">All of RebuildingRUs's rivalries</a>",
+  "rival": {
+   "name": "Joey",
+   "link": 5,
+   "image": "https://sleepercdn.com/avatars/a7edf17a1956ebe79017732156625301"
+  }
+ },
+ {
+  "managerID": "467467791759306752",
+  "handle": "triccster",
+  "name": "T.J.",
+  "photo": "https://sleepercdn.com/avatars/3ff34004f13a823510bc520d4f0c1c99",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 42-55. Still chasing a first title. Toughest opponent: Anthony (0-7). <a href=\"/rivalries/butterygoop--triccster\">That rivalry</a> · <a href=\"/rivalries?who=triccster\">All of T.J.'s rivalries</a>",
+  "rival": {
+   "name": "Anthony",
+   "link": 0,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ },
+ {
+  "managerID": "673694553831710720",
+  "handle": "TrifectaRich",
+  "name": "TrifectaRich",
+  "photo": "https://sleepercdn.com/avatars/f47c518649f3349d820f9e27674f8f15",
+  "fantasyStart": 2021,
+  "bio": "Regular season since 2021: 26-45. Still chasing a first title. Toughest opponent: Anthony (1-9). <a href=\"/rivalries/TrifectaRich--butterygoop\">That rivalry</a> · <a href=\"/rivalries?who=TrifectaRich\">All of TrifectaRich's rivalries</a>",
+  "rival": {
+   "name": "Anthony",
+   "link": 0,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ },
+ {
+  "managerID": "467429974119280640",
+  "handle": "thecreamer",
+  "name": "Zach Nase",
+  "photo": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 51-46. 2 finals, still chasing a title. Toughest opponent: Zak (3-8). <a href=\"/rivalries/YoungBuck04--thecreamer\">That rivalry</a> · <a href=\"/rivalries?who=thecreamer\">All of Zach Nase's rivalries</a>",
+  "rival": {
+   "name": "Zak",
+   "link": 11,
+   "image": "https://sleepercdn.com/avatars/08dcdee4f12437e1a3df0870ff73bacb"
+  }
+ },
+ {
+  "managerID": "467189544316301312",
+  "handle": "YoungBuck04",
+  "name": "Zak",
+  "photo": "https://sleepercdn.com/avatars/08dcdee4f12437e1a3df0870ff73bacb",
+  "fantasyStart": 2019,
+  "bio": "Regular season since 2019: 52-45. Still chasing a first title. Toughest opponent: Anthony (2-7). <a href=\"/rivalries/YoungBuck04--butterygoop\">That rivalry</a> · <a href=\"/rivalries?who=YoungBuck04\">All of Zak's rivalries</a>",
+  "rival": {
+   "name": "Anthony",
+   "link": 0,
+   "image": "https://sleepercdn.com/avatars/dd6928a9b380502def30e6b9dc3c22df"
+  }
+ }
+]

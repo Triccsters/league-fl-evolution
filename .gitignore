@@ -10,3 +10,5 @@ build
 .vercel_build_output
 .vercel
 system-commandline-sentinel-files/
+logs/
+__pycache__/

@@ -1,0 +1,985 @@
+{
+ "season": 2026,
+ "week": 1,
+ "slug": "2026-w01",
+ "title": "Week 1 recap",
+ "generated": "2026-09-17T15:55:32+00:00",
+ "intro": "",
+ "video": "",
+ "notes": [],
+ "slots": [
+  "Wed",
+  "Thu",
+  "Sun early",
+  "Sun late",
+  "SNF",
+  "MNF"
+ ],
+ "median": 109.31,
+ "scores": [
+  {
+   "manager": "Jbird531",
+   "points": 197.46,
+   "optimal": 211.66
+  },
+  {
+   "manager": "Colt45Johnson",
+   "points": 176.36,
+   "optimal": 217.76
+  },
+  {
+   "manager": "thecreamer",
+   "points": 163.1,
+   "optimal": 175.1
+  },
+  {
+   "manager": "butterygoop",
+   "points": 140.98,
+   "optimal": 164.98
+  },
+  {
+   "manager": "TuanonStan",
+   "points": 111.9,
+   "optimal": 128.78
+  },
+  {
+   "manager": "triccster",
+   "points": 111.5,
+   "optimal": 125.9
+  },
+  {
+   "manager": "RebuildingRUs",
+   "points": 107.12,
+   "optimal": 120.52
+  },
+  {
+   "manager": "Wallner",
+   "points": 104.2,
+   "optimal": 116.66
+  },
+  {
+   "manager": "TrifectaRich",
+   "points": 101.46,
+   "optimal": 115.76
+  },
+  {
+   "manager": "brettmn13",
+   "points": 82.1,
+   "optimal": 104.4
+  },
+  {
+   "manager": "YoungBuck04",
+   "points": 60.46,
+   "optimal": 98.26
+  },
+  {
+   "manager": "DMsourbeer",
+   "points": 59.96,
+   "optimal": 111.48
+  }
+ ],
+ "games": [
+  {
+   "winner": {
+    "manager": "TuanonStan",
+    "team": "Tuanon",
+    "points": 111.9,
+    "optimal": 128.78,
+    "left_on_bench": 16.88,
+    "timeline": [
+     0.0,
+     15.4,
+     48.0,
+     103.0,
+     103.0,
+     111.9
+    ],
+    "by_pos": {
+     "QB": 20.8,
+     "RB": 49.6,
+     "TE": 12.9,
+     "WR": 28.6
+    },
+    "top": [
+     {
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "pts": 29.7
+     },
+     {
+      "name": "Malik Willis",
+      "pos": "QB",
+      "pts": 16.7
+     },
+     {
+      "name": "Juwan Johnson",
+      "pos": "TE",
+      "pts": 12.9
+     }
+    ],
+    "best_bench": {
+     "name": "Jacoby Brissett",
+     "pts": 16.48
+    },
+    "worst_start": {
+     "name": "Matthew Stafford",
+     "pts": 4.1
+    }
+   },
+   "loser": {
+    "manager": "brettmn13",
+    "team": "Madriguera",
+    "points": 82.1,
+    "optimal": 104.4,
+    "left_on_bench": 22.3,
+    "timeline": [
+     0.0,
+     9.9,
+     54.5,
+     81.4,
+     81.4,
+     82.1
+    ],
+    "by_pos": {
+     "QB": 25.8,
+     "RB": 30.9,
+     "TE": 8.0,
+     "WR": 17.4
+    },
+    "top": [
+     {
+      "name": "Breece Hall",
+      "pos": "RB",
+      "pts": 18.8
+     },
+     {
+      "name": "Joe Burrow",
+      "pos": "QB",
+      "pts": 14.16
+     },
+     {
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "pts": 12.1
+     }
+    ],
+    "best_bench": {
+     "name": "Jakobi Meyers",
+     "pts": 11.2
+    },
+    "worst_start": {
+     "name": "Colston Loveland",
+     "pts": 0.0
+    }
+   },
+   "margin": 29.8,
+   "h2h_before": [
+    6,
+    6
+   ]
+  },
+  {
+   "winner": {
+    "manager": "butterygoop",
+    "team": "Picken otton with olave",
+    "points": 140.98,
+    "optimal": 164.98,
+    "left_on_bench": 24.0,
+    "timeline": [
+     0.0,
+     4.1,
+     103.36,
+     128.08,
+     140.98,
+     140.98
+    ],
+    "by_pos": {
+     "QB": 49.68,
+     "RB": 62.5,
+     "TE": 7.3,
+     "WR": 21.5
+    },
+    "top": [
+     {
+      "name": "Jahmyr Gibbs",
+      "pos": "RB",
+      "pts": 31.1
+     },
+     {
+      "name": "Lamar Jackson",
+      "pos": "QB",
+      "pts": 24.96
+     },
+     {
+      "name": "Jalen Hurts",
+      "pos": "QB",
+      "pts": 24.72
+     }
+    ],
+    "best_bench": {
+     "name": "Isaiah Likely",
+     "pts": 23.8
+    },
+    "worst_start": {
+     "name": "Davante Adams",
+     "pts": 4.1
+    }
+   },
+   "loser": {
+    "manager": "TrifectaRich",
+    "team": null,
+    "points": 101.46,
+    "optimal": 115.76,
+    "left_on_bench": 14.3,
+    "timeline": [
+     0.0,
+     5.4,
+     42.6,
+     69.9,
+     79.8,
+     101.46
+    ],
+    "by_pos": {
+     "QB": 33.36,
+     "RB": 19.7,
+     "TE": 2.8,
+     "WR": 45.6
+    },
+    "top": [
+     {
+      "name": "Chris Olave",
+      "pos": "WR",
+      "pts": 23.2
+     },
+     {
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "pts": 21.66
+     },
+     {
+      "name": "Matthew Golden",
+      "pos": "WR",
+      "pts": 12.5
+     }
+    ],
+    "best_bench": {
+     "name": "Devin Singletary",
+     "pts": 11.8
+    },
+    "worst_start": {
+     "name": "Kenny Gainwell",
+     "pts": 2.3
+    }
+   },
+   "margin": 39.52,
+   "h2h_before": [
+    8,
+    1
+   ]
+  },
+  {
+   "winner": {
+    "manager": "triccster",
+    "team": null,
+    "points": 111.5,
+    "optimal": 125.9,
+    "left_on_bench": 14.4,
+    "timeline": [
+     0.0,
+     27.9,
+     76.74,
+     102.9,
+     102.9,
+     111.5
+    ],
+    "by_pos": {
+     "QB": 34.1,
+     "RB": 22.5,
+     "TE": 11.7,
+     "WR": 43.2
+    },
+    "top": [
+     {
+      "name": "Zay Flowers",
+      "pos": "WR",
+      "pts": 23.5
+     },
+     {
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "pts": 17.66
+     },
+     {
+      "name": "Jared Goff",
+      "pos": "QB",
+      "pts": 16.44
+     }
+    ],
+    "best_bench": {
+     "name": "Deebo Samuel",
+     "pts": 15.0
+    },
+    "worst_start": {
+     "name": "Harold Fannin",
+     "pts": 3.1
+    }
+   },
+   "loser": {
+    "manager": "YoungBuck04",
+    "team": "Screw Them RB’s",
+    "points": 60.46,
+    "optimal": 98.26,
+    "left_on_bench": 37.8,
+    "timeline": [
+     0.0,
+     0.0,
+     21.1,
+     38.16,
+     56.86,
+     60.46
+    ],
+    "by_pos": {
+     "QB": 27.66,
+     "RB": 9.6,
+     "TE": 6.9,
+     "WR": 16.3
+    },
+    "top": [
+     {
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "pts": 14.4
+     },
+     {
+      "name": "Justin Herbert",
+      "pos": "QB",
+      "pts": 13.26
+     },
+     {
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "pts": 6.9
+     }
+    ],
+    "best_bench": {
+     "name": "Chuba Hubbard",
+     "pts": 22.2
+    },
+    "worst_start": {
+     "name": "Ja'Marr Chase",
+     "pts": 2.2
+    }
+   },
+   "margin": 51.04,
+   "h2h_before": [
+    5,
+    7
+   ]
+  },
+  {
+   "winner": {
+    "manager": "Colt45Johnson",
+    "team": "Rippin Darts",
+    "points": 176.36,
+    "optimal": 217.76,
+    "left_on_bench": 41.4,
+    "timeline": [
+     22.2,
+     22.2,
+     141.46,
+     149.76,
+     176.36,
+     176.36
+    ],
+    "by_pos": {
+     "QB": 63.86,
+     "RB": 67.6,
+     "TE": 8.8,
+     "WR": 36.1
+    },
+    "top": [
+     {
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "pts": 37.26
+     },
+     {
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "pts": 31.9
+     },
+     {
+      "name": "David Montgomery",
+      "pos": "RB",
+      "pts": 27.4
+     }
+    ],
+    "best_bench": {
+     "name": "Jalen Coker",
+     "pts": 29.8
+    },
+    "worst_start": {
+     "name": "Jameson Williams",
+     "pts": 6.5
+    }
+   },
+   "loser": {
+    "manager": "Wallner",
+    "team": null,
+    "points": 104.2,
+    "optimal": 116.66,
+    "left_on_bench": 12.46,
+    "timeline": [
+     0.0,
+     0.0,
+     53.56,
+     98.76,
+     98.76,
+     104.2
+    ],
+    "by_pos": {
+     "QB": 21.9,
+     "RB": 13.9,
+     "TE": 21.7,
+     "WR": 46.7
+    },
+    "top": [
+     {
+      "name": "Dallas Goedert",
+      "pos": "TE",
+      "pts": 21.7
+     },
+     {
+      "name": "Parker Washington",
+      "pos": "WR",
+      "pts": 16.8
+     },
+     {
+      "name": "C.J. Stroud",
+      "pos": "QB",
+      "pts": 16.46
+     }
+    ],
+    "best_bench": {
+     "name": "T.J. Hockenson",
+     "pts": 11.6
+    },
+    "worst_start": {
+     "name": "Romeo Doubs",
+     "pts": 0.0
+    }
+   },
+   "margin": 72.16,
+   "h2h_before": [
+    3,
+    10
+   ]
+  },
+  {
+   "winner": {
+    "manager": "Jbird531",
+    "team": "Shot caller ",
+    "points": 197.46,
+    "optimal": 211.66,
+    "left_on_bench": 14.2,
+    "timeline": [
+     0.0,
+     0.0,
+     114.76,
+     164.86,
+     164.86,
+     197.46
+    ],
+    "by_pos": {
+     "QB": 61.76,
+     "RB": 59.9,
+     "TE": 6.2,
+     "WR": 69.6
+    },
+    "top": [
+     {
+      "name": "Josh Allen",
+      "pos": "QB",
+      "pts": 35.66
+     },
+     {
+      "name": "Kenneth Walker",
+      "pos": "RB",
+      "pts": 32.6
+     },
+     {
+      "name": "Bijan Robinson",
+      "pos": "RB",
+      "pts": 27.3
+     }
+    ],
+    "best_bench": {
+     "name": "Jordan Love",
+     "pts": 19.48
+    },
+    "worst_start": {
+     "name": "Michael Mayer",
+     "pts": 6.2
+    }
+   },
+   "loser": {
+    "manager": "RebuildingRUs",
+    "team": "Guranteed 1.01",
+    "points": 107.12,
+    "optimal": 120.52,
+    "left_on_bench": 13.4,
+    "timeline": [
+     25.92,
+     47.02,
+     72.52,
+     107.12,
+     107.12,
+     107.12
+    ],
+    "by_pos": {
+     "QB": 30.92,
+     "RB": 23.9,
+     "TE": 20.0,
+     "WR": 32.3
+    },
+    "top": [
+     {
+      "name": "Brock Purdy",
+      "pos": "QB",
+      "pts": 21.1
+     },
+     {
+      "name": "Trey McBride",
+      "pos": "TE",
+      "pts": 20.0
+     },
+     {
+      "name": "DJ Moore",
+      "pos": "WR",
+      "pts": 18.5
+     }
+    ],
+    "best_bench": {
+     "name": "Evan Engram",
+     "pts": 12.3
+    },
+    "worst_start": {
+     "name": "Quentin Johnston",
+     "pts": 2.7
+    }
+   },
+   "margin": 90.34,
+   "h2h_before": [
+    6,
+    1
+   ]
+  },
+  {
+   "winner": {
+    "manager": "thecreamer",
+    "team": null,
+    "points": 163.1,
+    "optimal": 175.1,
+    "left_on_bench": 12.0,
+    "timeline": [
+     0.0,
+     0.0,
+     109.3,
+     141.4,
+     163.1,
+     163.1
+    ],
+    "by_pos": {
+     "QB": 23.2,
+     "RB": 84.1,
+     "TE": 0.0,
+     "WR": 55.8
+    },
+    "top": [
+     {
+      "name": "Derrick Henry",
+      "pos": "RB",
+      "pts": 34.8
+     },
+     {
+      "name": "Christian Watson",
+      "pos": "WR",
+      "pts": 29.7
+     },
+     {
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "pts": 23.7
+     }
+    ],
+    "best_bench": {
+     "name": "Kirk Cousins",
+     "pts": 13.8
+    },
+    "worst_start": {
+     "name": "Charlie Kolar",
+     "pts": 0.0
+    }
+   },
+   "loser": {
+    "manager": "DMsourbeer",
+    "team": "DM sourbeer",
+    "points": 59.96,
+    "optimal": 111.48,
+    "left_on_bench": 51.52,
+    "timeline": [
+     0.52,
+     0.52,
+     40.96,
+     40.96,
+     56.66,
+     59.96
+    ],
+    "by_pos": {
+     "QB": 9.56,
+     "RB": 39.3,
+     "TE": 1.6,
+     "WR": 9.5
+    },
+    "top": [
+     {
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "pts": 16.8
+     },
+     {
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "pts": 14.1
+     },
+     {
+      "name": "Daniel Jones",
+      "pos": "QB",
+      "pts": 9.04
+     }
+    ],
+    "best_bench": {
+     "name": "Bryce Young",
+     "pts": 31.44
+    },
+    "worst_start": {
+     "name": "Jordan Addison",
+     "pts": 0.0
+    }
+   },
+   "margin": 103.14,
+   "h2h_before": [
+    6,
+    0
+   ]
+  }
+ ],
+ "facts": {
+  "closest": {
+   "winner": {
+    "manager": "TuanonStan",
+    "team": "Tuanon",
+    "points": 111.9,
+    "optimal": 128.78,
+    "left_on_bench": 16.88,
+    "timeline": [
+     0.0,
+     15.4,
+     48.0,
+     103.0,
+     103.0,
+     111.9
+    ],
+    "by_pos": {
+     "QB": 20.8,
+     "RB": 49.6,
+     "TE": 12.9,
+     "WR": 28.6
+    },
+    "top": [
+     {
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "pts": 29.7
+     },
+     {
+      "name": "Malik Willis",
+      "pos": "QB",
+      "pts": 16.7
+     },
+     {
+      "name": "Juwan Johnson",
+      "pos": "TE",
+      "pts": 12.9
+     }
+    ],
+    "best_bench": {
+     "name": "Jacoby Brissett",
+     "pts": 16.48
+    },
+    "worst_start": {
+     "name": "Matthew Stafford",
+     "pts": 4.1
+    }
+   },
+   "loser": {
+    "manager": "brettmn13",
+    "team": "Madriguera",
+    "points": 82.1,
+    "optimal": 104.4,
+    "left_on_bench": 22.3,
+    "timeline": [
+     0.0,
+     9.9,
+     54.5,
+     81.4,
+     81.4,
+     82.1
+    ],
+    "by_pos": {
+     "QB": 25.8,
+     "RB": 30.9,
+     "TE": 8.0,
+     "WR": 17.4
+    },
+    "top": [
+     {
+      "name": "Breece Hall",
+      "pos": "RB",
+      "pts": 18.8
+     },
+     {
+      "name": "Joe Burrow",
+      "pos": "QB",
+      "pts": 14.16
+     },
+     {
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "pts": 12.1
+     }
+    ],
+    "best_bench": {
+     "name": "Jakobi Meyers",
+     "pts": 11.2
+    },
+    "worst_start": {
+     "name": "Colston Loveland",
+     "pts": 0.0
+    }
+   },
+   "margin": 29.8,
+   "h2h_before": [
+    6,
+    6
+   ]
+  },
+  "blowout": {
+   "winner": {
+    "manager": "thecreamer",
+    "team": null,
+    "points": 163.1,
+    "optimal": 175.1,
+    "left_on_bench": 12.0,
+    "timeline": [
+     0.0,
+     0.0,
+     109.3,
+     141.4,
+     163.1,
+     163.1
+    ],
+    "by_pos": {
+     "QB": 23.2,
+     "RB": 84.1,
+     "TE": 0.0,
+     "WR": 55.8
+    },
+    "top": [
+     {
+      "name": "Derrick Henry",
+      "pos": "RB",
+      "pts": 34.8
+     },
+     {
+      "name": "Christian Watson",
+      "pos": "WR",
+      "pts": 29.7
+     },
+     {
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "pts": 23.7
+     }
+    ],
+    "best_bench": {
+     "name": "Kirk Cousins",
+     "pts": 13.8
+    },
+    "worst_start": {
+     "name": "Charlie Kolar",
+     "pts": 0.0
+    }
+   },
+   "loser": {
+    "manager": "DMsourbeer",
+    "team": "DM sourbeer",
+    "points": 59.96,
+    "optimal": 111.48,
+    "left_on_bench": 51.52,
+    "timeline": [
+     0.52,
+     0.52,
+     40.96,
+     40.96,
+     56.66,
+     59.96
+    ],
+    "by_pos": {
+     "QB": 9.56,
+     "RB": 39.3,
+     "TE": 1.6,
+     "WR": 9.5
+    },
+    "top": [
+     {
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "pts": 16.8
+     },
+     {
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "pts": 14.1
+     },
+     {
+      "name": "Daniel Jones",
+      "pos": "QB",
+      "pts": 9.04
+     }
+    ],
+    "best_bench": {
+     "name": "Bryce Young",
+     "pts": 31.44
+    },
+    "worst_start": {
+     "name": "Jordan Addison",
+     "pts": 0.0
+    }
+   },
+   "margin": 103.14,
+   "h2h_before": [
+    6,
+    0
+   ]
+  },
+  "high": {
+   "manager": "Jbird531",
+   "points": 197.46
+  },
+  "low": {
+   "manager": "DMsourbeer",
+   "points": 59.96
+  },
+  "top_player": {
+   "manager": "Colt45Johnson",
+   "name": "Caleb Williams",
+   "pos": "QB",
+   "pts": 37.26
+  },
+  "bench_regret": {
+   "manager": "DMsourbeer",
+   "points": 51.52,
+   "best_bench": {
+    "name": "Bryce Young",
+    "pts": 31.44
+   }
+  }
+ },
+ "standings": [
+  {
+   "manager": "Jbird531",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "pf": 197.46
+  },
+  {
+   "manager": "Colt45Johnson",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "pf": 176.36
+  },
+  {
+   "manager": "thecreamer",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "pf": 163.1
+  },
+  {
+   "manager": "butterygoop",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "pf": 140.98
+  },
+  {
+   "manager": "TuanonStan",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "pf": 111.9
+  },
+  {
+   "manager": "triccster",
+   "w": 1,
+   "l": 0,
+   "t": 0,
+   "pf": 111.5
+  },
+  {
+   "manager": "RebuildingRUs",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "pf": 107.12
+  },
+  {
+   "manager": "Wallner",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "pf": 104.2
+  },
+  {
+   "manager": "TrifectaRich",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "pf": 101.46
+  },
+  {
+   "manager": "brettmn13",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "pf": 82.1
+  },
+  {
+   "manager": "YoungBuck04",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "pf": 60.46
+  },
+  {
+   "manager": "DMsourbeer",
+   "w": 0,
+   "l": 1,
+   "t": 0,
+   "pf": 59.96
+  }
+ ]
+}
