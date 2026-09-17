@@ -3,6 +3,9 @@ import managersData from '$lib/data/managers.json';
 export const leagueID = "1314321039802507264"; // your league ID
 export const leagueName = "FL Evolution"; // your league name
 export const dues = 100; // (optional) used in template constitution page
+// Show the template's projected order for next year's draft. Off for FL Players,
+// where the draft order is drawn at random every season, so a projection means nothing.
+export const showUpcomingDraft = true;
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 

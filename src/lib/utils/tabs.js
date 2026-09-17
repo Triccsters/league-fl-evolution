@@ -123,6 +123,16 @@ export const tabs = [
                 dest: '/players',
             },
             {
+                icon: 'shopping_cart',
+                label: 'Waiver Returns',
+                dest: '/waivers',
+            },
+            {
+                icon: 'military_tech',
+                label: 'Hall of Fame',
+                dest: '/hall-of-fame',
+            },
+            {
                 icon: 'military_tech',
                 label: 'Records',
                 dest: '/records',
