@@ -1,0 +1,17 @@
+{
+  "_comment": "Hand-written weekly copy. The build merges this into previews.json and never overwrites it. Game keys are the two manager handles sorted and joined with --.",
+  "2026": {
+    "2": {
+      "league": "Week 1 did not have a single close game in it. The narrowest margin on the board was 29.80, and it got worse from there: four of the six were decided by 39 or more, and Zach Nase beat DMsourbeer by 103.14. Joey put up 197.46 and Colt 176.36 while Zak and DMsourbeer both finished around 60. In a superflex league that usually means somebody's quarterbacks played and somebody's did not.\nWeek 2 sorts some of that out. The two lowest scores in the league play each other, the biggest favorite of the week is an 83.6% line that the all-time record flatly disagrees with, and two separate series have a lopsided history running against the model. Nobody is 0-2 yet and nobody has earned anything at 1-0.",
+      "byline": "Written each week from the league's own numbers.",
+      "games": {
+        "Jbird531--Wallner": "The largest gap of the week at 83.6%, and the one most worth arguing about. Joey opened with 197.46 and has taken three straight in this series, but Wallner still leads it 7-4 across eleven meetings. The model is pricing week 1 and nothing else.\nWallner's 104.2 was not a disaster. It was just a normal week in a week where normal finished eighth.",
+        "RebuildingRUs--TrifectaRich": "TrifectaRich has won five in a row in this series and owns it 6-1, which is the kind of run that usually decides how people feel about a matchup. The model gives RebuildingRUs 56.2% anyway. Both opened 0-1 within six points of each other, so this is two teams in the same hole with very different history behind them.",
+        "TuanonStan--triccster": "As even as it gets on paper: 111.9 against 111.5 in week 1, both 1-0, and a 55.3 to 44.7 line that is barely a line at all. The history is not even. James owns the series 8-3, and the last meeting was a 110.1 to 53.76 beating in week 12 of last season.",
+        "Colt45Johnson--butterygoop": "Anthony owns this series 9-1 across ten meetings. The one Colt won was the most recent one, and he just posted 176.36 to open the season, which is why he is the 53.8% favorite here despite the record. One of those two facts is about to look wrong.",
+        "brettmn13--thecreamer": "Zach Nase opened at 163.1 and Brett at 82.1, a 26-point swing in the model's view of them. The series is closer than that: Zach Nase leads 8-6 over fourteen meetings, and the last one was a consolation-round win in week 17 last year, 140.16 to 91.84. Brett is one good quarterback week from erasing the gap.",
+        "DMsourbeer--YoungBuck04": "The two worst scores in the league, 60.46 and 59.96, drawn against each other in week 2. Somebody is going to be 1-1 by Monday night on a total that would have lost every other game on last week's board.\nThey have met seven times and Zak leads 4-3. The last one came down to 1.66 points."
+      }
+    }
+  }
+}
