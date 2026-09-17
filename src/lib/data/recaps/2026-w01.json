@@ -3,7 +3,7 @@
  "week": 1,
  "slug": "2026-w01",
  "title": "Week 1 recap",
- "generated": "2026-09-17T18:48:28+00:00",
+ "generated": "2026-09-17T19:07:39+00:00",
  "intro": "",
  "video": "",
  "notes": [],
@@ -16,6 +16,71 @@
   "MNF"
  ],
  "median": 109.31,
+ "awards": [
+  {
+   "key": "high",
+   "emoji": "🏆",
+   "name": "Team of the week",
+   "manager": "Jbird531",
+   "value": 197.46,
+   "note": null,
+   "vs": null
+  },
+  {
+   "key": "top_player",
+   "emoji": "🔥",
+   "name": "Player of the week",
+   "manager": "Colt45Johnson",
+   "value": 37.26,
+   "note": "Caleb Williams",
+   "vs": null
+  },
+  {
+   "key": "sharp",
+   "emoji": "🎯",
+   "name": "Best lineup call",
+   "manager": "Jbird531",
+   "value": "93%",
+   "note": "scored 197.46 of a possible 211.66",
+   "vs": null
+  },
+  {
+   "key": "bench",
+   "emoji": "🪑",
+   "name": "Left on the bench",
+   "manager": "DMsourbeer",
+   "value": 51.52,
+   "note": "Bryce Young scored 31.44 on his bench",
+   "vs": null
+  },
+  {
+   "key": "low",
+   "emoji": "💤",
+   "name": "Quietest week",
+   "manager": "DMsourbeer",
+   "value": 59.96,
+   "note": null,
+   "vs": null
+  },
+  {
+   "key": "closest",
+   "emoji": "😬",
+   "name": "Closest game",
+   "manager": "TuanonStan",
+   "value": 29.8,
+   "note": null,
+   "vs": "brettmn13"
+  },
+  {
+   "key": "blowout",
+   "emoji": "💀",
+   "name": "Biggest blowout",
+   "manager": "thecreamer",
+   "value": 103.14,
+   "note": null,
+   "vs": "DMsourbeer"
+  }
+ ],
  "scores": [
   {
    "manager": "Jbird531",
