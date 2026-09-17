@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T19:08:03+00:00",
+ "generated": "2026-09-17T19:11:08+00:00",
  "season": 2026,
  "through_week": 1,
  "sims": 10000,
@@ -52,7 +52,8 @@
     "RebuildingRUs",
     "Wallner",
     "Colt45Johnson"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "Colt45Johnson",
@@ -82,7 +83,8 @@
     "Wallner",
     "butterygoop",
     "Jbird531"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "butterygoop",
@@ -112,7 +114,8 @@
     "TrifectaRich",
     "Colt45Johnson",
     "RebuildingRUs"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "thecreamer",
@@ -142,7 +145,8 @@
     "DMsourbeer",
     "brettmn13",
     "triccster"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "TuanonStan",
@@ -172,7 +176,8 @@
     "brettmn13",
     "triccster",
     "YoungBuck04"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "triccster",
@@ -202,7 +207,8 @@
     "YoungBuck04",
     "TuanonStan",
     "thecreamer"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "brettmn13",
@@ -232,7 +238,8 @@
     "TuanonStan",
     "thecreamer",
     "DMsourbeer"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "RebuildingRUs",
@@ -262,7 +269,8 @@
     "Jbird531",
     "TrifectaRich",
     "butterygoop"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "YoungBuck04",
@@ -292,7 +300,8 @@
     "triccster",
     "DMsourbeer",
     "TuanonStan"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "Wallner",
@@ -322,7 +331,8 @@
     "Colt45Johnson",
     "Jbird531",
     "TrifectaRich"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "DMsourbeer",
@@ -352,7 +362,8 @@
     "thecreamer",
     "YoungBuck04",
     "brettmn13"
-   ]
+   ],
+   "tau": 11.9
   },
   {
    "h": "TrifectaRich",
@@ -382,7 +393,8 @@
     "butterygoop",
     "RebuildingRUs",
     "Wallner"
-   ]
+   ],
+   "tau": 11.9
   }
  ],
  "history": {
@@ -400,5 +412,346 @@
    "DMsourbeer": 18.2,
    "TrifectaRich": 17.7
   }
- }
+ },
+ "schedule": {
+  "2": [
+   [
+    "TuanonStan",
+    "triccster"
+   ],
+   [
+    "Wallner",
+    "Jbird531"
+   ],
+   [
+    "brettmn13",
+    "thecreamer"
+   ],
+   [
+    "TrifectaRich",
+    "RebuildingRUs"
+   ],
+   [
+    "YoungBuck04",
+    "DMsourbeer"
+   ],
+   [
+    "Colt45Johnson",
+    "butterygoop"
+   ]
+  ],
+  "3": [
+   [
+    "TuanonStan",
+    "YoungBuck04"
+   ],
+   [
+    "Wallner",
+    "TrifectaRich"
+   ],
+   [
+    "brettmn13",
+    "DMsourbeer"
+   ],
+   [
+    "Colt45Johnson",
+    "Jbird531"
+   ],
+   [
+    "RebuildingRUs",
+    "butterygoop"
+   ],
+   [
+    "thecreamer",
+    "triccster"
+   ]
+  ],
+  "4": [
+   [
+    "TuanonStan",
+    "DMsourbeer"
+   ],
+   [
+    "Wallner",
+    "RebuildingRUs"
+   ],
+   [
+    "brettmn13",
+    "triccster"
+   ],
+   [
+    "TrifectaRich",
+    "Colt45Johnson"
+   ],
+   [
+    "YoungBuck04",
+    "thecreamer"
+   ],
+   [
+    "butterygoop",
+    "Jbird531"
+   ]
+  ],
+  "5": [
+   [
+    "TuanonStan",
+    "thecreamer"
+   ],
+   [
+    "Wallner",
+    "butterygoop"
+   ],
+   [
+    "brettmn13",
+    "YoungBuck04"
+   ],
+   [
+    "TrifectaRich",
+    "Jbird531"
+   ],
+   [
+    "Colt45Johnson",
+    "RebuildingRUs"
+   ],
+   [
+    "DMsourbeer",
+    "triccster"
+   ]
+  ],
+  "6": [
+   [
+    "TuanonStan",
+    "Jbird531"
+   ],
+   [
+    "Wallner",
+    "triccster"
+   ],
+   [
+    "brettmn13",
+    "RebuildingRUs"
+   ],
+   [
+    "TrifectaRich",
+    "thecreamer"
+   ],
+   [
+    "YoungBuck04",
+    "Colt45Johnson"
+   ],
+   [
+    "DMsourbeer",
+    "butterygoop"
+   ]
+  ],
+  "7": [
+   [
+    "TuanonStan",
+    "RebuildingRUs"
+   ],
+   [
+    "Wallner",
+    "YoungBuck04"
+   ],
+   [
+    "brettmn13",
+    "Jbird531"
+   ],
+   [
+    "TrifectaRich",
+    "DMsourbeer"
+   ],
+   [
+    "Colt45Johnson",
+    "triccster"
+   ],
+   [
+    "thecreamer",
+    "butterygoop"
+   ]
+  ],
+  "8": [
+   [
+    "TuanonStan",
+    "butterygoop"
+   ],
+   [
+    "Wallner",
+    "thecreamer"
+   ],
+   [
+    "brettmn13",
+    "TrifectaRich"
+   ],
+   [
+    "YoungBuck04",
+    "Jbird531"
+   ],
+   [
+    "Colt45Johnson",
+    "DMsourbeer"
+   ],
+   [
+    "RebuildingRUs",
+    "triccster"
+   ]
+  ],
+  "9": [
+   [
+    "TuanonStan",
+    "TrifectaRich"
+   ],
+   [
+    "Wallner",
+    "DMsourbeer"
+   ],
+   [
+    "brettmn13",
+    "butterygoop"
+   ],
+   [
+    "YoungBuck04",
+    "RebuildingRUs"
+   ],
+   [
+    "Colt45Johnson",
+    "thecreamer"
+   ],
+   [
+    "triccster",
+    "Jbird531"
+   ]
+  ],
+  "10": [
+   [
+    "TuanonStan",
+    "Colt45Johnson"
+   ],
+   [
+    "Wallner",
+    "brettmn13"
+   ],
+   [
+    "TrifectaRich",
+    "triccster"
+   ],
+   [
+    "YoungBuck04",
+    "butterygoop"
+   ],
+   [
+    "DMsourbeer",
+    "Jbird531"
+   ],
+   [
+    "RebuildingRUs",
+    "thecreamer"
+   ]
+  ],
+  "11": [
+   [
+    "TuanonStan",
+    "Wallner"
+   ],
+   [
+    "brettmn13",
+    "Colt45Johnson"
+   ],
+   [
+    "TrifectaRich",
+    "YoungBuck04"
+   ],
+   [
+    "DMsourbeer",
+    "RebuildingRUs"
+   ],
+   [
+    "thecreamer",
+    "Jbird531"
+   ],
+   [
+    "butterygoop",
+    "triccster"
+   ]
+  ],
+  "12": [
+   [
+    "TuanonStan",
+    "brettmn13"
+   ],
+   [
+    "Wallner",
+    "Colt45Johnson"
+   ],
+   [
+    "TrifectaRich",
+    "butterygoop"
+   ],
+   [
+    "YoungBuck04",
+    "triccster"
+   ],
+   [
+    "DMsourbeer",
+    "thecreamer"
+   ],
+   [
+    "RebuildingRUs",
+    "Jbird531"
+   ]
+  ],
+  "13": [
+   [
+    "TuanonStan",
+    "triccster"
+   ],
+   [
+    "Wallner",
+    "Jbird531"
+   ],
+   [
+    "brettmn13",
+    "thecreamer"
+   ],
+   [
+    "TrifectaRich",
+    "RebuildingRUs"
+   ],
+   [
+    "YoungBuck04",
+    "DMsourbeer"
+   ],
+   [
+    "Colt45Johnson",
+    "butterygoop"
+   ]
+  ],
+  "14": [
+   [
+    "TuanonStan",
+    "YoungBuck04"
+   ],
+   [
+    "Wallner",
+    "TrifectaRich"
+   ],
+   [
+    "brettmn13",
+    "DMsourbeer"
+   ],
+   [
+    "Colt45Johnson",
+    "Jbird531"
+   ],
+   [
+    "RebuildingRUs",
+    "butterygoop"
+   ],
+   [
+    "thecreamer",
+    "triccster"
+   ]
+  ]
+ },
+ "bye_teams": 2
 }
