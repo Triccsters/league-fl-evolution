@@ -1,0 +1,9 @@
+{
+  "_readme": "Hand-written prose. The weekly build never touches this file. managers is keyed by site handle, seasons by year. Blank line between paragraphs.",
+  "managers": {
+    "triccster": "Eight seasons in the dynasty and the same shape keeps repeating: build it, peak, fall over. 2019 opened 2-13. 2021 was 12-4. 2024 was the best team he has fielded here, 10-6 with 1,970.7 points, the most he has ever scored in this league.\n\nThen 2025 came in at 4-13. The scoring was not the story. He put up 1,677.6, eighth in a twelve-team league, and finished eleventh. He allowed 2,011.3, which is 334 more than he scored and the widest gap of his time here.\n\nThe roster that came out the other side is not a young one. It averages 26.6 against a league average of 25.9, fourth oldest of twelve, and two players are still there from the 2019 startup. For a team coming off 4-13 in a dynasty league, that is the uncomfortable part."
+  },
+  "seasons": {
+    "2025": "Joey's year, and it was not close. 12-5, and 2,407.4 points, which is 490 more than the next best team in the league. He owned the three highest single scores of the season too, topping out at 168.7 in week 11.\n\nBehind him the middle jammed up. James went 12-5, Colt 11-5 and Zak 11-5, and the three of them finished within 25 points of each other for the whole season.\n\nAt the bottom, T.J. went 4-13 and still outscored three teams that finished above him. TrifectaRich took the season's lowest score, 45.6 in week 9."
+  }
+}
