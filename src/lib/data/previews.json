@@ -1,46 +1,48 @@
 {
- "generated": "2026-09-18T00:55:25+00:00",
+ "generated": "2026-09-22T13:27:00+00:00",
  "season": 2026,
- "week": 2,
+ "week": 3,
  "playoff": false,
  "games": [
   {
-   "a": "Wallner",
-   "b": "Jbird531",
-   "a_win": 16.4,
+   "a": "brettmn13",
+   "b": "DMsourbeer",
+   "a_win": 52.3,
    "rec": {
-    "Wallner": [
+    "brettmn13": [
      0,
-     1
+     2
     ],
-    "Jbird531": [
-     1,
-     0
+    "DMsourbeer": [
+     0,
+     2
     ]
    },
    "avg": {
-    "Wallner": 104.2,
-    "Jbird531": 197.46
+    "brettmn13": 82.35,
+    "DMsourbeer": 81.57
    },
    "last3": {
-    "Wallner": [
-     104.2
+    "brettmn13": [
+     82.1,
+     82.6
     ],
-    "Jbird531": [
-     197.46
+    "DMsourbeer": [
+     59.96,
+     103.18
     ]
    },
    "proj": {
-    "Wallner": 109.03,
-    "Jbird531": 149.41
+    "brettmn13": 104.65,
+    "DMsourbeer": 101.53
    },
    "h2h": {
-    "Wallner": 7,
-    "Jbird531": 4,
-    "games": 11
+    "brettmn13": 4,
+    "DMsourbeer": 1,
+    "games": 5
    },
    "streak": [
-    "Jbird531",
+    "brettmn13",
     3
    ],
    "last": {
@@ -48,103 +50,159 @@
     "week": 5,
     "label": null,
     "score": {
-     "Wallner": 116.64,
-     "Jbird531": 155.56
+     "brettmn13": 144.08,
+     "DMsourbeer": 129.02
     }
    },
    "flags": [
-    "{Jbird531} has won 3 straight in this series",
-    "Upset watch: {Wallner} is the underdog"
-   ],
-   "note": "The largest gap of the week at 83.6%, and the one most worth arguing about. Joey opened with 197.46 and has taken three straight in this series, but Wallner still leads it 7-4 across eleven meetings. The model is pricing week 1 and nothing else.\nWallner's 104.2 was not a disaster. It was just a normal week in a week where normal finished eighth."
+    "{brettmn13} has won 3 straight in this series",
+    "Someone finally gets a win"
+   ]
   },
   {
-   "a": "TrifectaRich",
-   "b": "RebuildingRUs",
-   "a_win": 43.8,
+   "a": "RebuildingRUs",
+   "b": "butterygoop",
+   "a_win": 25.7,
    "rec": {
-    "TrifectaRich": [
-     0,
-     1
-    ],
     "RebuildingRUs": [
      0,
-     1
+     2
+    ],
+    "butterygoop": [
+     2,
+     0
     ]
    },
    "avg": {
-    "TrifectaRich": 101.46,
-    "RebuildingRUs": 107.12
+    "RebuildingRUs": 83.66,
+    "butterygoop": 158.02
    },
    "last3": {
-    "TrifectaRich": [
-     101.46
-    ],
     "RebuildingRUs": [
-     107.12
+     107.12,
+     60.2
+    ],
+    "butterygoop": [
+     140.98,
+     175.06
     ]
    },
    "proj": {
-    "TrifectaRich": 103.68,
-    "RebuildingRUs": 110.1
+    "RebuildingRUs": 98.99,
+    "butterygoop": 133.85
    },
    "h2h": {
-    "TrifectaRich": 6,
     "RebuildingRUs": 1,
-    "games": 7
+    "butterygoop": 5,
+    "games": 6
    },
    "streak": [
-    "TrifectaRich",
-    5
+    "RebuildingRUs",
+    1
    ],
    "last": {
     "season": 2025,
-    "week": 5,
+    "week": 13,
     "label": null,
     "score": {
-     "TrifectaRich": 85.44,
-     "RebuildingRUs": 57.62
+     "RebuildingRUs": 113.68,
+     "butterygoop": 108.54
     }
    },
    "flags": [
-    "{TrifectaRich} has won 5 straight in this series",
-    "{TrifectaRich} owns this series 6-1"
-   ],
-   "note": "TrifectaRich has won five in a row in this series and owns it 6-1, which is the kind of run that usually decides how people feel about a matchup. The model gives RebuildingRUs 56.2% anyway. Both opened 0-1 within six points of each other, so this is two teams in the same hole with very different history behind them."
+    "{butterygoop} owns this series 5-1",
+    "Upset watch: {RebuildingRUs} is the underdog"
+   ]
   },
   {
-   "a": "TuanonStan",
-   "b": "triccster",
-   "a_win": 55.3,
+   "a": "Wallner",
+   "b": "TrifectaRich",
+   "a_win": 52.1,
    "rec": {
-    "TuanonStan": [
-     1,
-     0
+    "Wallner": [
+     0,
+     2
     ],
-    "triccster": [
+    "TrifectaRich": [
      1,
-     0
+     1
     ]
    },
    "avg": {
-    "TuanonStan": 111.9,
-    "triccster": 111.5
+    "Wallner": 103.12,
+    "TrifectaRich": 106.08
    },
    "last3": {
-    "TuanonStan": [
-     111.9
+    "Wallner": [
+     104.2,
+     102.04
     ],
-    "triccster": [
-     111.5
+    "TrifectaRich": [
+     101.46,
+     110.7
     ]
    },
    "proj": {
-    "TuanonStan": 117.71,
-    "triccster": 112.21
+    "Wallner": 105.09,
+    "TrifectaRich": 102.22
    },
    "h2h": {
-    "TuanonStan": 8,
-    "triccster": 3,
+    "Wallner": 7,
+    "TrifectaRich": 3,
+    "games": 10
+   },
+   "streak": [
+    "TrifectaRich",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 16,
+    "label": "Consolation",
+    "score": {
+     "Wallner": 82.16,
+     "TrifectaRich": 130.76
+    }
+   },
+   "flags": [
+    "{Wallner} owns this series 7-3"
+   ]
+  },
+  {
+   "a": "TuanonStan",
+   "b": "YoungBuck04",
+   "a_win": 56.8,
+   "rec": {
+    "TuanonStan": [
+     2,
+     0
+    ],
+    "YoungBuck04": [
+     1,
+     1
+    ]
+   },
+   "avg": {
+    "TuanonStan": 116.48,
+    "YoungBuck04": 82.5
+   },
+   "last3": {
+    "TuanonStan": [
+     111.9,
+     121.06
+    ],
+    "YoungBuck04": [
+     60.46,
+     104.54
+    ]
+   },
+   "proj": {
+    "TuanonStan": 115.27,
+    "YoungBuck04": 106.17
+   },
+   "h2h": {
+    "TuanonStan": 7,
+    "YoungBuck04": 4,
     "games": 11
    },
    "streak": [
@@ -153,55 +211,106 @@
    ],
    "last": {
     "season": 2025,
-    "week": 12,
+    "week": 5,
     "label": null,
     "score": {
-     "TuanonStan": 110.1,
-     "triccster": 53.76
+     "TuanonStan": 144.7,
+     "YoungBuck04": 124.82
     }
    },
-   "flags": [
-    "{TuanonStan} owns this series 8-3"
-   ],
-   "note": "As even as it gets on paper: 111.9 against 111.5 in week 1, both 1-0, and a 55.3 to 44.7 line that is barely a line at all. The history is not even. James owns the series 8-3, and the last meeting was a 110.1 to 53.76 beating in week 12 of last season."
+   "flags": []
   },
   {
    "a": "Colt45Johnson",
-   "b": "butterygoop",
-   "a_win": 53.8,
+   "b": "Jbird531",
+   "a_win": 37.8,
    "rec": {
     "Colt45Johnson": [
      1,
-     0
+     1
     ],
-    "butterygoop": [
-     1,
+    "Jbird531": [
+     2,
      0
     ]
    },
    "avg": {
-    "Colt45Johnson": 176.36,
-    "butterygoop": 140.98
+    "Colt45Johnson": 140.44,
+    "Jbird531": 161.82
    },
    "last3": {
     "Colt45Johnson": [
-     176.36
+     176.36,
+     104.52
     ],
-    "butterygoop": [
-     140.98
+    "Jbird531": [
+     197.46,
+     126.18
     ]
    },
    "proj": {
-    "Colt45Johnson": 133.4,
-    "butterygoop": 129.43
+    "Colt45Johnson": 125.5,
+    "Jbird531": 142.08
    },
    "h2h": {
-    "Colt45Johnson": 1,
-    "butterygoop": 9,
-    "games": 10
+    "Colt45Johnson": 9,
+    "Jbird531": 4,
+    "games": 13
    },
    "streak": [
     "Colt45Johnson",
+    2
+   ],
+   "last": {
+    "season": 2025,
+    "week": 14,
+    "label": null,
+    "score": {
+     "Colt45Johnson": 132.0,
+     "Jbird531": 110.48
+    }
+   },
+   "flags": []
+  },
+  {
+   "a": "thecreamer",
+   "b": "triccster",
+   "a_win": 58.1,
+   "rec": {
+    "thecreamer": [
+     2,
+     0
+    ],
+    "triccster": [
+     1,
+     1
+    ]
+   },
+   "avg": {
+    "thecreamer": 138.19,
+    "triccster": 108.91
+   },
+   "last3": {
+    "thecreamer": [
+     163.1,
+     113.28
+    ],
+    "triccster": [
+     111.5,
+     106.32
+    ]
+   },
+   "proj": {
+    "thecreamer": 119.38,
+    "triccster": 108.4
+   },
+   "h2h": {
+    "thecreamer": 8,
+    "triccster": 4,
+    "games": 12
+   },
+   "streak": [
+    "triccster",
     1
    ],
    "last": {
@@ -209,119 +318,14 @@
     "week": 5,
     "label": null,
     "score": {
-     "Colt45Johnson": 108.9,
-     "butterygoop": 80.96
+     "thecreamer": 90.18,
+     "triccster": 137.04
     }
    },
-   "flags": [
-    "{butterygoop} owns this series 9-1"
-   ],
-   "note": "Anthony owns this series 9-1 across ten meetings. The one Colt won was the most recent one, and he just posted 176.36 to open the season, which is why he is the 53.8% favorite here despite the record. One of those two facts is about to look wrong."
-  },
-  {
-   "a": "brettmn13",
-   "b": "thecreamer",
-   "a_win": 39.1,
-   "rec": {
-    "brettmn13": [
-     0,
-     1
-    ],
-    "thecreamer": [
-     1,
-     0
-    ]
-   },
-   "avg": {
-    "brettmn13": 82.1,
-    "thecreamer": 163.1
-   },
-   "last3": {
-    "brettmn13": [
-     82.1
-    ],
-    "thecreamer": [
-     163.1
-    ]
-   },
-   "proj": {
-    "brettmn13": 112.69,
-    "thecreamer": 124.05
-   },
-   "h2h": {
-    "brettmn13": 6,
-    "thecreamer": 8,
-    "games": 14
-   },
-   "streak": [
-    "thecreamer",
-    1
-   ],
-   "last": {
-    "season": 2025,
-    "week": 17,
-    "label": "Consolation",
-    "score": {
-     "brettmn13": 91.84,
-     "thecreamer": 140.16
-    }
-   },
-   "flags": [],
-   "note": "Zach Nase opened at 163.1 and Brett at 82.1, a 26-point swing in the model's view of them. The series is closer than that: Zach Nase leads 8-6 over fourteen meetings, and the last one was a consolation-round win in week 17 last year, 140.16 to 91.84. Brett is one good quarterback week from erasing the gap."
-  },
-  {
-   "a": "YoungBuck04",
-   "b": "DMsourbeer",
-   "a_win": 55.3,
-   "rec": {
-    "YoungBuck04": [
-     0,
-     1
-    ],
-    "DMsourbeer": [
-     0,
-     1
-    ]
-   },
-   "avg": {
-    "YoungBuck04": 60.46,
-    "DMsourbeer": 59.96
-   },
-   "last3": {
-    "YoungBuck04": [
-     60.46
-    ],
-    "DMsourbeer": [
-     59.96
-    ]
-   },
-   "proj": {
-    "YoungBuck04": 110.2,
-    "DMsourbeer": 104.69
-   },
-   "h2h": {
-    "YoungBuck04": 4,
-    "DMsourbeer": 3,
-    "games": 7
-   },
-   "streak": [
-    "DMsourbeer",
-    1
-   ],
-   "last": {
-    "season": 2025,
-    "week": 14,
-    "label": null,
-    "score": {
-     "YoungBuck04": 80.2,
-     "DMsourbeer": 81.86
-    }
-   },
-   "flags": [],
-   "note": "The two worst scores in the league, 60.46 and 59.96, drawn against each other in week 2. Somebody is going to be 1-1 by Monday night on a total that would have lost every other game on last week's board.\nThey have met seven times and Zak leads 4-3. The last one came down to 1.66 points."
+   "flags": []
   }
  ],
- "league_note": "Week 1 did not have a single close game in it. The narrowest margin on the board was 29.80, and it got worse from there: four of the six were decided by 39 or more, and Zach Nase beat DMsourbeer by 103.14. Joey put up 197.46 and Colt 176.36 while Zak and DMsourbeer both finished around 60. In a superflex league that usually means somebody's quarterbacks played and somebody's did not.\nWeek 2 sorts some of that out. The two lowest scores in the league play each other, the biggest favorite of the week is an 83.6% line that the all-time record flatly disagrees with, and two separate series have a lopsided history running against the model. Nobody is 0-2 yet and nobody has earned anything at 1-0.",
- "byline": "Written each week from the league's own numbers.",
+ "league_note": "",
+ "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small."
 }
