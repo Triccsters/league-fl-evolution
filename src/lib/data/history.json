@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T13:40:27+00:00",
+ "generated": "2026-09-29T12:06:08+00:00",
  "site": {
   "league_name": "FL Evolution",
   "season": 2026,
@@ -7776,6 +7776,72 @@
    104.52,
    "butterygoop",
    175.06,
+   false,
+   null
+  ],
+  [
+   2026,
+   3,
+   "sleeper",
+   "TuanonStan",
+   125.0,
+   "YoungBuck04",
+   105.88,
+   false,
+   null
+  ],
+  [
+   2026,
+   3,
+   "sleeper",
+   "Wallner",
+   89.82,
+   "TrifectaRich",
+   111.18,
+   false,
+   null
+  ],
+  [
+   2026,
+   3,
+   "sleeper",
+   "brettmn13",
+   82.46,
+   "DMsourbeer",
+   93.44,
+   false,
+   null
+  ],
+  [
+   2026,
+   3,
+   "sleeper",
+   "Colt45Johnson",
+   112.14,
+   "Jbird531",
+   130.04,
+   false,
+   null
+  ],
+  [
+   2026,
+   3,
+   "sleeper",
+   "RebuildingRUs",
+   90.34,
+   "butterygoop",
+   161.96,
+   false,
+   null
+  ],
+  [
+   2026,
+   3,
+   "sleeper",
+   "thecreamer",
+   125.5,
+   "triccster",
+   125.68,
    false,
    null
   ]

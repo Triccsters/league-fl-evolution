@@ -1,212 +1,105 @@
 {
- "generated": "2026-09-22T13:40:50+00:00",
+ "generated": "2026-09-29T12:06:26+00:00",
  "season": 2026,
- "week": 3,
+ "week": 4,
  "playoff": false,
  "games": [
   {
-   "a": "brettmn13",
-   "b": "DMsourbeer",
-   "a_win": 52.3,
+   "a": "butterygoop",
+   "b": "Jbird531",
+   "a_win": 47.9,
    "rec": {
-    "brettmn13": [
-     0,
-     2
-    ],
-    "DMsourbeer": [
-     0,
-     2
-    ]
-   },
-   "avg": {
-    "brettmn13": 82.35,
-    "DMsourbeer": 81.57
-   },
-   "last3": {
-    "brettmn13": [
-     82.1,
-     82.6
-    ],
-    "DMsourbeer": [
-     59.96,
-     103.18
-    ]
-   },
-   "proj": {
-    "brettmn13": 104.65,
-    "DMsourbeer": 101.53
-   },
-   "h2h": {
-    "brettmn13": 4,
-    "DMsourbeer": 1,
-    "games": 5
-   },
-   "streak": [
-    "brettmn13",
-    3
-   ],
-   "last": {
-    "season": 2025,
-    "week": 5,
-    "label": null,
-    "score": {
-     "brettmn13": 144.08,
-     "DMsourbeer": 129.02
-    }
-   },
-   "flags": [
-    "{brettmn13} has won 3 straight in this series",
-    "Someone finally gets a win"
-   ],
-   "note": "Both 0-2, both averaging about 82, and the line is 52.3 to 47.7 for Brett. One of them gets a first win.\nBrett leads the series 4-1 and has won the last three. He left 34.76 on his bench in week 2, including Joe Burrow's 16.18."
-  },
-  {
-   "a": "RebuildingRUs",
-   "b": "butterygoop",
-   "a_win": 25.7,
-   "rec": {
-    "RebuildingRUs": [
-     0,
-     2
-    ],
     "butterygoop": [
-     2,
+     3,
+     0
+    ],
+    "Jbird531": [
+     3,
      0
     ]
    },
    "avg": {
-    "RebuildingRUs": 83.66,
-    "butterygoop": 158.02
+    "butterygoop": 159.33,
+    "Jbird531": 151.23
    },
    "last3": {
-    "RebuildingRUs": [
-     107.12,
-     60.2
-    ],
     "butterygoop": [
      140.98,
-     175.06
+     175.06,
+     161.96
+    ],
+    "Jbird531": [
+     197.46,
+     126.18,
+     130.04
     ]
    },
    "proj": {
-    "RebuildingRUs": 98.99,
-    "butterygoop": 133.85
+    "butterygoop": 137.7,
+    "Jbird531": 140.18
    },
    "h2h": {
-    "RebuildingRUs": 1,
-    "butterygoop": 5,
-    "games": 6
+    "butterygoop": 6,
+    "Jbird531": 8,
+    "games": 14
    },
    "streak": [
-    "RebuildingRUs",
-    1
+    "Jbird531",
+    5
    ],
    "last": {
     "season": 2025,
-    "week": 13,
-    "label": null,
+    "week": 15,
+    "label": "Quarterfinal",
     "score": {
-     "RebuildingRUs": 113.68,
-     "butterygoop": 108.54
+     "butterygoop": 132.5,
+     "Jbird531": 155.12
     }
    },
    "flags": [
-    "{butterygoop} owns this series 5-1",
-    "Upset watch: {RebuildingRUs} is the underdog"
-   ],
-   "note": "The largest line of the week, 74.3% for Anthony, who averages 158.02 to RebuildingRUs's 83.66. Anthony owns the series 5-1.\nThe one loss was the most recent meeting, week 13 last year, 113.68 to 108.54."
-  },
-  {
-   "a": "Wallner",
-   "b": "TrifectaRich",
-   "a_win": 52.1,
-   "rec": {
-    "Wallner": [
-     0,
-     2
-    ],
-    "TrifectaRich": [
-     1,
-     1
-    ]
-   },
-   "avg": {
-    "Wallner": 103.12,
-    "TrifectaRich": 106.08
-   },
-   "last3": {
-    "Wallner": [
-     104.2,
-     102.04
-    ],
-    "TrifectaRich": [
-     101.46,
-     110.7
-    ]
-   },
-   "proj": {
-    "Wallner": 105.09,
-    "TrifectaRich": 102.22
-   },
-   "h2h": {
-    "Wallner": 7,
-    "TrifectaRich": 3,
-    "games": 10
-   },
-   "streak": [
-    "TrifectaRich",
-    1
-   ],
-   "last": {
-    "season": 2025,
-    "week": 16,
-    "label": "Consolation",
-    "score": {
-     "Wallner": 82.16,
-     "TrifectaRich": 130.76
-    }
-   },
-   "flags": [
-    "{Wallner} owns this series 7-3"
-   ],
-   "note": "Wallner is 0-2 and still a 52.1% favorite, on 103.12 a game to TrifectaRich's 106.08. That is last season talking: TrifectaRich scored the fewest points in the league in 2025.\nWallner leads the series 7-3. TrifectaRich won the last one, a consolation game in December, 130.76 to 82.16."
+    "{Jbird531} has won 5 straight in this series",
+    "Playoff rematch: {butterygoop} lost the 2025 quarterfinal",
+    "Battle of the unbeatens"
+   ]
   },
   {
    "a": "TuanonStan",
-   "b": "YoungBuck04",
-   "a_win": 56.8,
+   "b": "DMsourbeer",
+   "a_win": 63.5,
    "rec": {
     "TuanonStan": [
-     2,
+     3,
      0
     ],
-    "YoungBuck04": [
+    "DMsourbeer": [
      1,
-     1
+     2
     ]
    },
    "avg": {
-    "TuanonStan": 116.48,
-    "YoungBuck04": 82.5
+    "TuanonStan": 119.32,
+    "DMsourbeer": 85.53
    },
    "last3": {
     "TuanonStan": [
      111.9,
-     121.06
+     121.06,
+     125.0
     ],
-    "YoungBuck04": [
-     60.46,
-     104.54
+    "DMsourbeer": [
+     59.96,
+     103.18,
+     93.44
     ]
    },
    "proj": {
-    "TuanonStan": 115.27,
-    "YoungBuck04": 106.17
+    "TuanonStan": 116.5,
+    "DMsourbeer": 100.22
    },
    "h2h": {
-    "TuanonStan": 7,
-    "YoungBuck04": 4,
-    "games": 11
+    "TuanonStan": 5,
+    "DMsourbeer": 2,
+    "games": 7
    },
    "streak": [
     "TuanonStan",
@@ -214,124 +107,245 @@
    ],
    "last": {
     "season": 2025,
-    "week": 5,
-    "label": null,
+    "week": 15,
+    "label": "Quarterfinal",
     "score": {
-     "TuanonStan": 144.7,
-     "YoungBuck04": 124.82
+     "TuanonStan": 100.14,
+     "DMsourbeer": 88.96
     }
    },
-   "flags": [],
-   "note": "James is 2-0 and a 56.8% favorite, and leads the series 7-4.\nZak is 1-1 on 165.0 points, the lowest total of any team with a win, and he needed all of a 1.36-point margin to get it."
+   "flags": [
+    "Playoff rematch: {DMsourbeer} lost the 2025 quarterfinal",
+    "{TuanonStan} owns this series 5-2"
+   ]
   },
   {
-   "a": "Colt45Johnson",
-   "b": "Jbird531",
-   "a_win": 37.8,
+   "a": "Wallner",
+   "b": "RebuildingRUs",
+   "a_win": 54.4,
    "rec": {
-    "Colt45Johnson": [
-     1,
-     1
+    "Wallner": [
+     0,
+     3
     ],
-    "Jbird531": [
-     2,
-     0
+    "RebuildingRUs": [
+     0,
+     3
     ]
    },
    "avg": {
-    "Colt45Johnson": 140.44,
-    "Jbird531": 161.82
+    "Wallner": 98.69,
+    "RebuildingRUs": 85.89
    },
    "last3": {
-    "Colt45Johnson": [
-     176.36,
-     104.52
+    "Wallner": [
+     104.2,
+     102.04,
+     89.82
     ],
-    "Jbird531": [
-     197.46,
-     126.18
+    "RebuildingRUs": [
+     107.12,
+     60.2,
+     90.34
     ]
    },
    "proj": {
-    "Colt45Johnson": 125.5,
-    "Jbird531": 142.08
+    "Wallner": 102.76,
+    "RebuildingRUs": 97.61
    },
    "h2h": {
-    "Colt45Johnson": 9,
-    "Jbird531": 4,
-    "games": 13
+    "Wallner": 5,
+    "RebuildingRUs": 1,
+    "games": 6
    },
    "streak": [
-    "Colt45Johnson",
-    2
+    "Wallner",
+    1
    ],
    "last": {
     "season": 2025,
     "week": 14,
     "label": null,
     "score": {
-     "Colt45Johnson": 132.0,
-     "Jbird531": 110.48
+     "Wallner": 119.0,
+     "RebuildingRUs": 67.6
     }
    },
-   "flags": [],
-   "note": "Joey is 2-0 with 323.64, the most points in the league, and the model has him at 62.2%.\nColt leads this series 9-4 and has won the last two. His week 2 was 104.52, and his quarterbacks produced 8.52 between them."
+   "flags": [
+    "{Wallner} owns this series 5-1",
+    "Someone finally gets a win"
+   ]
   },
   {
-   "a": "thecreamer",
+   "a": "brettmn13",
    "b": "triccster",
-   "a_win": 58.1,
+   "a_win": 42.1,
    "rec": {
-    "thecreamer": [
-     2,
-     0
+    "brettmn13": [
+     0,
+     3
     ],
     "triccster": [
-     1,
+     2,
      1
     ]
    },
    "avg": {
-    "thecreamer": 138.19,
-    "triccster": 108.91
+    "brettmn13": 82.39,
+    "triccster": 114.5
    },
    "last3": {
-    "thecreamer": [
-     163.1,
-     113.28
+    "brettmn13": [
+     82.1,
+     82.6,
+     82.46
     ],
     "triccster": [
      111.5,
-     106.32
+     106.32,
+     125.68
     ]
    },
    "proj": {
-    "thecreamer": 119.38,
-    "triccster": 108.4
+    "brettmn13": 101.32,
+    "triccster": 110.72
    },
    "h2h": {
-    "thecreamer": 8,
-    "triccster": 4,
+    "brettmn13": 8,
+    "triccster": 7,
+    "games": 15
+   },
+   "streak": [
+    "brettmn13",
+    3
+   ],
+   "last": {
+    "season": 2025,
+    "week": 16,
+    "label": "Consolation",
+    "score": {
+     "brettmn13": 142.56,
+     "triccster": 119.16
+    }
+   },
+   "flags": [
+    "{brettmn13} has won 3 straight in this series"
+   ]
+  },
+  {
+   "a": "TrifectaRich",
+   "b": "Colt45Johnson",
+   "a_win": 33.5,
+   "rec": {
+    "TrifectaRich": [
+     2,
+     1
+    ],
+    "Colt45Johnson": [
+     1,
+     2
+    ]
+   },
+   "avg": {
+    "TrifectaRich": 107.78,
+    "Colt45Johnson": 131.01
+   },
+   "last3": {
+    "TrifectaRich": [
+     101.46,
+     110.7,
+     111.18
+    ],
+    "Colt45Johnson": [
+     176.36,
+     104.52,
+     112.14
+    ]
+   },
+   "proj": {
+    "TrifectaRich": 103.37,
+    "Colt45Johnson": 123.43
+   },
+   "h2h": {
+    "TrifectaRich": 9,
+    "Colt45Johnson": 3,
     "games": 12
    },
    "streak": [
-    "triccster",
+    "Colt45Johnson",
     1
    ],
    "last": {
     "season": 2025,
-    "week": 5,
+    "week": 12,
     "label": null,
     "score": {
-     "thecreamer": 90.18,
-     "triccster": 137.04
+     "TrifectaRich": 84.82,
+     "Colt45Johnson": 101.42
     }
    },
-   "flags": [],
-   "note": "Zach Nase is 2-0 and a 58.1% favorite on 138.19 a game. T.J. lost last week with 106.32, above the league median.\nZach Nase leads the series 8-4. T.J. won the last one, 137.04 to 90.18 in week 5 of last season."
+   "flags": [
+    "{TrifectaRich} owns this series 9-3"
+   ]
+  },
+  {
+   "a": "YoungBuck04",
+   "b": "thecreamer",
+   "a_win": 38.2,
+   "rec": {
+    "YoungBuck04": [
+     1,
+     2
+    ],
+    "thecreamer": [
+     2,
+     1
+    ]
+   },
+   "avg": {
+    "YoungBuck04": 90.29,
+    "thecreamer": 133.96
+   },
+   "last3": {
+    "YoungBuck04": [
+     60.46,
+     104.54,
+     105.88
+    ],
+    "thecreamer": [
+     163.1,
+     113.28,
+     125.5
+    ]
+   },
+   "proj": {
+    "YoungBuck04": 105.97,
+    "thecreamer": 120.11
+   },
+   "h2h": {
+    "YoungBuck04": 8,
+    "thecreamer": 4,
+    "games": 12
+   },
+   "streak": [
+    "YoungBuck04",
+    4
+   ],
+   "last": {
+    "season": 2025,
+    "week": 13,
+    "label": null,
+    "score": {
+     "YoungBuck04": 103.84,
+     "thecreamer": 102.72
+    }
+   },
+   "flags": [
+    "{YoungBuck04} has won 4 straight in this series"
+   ]
   }
  ],
- "league_note": "The league has split cleanly after two weeks: four teams at 2-0, four at 0-2, and four at 1-1. Joey at 96.5% and Anthony at 93.9% are already priced close to playoff locks, and in this league the model leans on last season as much as this one.\nWeek 3 puts two of the 0-2 teams against each other, and every 2-0 team draws someone with a loss. The largest line of the week is 74.3%.",
- "byline": "Written each week from the league's own numbers.",
+ "league_note": "",
+ "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small."
 }
