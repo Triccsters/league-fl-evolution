@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T12:06:08+00:00",
+ "generated": "2026-09-30T18:01:53+00:00",
  "site": {
   "league_name": "FL Evolution",
   "season": 2026,
@@ -138,7 +138,7 @@
  ],
  "managers": {
   "Colt45Johnson": {
-   "name": "Colt",
+   "name": "Colt45Johnson",
    "yahoo": null,
    "hidden": false
   },
@@ -148,7 +148,7 @@
    "hidden": false
   },
   "Jbird531": {
-   "name": "Joey",
+   "name": "Jbird531",
    "yahoo": null,
    "hidden": false
   },
@@ -163,7 +163,7 @@
    "hidden": false
   },
   "RockMNwild": {
-   "name": "Austin",
+   "name": "RockMNwild",
    "yahoo": null,
    "hidden": false
   },
@@ -178,12 +178,12 @@
    "hidden": false
   },
   "TuanonStan": {
-   "name": "James",
+   "name": "TuanonStan",
    "yahoo": null,
    "hidden": false
   },
   "Wallner": {
-   "name": "John Wallner",
+   "name": "Wallner",
    "yahoo": null,
    "hidden": false
   },
@@ -193,27 +193,27 @@
    "hidden": false
   },
   "YoungBuck04": {
-   "name": "Zak",
+   "name": "YoungBuck04",
    "yahoo": null,
    "hidden": false
   },
   "brettmn13": {
-   "name": "Brett",
+   "name": "brettmn13",
    "yahoo": null,
    "hidden": false
   },
   "butterygoop": {
-   "name": "Anthony",
+   "name": "butterygoop",
    "yahoo": null,
    "hidden": false
   },
   "thecreamer": {
-   "name": "Zach Nase",
+   "name": "thecreamer",
    "yahoo": null,
    "hidden": false
   },
   "triccster": {
-   "name": "T.J.",
+   "name": "triccster",
    "yahoo": null,
    "hidden": false
   }
