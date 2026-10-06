@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T01:12:59+00:00",
+ "generated": "2026-10-06T12:26:45+00:00",
  "site": {
   "league_name": "FL Evolution",
   "season": 2026,
@@ -7842,6 +7842,72 @@
    125.5,
    "triccster",
    125.68,
+   false,
+   null
+  ],
+  [
+   2026,
+   4,
+   "sleeper",
+   "TuanonStan",
+   61.42,
+   "DMsourbeer",
+   91.78,
+   false,
+   null
+  ],
+  [
+   2026,
+   4,
+   "sleeper",
+   "Wallner",
+   124.54,
+   "RebuildingRUs",
+   92.98,
+   false,
+   null
+  ],
+  [
+   2026,
+   4,
+   "sleeper",
+   "brettmn13",
+   91.92,
+   "triccster",
+   152.86,
+   false,
+   null
+  ],
+  [
+   2026,
+   4,
+   "sleeper",
+   "TrifectaRich",
+   112.36,
+   "Colt45Johnson",
+   99.36,
+   false,
+   null
+  ],
+  [
+   2026,
+   4,
+   "sleeper",
+   "YoungBuck04",
+   135.06,
+   "thecreamer",
+   121.54,
+   false,
+   null
+  ],
+  [
+   2026,
+   4,
+   "sleeper",
+   "butterygoop",
+   152.9,
+   "Jbird531",
+   195.4,
    false,
    null
   ]
