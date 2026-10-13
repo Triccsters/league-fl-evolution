@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T12:26:45+00:00",
+ "generated": "2026-10-13T12:29:52+00:00",
  "site": {
   "league_name": "FL Evolution",
   "season": 2026,
@@ -113,10 +113,10 @@
   "2026": {
    "TuanonStan": "Tuanon",
    "Wallner": "Wallner",
-   "brettmn13": "Madriguera",
+   "brettmn13": "I ❤️ An L",
    "TrifectaRich": "TrifectaRich",
    "YoungBuck04": "Screw Them RB’s",
-   "Colt45Johnson": "Rippin Darts",
+   "Colt45Johnson": "Not so guarenteed 1.01",
    "DMsourbeer": "DM sourbeer",
    "RebuildingRUs": "Guranteed 1.01",
    "thecreamer": "thecreamer",
@@ -7908,6 +7908,72 @@
    152.9,
    "Jbird531",
    195.4,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "TuanonStan",
+   132.7,
+   "thecreamer",
+   102.46,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "Wallner",
+   93.36,
+   "butterygoop",
+   163.9,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "brettmn13",
+   73.4,
+   "YoungBuck04",
+   102.78,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "TrifectaRich",
+   91.58,
+   "Jbird531",
+   136.92,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "Colt45Johnson",
+   103.08,
+   "RebuildingRUs",
+   106.82,
+   false,
+   null
+  ],
+  [
+   2026,
+   5,
+   "sleeper",
+   "DMsourbeer",
+   81.08,
+   "triccster",
+   144.0,
    false,
    null
   ]
