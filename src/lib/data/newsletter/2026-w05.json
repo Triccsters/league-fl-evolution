@@ -1,0 +1,318 @@
+{
+ "slug": "2026-w05",
+ "masthead": "The Evolution Ledger",
+ "tagline": "The FL Evolution weekly. Dynasty, superflex, and the receipts.",
+ "headline": "Jbird531 Stays Perfect, the Two-Time Champ Starts Selling",
+ "dek": "A 5-0 start, three first-round picks for Puka Nacua, and brettmn13 at 0-5 for the second time on record.",
+ "lead": "Five weeks in, Jbird531 is the only unbeaten team left, above the median every week. His last 5-0 start, in 2024, ended in a lost final. Every 5-0 team in this league's history has made the playoffs, six of six.\n\nThe move of the year so far landed in week 4: triccster sent three future first-round picks and Malachi Fields to brettmn13 for Puka Nacua and DeVonta Smith. Nacua has started both weeks since and scored 52.4, and triccster has won three straight. brettmn13, the champion in 2023 and 2024, is 0-5 with the fewest points in the league.",
+ "managers": [
+  {
+   "handle": "Jbird531",
+   "arc": "Unbeaten",
+   "mood": "up",
+   "text": "5-0, above the median in all five weeks, with two scores over 195 (197.46 in week 1 and 195.40 in week 4). Week 5 was a 136.92 to 91.58 win over TrifectaRich behind Josh Allen (30.5) and Trevor Lawrence (21.74), with Jordan Love scoring 25.28 on the bench. He has faced the toughest schedule of anyone in the top four and still has the best title odds in the league.",
+   "next": "Week 6: TuanonStan, a rematch of the 2025 final that Jbird531 won 144.10 to 84.68. Jbird531 is a 76.7% favorite.",
+   "odds": {
+    "playoff": 100.0,
+    "bye": 94.2,
+    "title": 41.4,
+    "proj_w": 12.1,
+    "sos_rest_rank": 11,
+    "teams": 12
+   },
+   "next_opp": "TuanonStan"
+  },
+  {
+   "handle": "butterygoop",
+   "arc": "The points leader",
+   "mood": "up",
+   "text": "4-1 with the most points in the league, and the only loss came to the only unbeaten team, 195.40 to 152.90. Week 5 was a 163.90 to 93.36 win over Wallner, the biggest margin of the week, behind Jahmyr Gibbs (35.2) and Jaylen Warren (33.8), with 35.80 left on the bench. He has started 4-1 five times before and won the title in three of them (2019, 2020, 2021).",
+   "next": "Week 6: DMsourbeer, who beat him in last year's fifth-place game. butterygoop is an 83.5% favorite.",
+   "odds": {
+    "playoff": 99.6,
+    "bye": 81.1,
+    "title": 35.7,
+    "proj_w": 10.9,
+    "sos_rest_rank": 12,
+    "teams": 12
+   },
+   "next_opp": "DMsourbeer"
+  },
+  {
+   "handle": "triccster",
+   "arc": "Bought the receiver",
+   "mood": "up",
+   "text": "4-1 for the first time in this league; his best start through five weeks had been 3-2, in 2021. Three straight wins, above the median every week, and 144.00 in a 62.92-point win over DMsourbeer behind Jayden Daniels (32.26), Puka Nacua (29.2) and Jared Goff (28.94). The price for Nacua was three first-round picks, so the window is now. One thing hasn't changed: he is 0-7 all time against butterygoop.",
+   "next": "Week 6: Wallner, who leads the series 5-4. triccster is a 62.7% favorite.",
+   "odds": {
+    "playoff": 89.3,
+    "bye": 12.5,
+    "title": 7.1,
+    "proj_w": 8.7,
+    "sos_rest_rank": 1,
+    "teams": 12
+   },
+   "next_opp": "Wallner"
+  },
+  {
+   "handle": "TuanonStan",
+   "arc": "Reloaded",
+   "mood": "up",
+   "text": "4-1 with a roster rebuilt before the season: Christian McCaffrey, Garrett Wilson and Jacoby Brissett came from Jbird531 for his 2026 first-round pick, Tetairoa McMillan and Brashard Smith. McCaffrey and Wilson have started every week. Week 5 was a 132.70 to 102.46 win over thecreamer with Matthew Stafford (27.32) and Brissett (24.78) at quarterback. His two previous 4-1 starts ended in a title (2022) and a lost final (2023).",
+   "next": "Week 6: Jbird531, in a rematch of last year's final. TuanonStan is at 23.3%.",
+   "odds": {
+    "playoff": 80.4,
+    "bye": 7.4,
+    "title": 4.1,
+    "proj_w": 8.3,
+    "sos_rest_rank": 6,
+    "teams": 12
+   },
+   "next_opp": "Jbird531"
+  },
+  {
+   "handle": "TrifectaRich",
+   "arc": "Winning near the line",
+   "mood": "down",
+   "text": "3-2 despite clearing the median only once. The three wins came with 110.70, 111.18 and 112.36. Week 5 was a 45.34-point loss to Jbird531, with Malik Nabers (23.6) the top starter and Blake Corum scoring 14.7 on the bench. His only other 3-2 start, in 2022, missed the playoffs.",
+   "next": "Week 6: thecreamer, who has won the last four meetings. TrifectaRich is at 37.1%.",
+   "odds": {
+    "playoff": 49.0,
+    "bye": 1.3,
+    "title": 1.6,
+    "proj_w": 6.9,
+    "sos_rest_rank": 10,
+    "teams": 12
+   },
+   "next_opp": "thecreamer"
+  },
+  {
+   "handle": "YoungBuck04",
+   "arc": "Two straight",
+   "mood": "up",
+   "text": "Opened with 60.46 in a loss to triccster and is 3-1 since. Week 5 was 102.78 to 73.40 over brettmn13, with George Pickens (23.5) and Ja'Marr Chase (16.7). Above the median only once, which is why the model holds him near a coin flip. His last two 3-2 starts (2024, 2025) both made the playoffs.",
+   "next": "Week 6: Colt45Johnson, who leads the series 6-3. YoungBuck04 is at 41.8%.",
+   "odds": {
+    "playoff": 53.2,
+    "bye": 1.6,
+    "title": 1.8,
+    "proj_w": 7.0,
+    "sos_rest_rank": 4,
+    "teams": 12
+   },
+   "next_opp": "Colt45Johnson"
+  },
+  {
+   "handle": "thecreamer",
+   "arc": "Lost the coin flips",
+   "mood": "down",
+   "text": "2-3 with the fourth-most points and above the median in four of five weeks. The losses: by 0.18 to triccster, 13.52 to YoungBuck04 and 30.24 to TuanonStan. Week 5's starting quarterback, Tyler Shough, scored -0.16. Two finals on his record, no title. The model likes him more than his record, ahead of two 3-2 teams.",
+   "next": "Week 6: TrifectaRich. thecreamer has won four straight in the series and is a 62.9% favorite.",
+   "odds": {
+    "playoff": 60.4,
+    "bye": 1.6,
+    "title": 4.5,
+    "proj_w": 6.8,
+    "sos_rest_rank": 8,
+    "teams": 12
+   },
+   "next_opp": "TrifectaRich"
+  },
+  {
+   "handle": "DMsourbeer",
+   "arc": "Below the line",
+   "mood": "down",
+   "text": "2-3 without clearing the median once; the two wins came with 93.44 and 91.78. Week 5 was a 62.92-point loss to triccster, with Bucky Irving (30.5) and James Cook (22.3) the bright spots. He made the playoffs from 2-3 last year.",
+   "next": "Week 6: butterygoop, whom he beat in last year's fifth-place game. DMsourbeer is at 16.5%.",
+   "odds": {
+    "playoff": 12.8,
+    "bye": 0.0,
+    "title": 0.2,
+    "proj_w": 5.2,
+    "sos_rest_rank": 7,
+    "teams": 12
+   },
+   "next_opp": "butterygoop"
+  },
+  {
+   "handle": "Colt45Johnson",
+   "arc": "Four straight losses",
+   "mood": "down",
+   "text": "Opened with 176.36 and hasn't won since. Week 5 was a 3.74-point loss to RebuildingRUs, the closest game of the week, with 42.66 left on the bench, the most in the league; Tyler Huntley scored 24.04 there. In the lineup, Tee Higgins (3.2) and David Montgomery (1.1) came in about 11 and 9 under their normal. All four of his previous 1-4 starts missed the playoffs.",
+   "next": "Week 6: YoungBuck04. Colt45Johnson leads the series 6-3 and is a 58.2% favorite.",
+   "odds": {
+    "playoff": 33.9,
+    "bye": 0.3,
+    "title": 2.8,
+    "proj_w": 5.7,
+    "sos_rest_rank": 2,
+    "teams": 12
+   },
+   "next_opp": "YoungBuck04"
+  },
+  {
+   "handle": "Wallner",
+   "arc": "Out of character",
+   "mood": "down",
+   "text": "1-4 after a 70.54-point loss to butterygoop. Parker Washington (27.4) and C.J. Stroud (20.94) were the bright spots. He has faced the second-toughest schedule in the league, and a 57-44 career record says this isn't normal. The one previous 1-4 start, last year, missed the playoffs.",
+   "next": "Week 6: triccster. Wallner leads the series 5-4 but is at 37.3%.",
+   "odds": {
+    "playoff": 13.8,
+    "bye": 0.0,
+    "title": 0.5,
+    "proj_w": 4.8,
+    "sos_rest_rank": 9,
+    "teams": 12
+   },
+   "next_opp": "triccster"
+  },
+  {
+   "handle": "RebuildingRUs",
+   "arc": "First win",
+   "mood": "up",
+   "text": "On the board: 106.82 to 103.08 over Colt45Johnson behind Drake Maye's 39.46, with Jameis Winston scoring 25.74 on the bench. Rhamondre Stevenson, from a trade before the season, has started every week. The team name says rebuilding; the schedule so far has been the toughest in the league.",
+   "next": "Week 6: brettmn13, a coin flip at 50.8%.",
+   "odds": {
+    "playoff": 5.9,
+    "bye": 0.0,
+    "title": 0.2,
+    "proj_w": 4.3,
+    "sos_rest_rank": 3,
+    "teams": 12
+   },
+   "next_opp": "brettmn13"
+  },
+  {
+   "handle": "brettmn13",
+   "arc": "Champ to seller",
+   "mood": "down",
+   "text": "The 2023 and 2024 champion is 0-5 with the fewest points in the league and hasn't cleared 92 all year. Then he picked a direction: Puka Nacua and DeVonta Smith went to triccster in week 4 for first-round picks in 2027, 2028 and 2029, plus Malachi Fields. His only other 0-5 start on record, in 2019, missed the playoffs. The picks are the point now.",
+   "next": "Week 6: RebuildingRUs, 49.2%. The loser takes the inside track on last place.",
+   "odds": {
+    "playoff": 1.8,
+    "bye": 0.0,
+    "title": 0.1,
+    "proj_w": 3.2,
+    "sos_rest_rank": 5,
+    "teams": 12
+   },
+   "next_opp": "RebuildingRUs"
+  }
+ ],
+ "moves": {
+  "intro": "One big in-season trade, two big preseason ones still paying out, and a quiet waiver wire.",
+  "items": [
+   {
+    "kind": "trade",
+    "managers": [
+     "triccster",
+     "brettmn13"
+    ],
+    "title": "Three firsts for Puka",
+    "text": "Week 4: triccster sent his 2027, 2028 and 2029 first-round picks and Malachi Fields to brettmn13 for Puka Nacua and DeVonta Smith. Nacua has started both weeks since for 52.4; Smith hasn't scored. Fields has 15.2 for brettmn13, all on the bench.",
+    "verdict": "A win-now trade that is winning now: triccster is 2-0 since. The real grade comes in 2027 draft season."
+   },
+   {
+    "kind": "trade",
+    "managers": [
+     "TuanonStan",
+     "Jbird531"
+    ],
+    "title": "TuanonStan reloads",
+    "text": "Before the season, TuanonStan sent his 2026 first-round pick, Tetairoa McMillan and Brashard Smith to Jbird531 for Christian McCaffrey, Garrett Wilson, Jacoby Brissett and a 2026 fourth. McCaffrey (81.8) and Wilson (70.9) have started every week; McMillan has 61.5 in four starts for Jbird531.",
+    "verdict": "Working for both sides so far: 4-1 and 5-0."
+   },
+   {
+    "kind": "trade",
+    "managers": [
+     "butterygoop",
+     "Jbird531"
+    ],
+    "title": "The champ's tax",
+    "text": "Also before the season, butterygoop sent his 2026 and 2027 first-round picks and Michael Wilson to Jbird531 for Jonathan Taylor and Brian Thomas. Taylor has started every week for 90.9. Wilson has 38.7 in three starts for Jbird531.",
+    "verdict": "Taylor is earning it. Jbird531 was on the other side of both preseason deals and is 5-0 with extra firsts."
+   },
+   {
+    "kind": "pickup",
+    "managers": [
+     "triccster"
+    ],
+    "title": "Two $10 claims",
+    "text": "triccster spent $10 each on Darius Cooper and Dameon Pierce. Cooper scored 14.1 on the bench in his first week.",
+    "verdict": "Depth for a team that just traded away its future."
+   }
+  ]
+ },
+ "trends": [
+  {
+   "title": "Five weeks says a lot here",
+   "text": "In every past season on record, all six 5-0 teams made the playoffs, along with 80% of 4-1 teams and 85% of 3-2 teams. Only 23% of 2-3 teams did, and none of the five 0-5 teams."
+  },
+  {
+   "title": "Scoring is back up",
+   "text": "The league is averaging 114.0 a team through five weeks, the most since 2021 (120.6). Jbird531 owns both scores over 195."
+  },
+  {
+   "title": "Records lie, a little",
+   "text": "thecreamer is fourth in points at 2-3. TrifectaRich is 3-2 after clearing the median once."
+  }
+ ],
+ "history": [
+  {
+   "title": "Week 5, all time",
+   "text": "The highest week 5 score on record is brettmn13's 195.66 against TuanonStan in 2023, which is also the biggest week 5 margin (60.16). This year he scored 73.40."
+  },
+  {
+   "title": "The champions",
+   "text": "butterygoop 2019, 2020 and 2021, TuanonStan 2022, brettmn13 2023 and 2024, Jbird531 2025. Three of the four are in the top four right now; the fourth is 0-5."
+  }
+ ],
+ "ahead": "Game of the week: Jbird531 and TuanonStan, a rematch of the 2025 final. triccster and Wallner meet heading in opposite directions, and brettmn13 and RebuildingRUs play to stay out of last place.",
+ "links": [
+  {
+   "href": "/standings",
+   "label": "Standings, with a median toggle",
+   "why": "Flip between head-to-head and a league-median game and see who moves."
+  },
+  {
+   "href": "/odds",
+   "label": "Playoff odds",
+   "why": "10,000 simulated finishes, updated every week."
+  },
+  {
+   "href": "/what-if",
+   "label": "What if",
+   "why": "Pick winners for the games left and watch the odds re-run."
+  },
+  {
+   "href": "/preview",
+   "label": "Week 6 preview",
+   "why": "Every matchup with win odds and the head-to-head history."
+  },
+  {
+   "href": "/trade-grades",
+   "label": "Trade grades",
+   "why": "Every trade graded by the starting-lineup points each side got."
+  },
+  {
+   "href": "/waivers",
+   "label": "Waiver returns",
+   "why": "Which pickups actually turned into starts."
+  },
+  {
+   "href": "/luck",
+   "label": "Luck meter",
+   "why": "Your record against what it would be if you played everyone every week."
+  },
+  {
+   "href": "/rivalries",
+   "label": "Rivalries",
+   "why": "Every series, game by game."
+  },
+  {
+   "href": "/record-book",
+   "label": "Record book",
+   "why": "The highs, lows and blowouts on record."
+  }
+ ]
+}
