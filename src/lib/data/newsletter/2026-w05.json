@@ -445,6 +445,13 @@
   }
  ],
  "ahead": "Game of the week: Jbird531 and TuanonStan, a rematch of the 2025 final. triccster and Wallner meet heading in opposite directions, and brettmn13 and RebuildingRUs play to stay out of last place.",
+ "gotw": {
+  "week": 6,
+  "teams": [
+   "Jbird531",
+   "TuanonStan"
+  ]
+ },
  "links": [
   {
    "href": "/trackers",
