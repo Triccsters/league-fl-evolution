@@ -1,108 +1,8 @@
 {
- "read_at": "2026-10-14T01:33+00:00",
+ "read_at": "2026-10-14T13:45+00:00",
  "days": 7,
- "count": 124,
+ "count": 118,
  "items": [
-  {
-   "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
-   "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
-   "date": "2026-10-12",
-   "kind": "news",
-   "teams": [
-    "BAL"
-   ],
-   "named": [
-    {
-     "n": "Tyler Huntley",
-     "p": "QB",
-     "t": "BAL",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Lamar Jackson",
-     "p": "QB",
-     "t": "BAL",
-     "h": "butterygoop"
-    }
-   ],
-   "lead": [
-    "Tyler Huntley"
-   ],
-   "ripple": [
-    {
-     "n": "Matt Hibner",
-     "p": "TE",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Josh Cuevas",
-     "p": "TE",
-     "t": "BAL",
-     "h": "Wallner"
-    },
-    {
-     "n": "Ja'Kobi Lane",
-     "p": "WR",
-     "t": "BAL",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Mark Andrews",
-     "p": "TE",
-     "t": "BAL",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Justice Hill",
-     "p": "RB",
-     "t": "BAL",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Elijah Sarratt",
-     "p": "WR",
-     "t": "BAL",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Derrick Henry",
-     "p": "RB",
-     "t": "BAL",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Zay Flowers",
-     "p": "WR",
-     "t": "BAL",
-     "h": "triccster"
-    },
-    {
-     "n": "Adam Randall",
-     "p": "RB",
-     "t": "BAL",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Rashod Bateman",
-     "p": "WR",
-     "t": "BAL",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "Wallner",
-    "YoungBuck04",
-    "brettmn13",
-    "butterygoop",
-    "thecreamer",
-    "triccster"
-   ],
-   "score": 17.0
-  },
   {
    "headline": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
    "url": "https://www.espn.com/nfl/story/_/id/50167865/judkins-schwesinger-ankles-add-injury-woes-browns",
@@ -154,6 +54,12 @@
      "h": "YoungBuck04"
     },
     {
+     "n": "Jaleel McLaughlin",
+     "p": "RB",
+     "t": "CLE",
+     "h": "YoungBuck04"
+    },
+    {
      "n": "Jerry Jeudy",
      "p": "WR",
      "t": "CLE",
@@ -168,6 +74,12 @@
     {
      "n": "Bub Means",
      "p": "WR",
+     "t": "CLE",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Audric Estime",
+     "p": "RB",
      "t": "CLE",
      "h": "DMsourbeer"
     },
@@ -539,6 +451,12 @@
      "p": "WR",
      "t": "NE",
      "h": "butterygoop"
+    },
+    {
+     "n": "Efton Chism",
+     "p": "WR",
+     "t": "NE",
+     "h": "triccster"
     }
    ],
    "managers": [
@@ -547,7 +465,8 @@
     "TuanonStan",
     "Wallner",
     "YoungBuck04",
-    "butterygoop"
+    "butterygoop",
+    "triccster"
    ],
    "score": 16.0
   },
@@ -868,75 +787,104 @@
    "score": 16.0
   },
   {
-   "headline": "Falcons' Michael Penix Jr. injures rib late in loss to Ravens",
-   "url": "https://www.espn.com/nfl/story/_/id/50164195/falcons-michael-penix-jr-injures-rib-late-loss-ravens",
+   "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
+   "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
    "date": "2026-10-12",
    "kind": "news",
    "teams": [
-    "ATL"
+    "BAL"
    ],
    "named": [
     {
-     "n": "Michael Penix",
+     "n": "Tyler Huntley",
      "p": "QB",
-     "t": "ATL",
-     "h": "RebuildingRUs"
-    }
-   ],
-   "lead": [
-    "Michael Penix"
-   ],
-   "ripple": [
-    {
-     "n": "Jam Miller",
-     "p": "RB",
-     "t": "ATL",
+     "t": "BAL",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Tua Tagovailoa",
+     "n": "Lamar Jackson",
      "p": "QB",
-     "t": "ATL",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Brian Robinson",
-     "p": "RB",
-     "t": "ATL",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Zachariah Branch",
-     "p": "WR",
-     "t": "ATL",
+     "t": "BAL",
      "h": "butterygoop"
-    },
+    }
+   ],
+   "lead": [
+    "Tyler Huntley"
+   ],
+   "ripple": [
     {
-     "n": "Drake London",
-     "p": "WR",
-     "t": "ATL",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Kyle Pitts",
+     "n": "Matt Hibner",
      "p": "TE",
-     "t": "ATL",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Josh Cuevas",
+     "p": "TE",
+     "t": "BAL",
+     "h": "Wallner"
+    },
+    {
+     "n": "Ja'Kobi Lane",
+     "p": "WR",
+     "t": "BAL",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Mark Andrews",
+     "p": "TE",
+     "t": "BAL",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Justice Hill",
+     "p": "RB",
+     "t": "BAL",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Elijah Sarratt",
+     "p": "WR",
+     "t": "BAL",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Derrick Henry",
+     "p": "RB",
+     "t": "BAL",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Zay Flowers",
+     "p": "WR",
+     "t": "BAL",
+     "h": "triccster"
+    },
+    {
+     "n": "Adam Randall",
+     "p": "RB",
+     "t": "BAL",
      "h": "Jbird531"
     },
     {
-     "n": "Bijan Robinson",
-     "p": "RB",
-     "t": "ATL",
+     "n": "Rashod Bateman",
+     "p": "WR",
+     "t": "BAL",
      "h": "Jbird531"
     }
    ],
    "managers": [
     "Colt45Johnson",
+    "DMsourbeer",
     "Jbird531",
-    "RebuildingRUs",
-    "butterygoop"
+    "Wallner",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
+    "thecreamer",
+    "triccster"
    ],
-   "score": 15.5
+   "score": 15.0
   },
   {
    "headline": "Sputtering Jets offense without RB Hall, WR Mitchell vs. Browns",
@@ -1027,6 +975,100 @@
    "score": 15.0
   },
   {
+   "headline": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
+   "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
+   "date": "2026-10-14",
+   "kind": "news",
+   "teams": [
+    "GB",
+    "WAS"
+   ],
+   "named": [
+    {
+     "n": "Jayden Daniels",
+     "p": "QB",
+     "t": "WAS",
+     "h": "triccster"
+    }
+   ],
+   "lead": [
+    "Jayden Daniels"
+   ],
+   "ripple": [
+    {
+     "n": "Marcus Mariota",
+     "p": "QB",
+     "t": "WAS",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Stefon Diggs",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jacory Croskey-Merritt",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Rachaad White",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Van Jefferson",
+     "p": "WR",
+     "t": "WAS",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Chig Okonkwo",
+     "p": "TE",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Antonio Williams",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Treylon Burks",
+     "p": "WR",
+     "t": "WAS",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Terry McLaurin",
+     "p": "WR",
+     "t": "WAS",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Dyami Brown",
+     "p": "WR",
+     "t": "WAS",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "brettmn13",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 14.0
+  },
+  {
    "headline": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
    "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
    "date": "2026-10-13",
@@ -1109,107 +1151,6 @@
     "TuanonStan",
     "YoungBuck04",
     "thecreamer"
-   ],
-   "score": 14.0
-  },
-  {
-   "headline": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
-   "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
-   "date": "2026-10-13",
-   "kind": "news",
-   "teams": [
-    "GB",
-    "WAS"
-   ],
-   "named": [
-    {
-     "n": "Jayden Daniels",
-     "p": "QB",
-     "t": "WAS",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Jayden Daniels"
-   ],
-   "ripple": [
-    {
-     "n": "Marcus Mariota",
-     "p": "QB",
-     "t": "WAS",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Stefon Diggs",
-     "p": "WR",
-     "t": "WAS",
-     "h": "Wallner"
-    },
-    {
-     "n": "Jacory Croskey-Merritt",
-     "p": "RB",
-     "t": "WAS",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Rachaad White",
-     "p": "RB",
-     "t": "WAS",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Van Jefferson",
-     "p": "WR",
-     "t": "WAS",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Jaylin Lane",
-     "p": "WR",
-     "t": "WAS",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Chig Okonkwo",
-     "p": "TE",
-     "t": "WAS",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Antonio Williams",
-     "p": "WR",
-     "t": "WAS",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Treylon Burks",
-     "p": "WR",
-     "t": "WAS",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Terry McLaurin",
-     "p": "WR",
-     "t": "WAS",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Dyami Brown",
-     "p": "WR",
-     "t": "WAS",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "TrifectaRich",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "brettmn13",
-    "thecreamer",
-    "triccster"
    ],
    "score": 14.0
   },
@@ -1311,6 +1252,121 @@
     },
     {
      "n": "Dameon Pierce",
+     "p": "RB",
+     "t": "PHI",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "RebuildingRUs",
+    "Wallner",
+    "butterygoop",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 14.0
+  },
+  {
+   "headline": "Source: Eagles RB Will Shipley has partial tear of plantar fascia",
+   "url": "https://www.espn.com/nfl/story/_/id/50166619/source-eagles-rb-shipley-partial-tear-plantar-fascia",
+   "date": "2026-10-12",
+   "kind": "news",
+   "teams": [
+    "PHI"
+   ],
+   "named": [
+    {
+     "n": "Will Shipley",
+     "p": "RB",
+     "t": "PHI",
+     "h": "Colt45Johnson"
+    }
+   ],
+   "lead": [
+    "Will Shipley"
+   ],
+   "ripple": [
+    {
+     "n": "Johnny Mundt",
+     "p": "TE",
+     "t": "PHI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Dallas Goedert",
+     "p": "TE",
+     "t": "PHI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Eli Stowers",
+     "p": "TE",
+     "t": "PHI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Marquise Brown",
+     "p": "WR",
+     "t": "PHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Dontayvion Wicks",
+     "p": "WR",
+     "t": "PHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Jaydon Blue",
+     "p": "RB",
+     "t": "PHI",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Makai Lemon",
+     "p": "WR",
+     "t": "PHI",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Zach Ertz",
+     "p": "TE",
+     "t": "PHI",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jalen Hurts",
+     "p": "QB",
+     "t": "PHI",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Darius Cooper",
+     "p": "WR",
+     "t": "PHI",
+     "h": "triccster"
+    },
+    {
+     "n": "Saquon Barkley",
+     "p": "RB",
+     "t": "PHI",
+     "h": "triccster"
+    },
+    {
+     "n": "DeVonta Smith",
+     "p": "WR",
+     "t": "PHI",
+     "h": "triccster"
+    },
+    {
+     "n": "Dameon Pierce",
+     "p": "RB",
+     "t": "PHI",
+     "h": "triccster"
+    },
+    {
+     "n": "Tank Bigsby",
      "p": "RB",
      "t": "PHI",
      "h": "triccster"

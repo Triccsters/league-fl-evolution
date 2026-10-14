@@ -175,9 +175,9 @@
       ],
       [
        "@@YoungBuck04",
-       6,
+       8,
        0.0,
-       "$24"
+       "$64"
       ],
       [
        "@@DMsourbeer",
@@ -199,7 +199,7 @@
       ],
       [
        "@@triccster",
-       4,
+       5,
        0.0,
        "$36"
       ]
@@ -503,7 +503,7 @@
       ],
       [
        "@@DMsourbeer",
-       "-",
+       "QB",
        "WR, TE",
        "QB 5 RB 4 WR 11 TE 10"
       ],
@@ -533,7 +533,7 @@
       ],
       [
        "@@YoungBuck04",
-       "-",
+       "WR",
        "TE",
        "QB 8 RB 7 WR 8 TE 11"
       ],
@@ -593,6 +593,12 @@
        "TE"
       ],
       [
+       "@@DMsourbeer",
+       "QB",
+       "@@TuanonStan",
+       "WR"
+      ],
+      [
        "@@RebuildingRUs",
        "QB",
        "@@TuanonStan",
@@ -603,6 +609,12 @@
        "QB",
        "@@thecreamer",
        "RB"
+      ],
+      [
+       "@@YoungBuck04",
+       "WR",
+       "@@brettmn13",
+       "TE"
       ],
       [
        "@@brettmn13",
@@ -645,7 +657,7 @@
        "@@Jbird531",
        "Jordan Love",
        "QB GB",
-       15.3
+       15.2
       ],
       [
        "@@triccster",
@@ -658,6 +670,12 @@
        "Kyler Murray",
        "QB MIN",
        13.8
+      ],
+      [
+       "@@DMsourbeer",
+       "Sam Darnold",
+       "QB SEA",
+       13.7
       ],
       [
        "@@triccster",
@@ -687,7 +705,7 @@
        "@@brettmn13",
        "Colston Loveland",
        "TE CHI",
-       7.3
+       7.2
       ],
       [
        "@@thecreamer",
@@ -706,12 +724,6 @@
        "KC Concepcion",
        "WR CLE",
        6.8
-      ],
-      [
-       "@@butterygoop",
-       "Josh Jacobs",
-       "RB GB",
-       6.7
       ]
      ]
     }
@@ -784,7 +796,7 @@
       [
        9,
        "@@brettmn13",
-       18.9,
+       18.8,
        "Colston Loveland, Alvin Kamara, Kalif Raymond"
       ],
       [
@@ -802,8 +814,8 @@
       [
        12,
        "@@YoungBuck04",
-       16.4,
-       "Khalil Shakir, Mike Gesicki, Justice Hill"
+       17.7,
+       "Khalil Shakir, Kendrick Bourne, Mike Gesicki"
       ]
      ]
     },
@@ -1011,7 +1023,7 @@
        "@@butterygoop",
        2,
        29.0,
-       "Jahmyr Gibbs, Sam LaPorta"
+       "Sam LaPorta, Jahmyr Gibbs"
       ],
       [
        6,
@@ -1025,7 +1037,7 @@
        "@@TuanonStan",
        2,
        21.1,
-       "Malik Washington, Malik Willis"
+       "Malik Willis, Malik Washington"
       ],
       [
        6,
@@ -1039,7 +1051,7 @@
        "@@Jbird531",
        3,
        49.9,
-       "Josh Allen, Trevor Lawrence, Bhayshul Tuten"
+       "Bhayshul Tuten, Josh Allen, Trevor Lawrence"
       ],
       [
        7,
@@ -1053,21 +1065,21 @@
        "@@Wallner",
        2,
        20.4,
-       "Stefon Diggs, Parker Washington"
+       "Parker Washington, Stefon Diggs"
       ],
       [
        8,
        "@@TrifectaRich",
        3,
        34.3,
-       "George Kittle, Malik Nabers, Chris Olave"
+       "Malik Nabers, George Kittle, Chris Olave"
       ],
       [
        8,
        "@@TuanonStan",
        2,
        25.6,
-       "Juwan Johnson, Christian McCaffrey"
+       "Christian McCaffrey, Juwan Johnson"
       ]
      ]
     }
@@ -1115,7 +1127,7 @@
        "@@triccster",
        3,
        5,
-       26.8,
+       26.7,
        "Dynasty power"
       ],
       [
@@ -1129,7 +1141,7 @@
        "@@TuanonStan",
        7,
        7,
-       27.1,
+       27.2,
        "Rebuild"
       ],
       [
@@ -1150,7 +1162,7 @@
        "@@YoungBuck04",
        9,
        8,
-       25.8,
+       26.1,
        "Rebuild"
       ],
       [
@@ -1301,7 +1313,7 @@
        "@@Jbird531",
        4,
        3,
-       "Josh Allen 20.9, Trevor Lawrence 18.1, Jordan Love 15.3"
+       "Josh Allen 20.9, Trevor Lawrence 18.1, Jordan Love 15.2"
       ],
       [
        "@@Wallner",
@@ -1355,7 +1367,7 @@
        "@@YoungBuck04",
        4,
        1,
-       "Dak Prescott 16.0, Justin Herbert 12.9, Anthony Richardson 0.0"
+       "Dak Prescott 15.9, Justin Herbert 12.9, Anthony Richardson 0.0"
       ]
      ]
     },
@@ -1397,14 +1409,7 @@
        "Jaylen Warren",
        27,
        2,
-       11.9
-      ],
-      [
-       "@@triccster",
-       "Joe Mixon",
-       30,
-       3,
-       0.0
+       12.0
       ],
       [
        "@@triccster",
@@ -1460,7 +1465,7 @@
        "D'Andre Swift",
        27,
        5,
-       12.3
+       12.4
       ],
       [
        "@@TuanonStan",
@@ -1475,6 +1480,13 @@
        28,
        6,
        5.6
+      ],
+      [
+       "@@TrifectaRich",
+       "Devin Singletary",
+       29,
+       7,
+       0.7
       ]
      ]
     },
