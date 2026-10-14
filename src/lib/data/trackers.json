@@ -140,27 +140,6 @@
        1.6,
        1,
        "$12"
-      ],
-      [
-       "@@YoungBuck04",
-       "Raheim Sanders",
-       0,
-       0,
-       "$1"
-      ],
-      [
-       "@@DMsourbeer",
-       "Darren Waller",
-       0,
-       0,
-       "-"
-      ],
-      [
-       "@@Colt45Johnson",
-       "Jacob Saylors",
-       0,
-       0,
-       "-"
       ]
      ],
      "race": true
@@ -1046,7 +1025,7 @@
        "@@TuanonStan",
        2,
        21.1,
-       "Malik Willis, Malik Washington"
+       "Malik Washington, Malik Willis"
       ],
       [
        6,
@@ -1060,14 +1039,14 @@
        "@@Jbird531",
        3,
        49.9,
-       "Bhayshul Tuten, Trevor Lawrence, Josh Allen"
+       "Trevor Lawrence, Bhayshul Tuten, Josh Allen"
       ],
       [
        7,
        "@@brettmn13",
        3,
        21.6,
-       "Jacory Croskey-Merritt, Brenton Strange, Jakobi Meyers"
+       "Brenton Strange, Jakobi Meyers, Jacory Croskey-Merritt"
       ],
       [
        7,
@@ -1081,14 +1060,14 @@
        "@@TrifectaRich",
        3,
        34.3,
-       "Malik Nabers, Chris Olave, George Kittle"
+       "Chris Olave, Malik Nabers, George Kittle"
       ],
       [
        8,
        "@@TuanonStan",
        2,
        25.6,
-       "Christian McCaffrey, Juwan Johnson"
+       "Juwan Johnson, Christian McCaffrey"
       ]
      ]
     }
