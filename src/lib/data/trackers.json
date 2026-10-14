@@ -1103,7 +1103,7 @@
        "@@TuanonStan",
        2,
        21.1,
-       "Malik Willis, Malik Washington"
+       "Malik Washington, Malik Willis"
       ],
       [
        6,
@@ -1117,21 +1117,21 @@
        "@@Jbird531",
        3,
        49.9,
-       "Bhayshul Tuten, Trevor Lawrence, Josh Allen"
+       "Bhayshul Tuten, Josh Allen, Trevor Lawrence"
       ],
       [
        7,
        "@@brettmn13",
        3,
        21.6,
-       "Jakobi Meyers, Brenton Strange, Jacory Croskey-Merritt"
+       "Jakobi Meyers, Jacory Croskey-Merritt, Brenton Strange"
       ],
       [
        7,
        "@@Wallner",
        2,
        20.4,
-       "Stefon Diggs, Parker Washington"
+       "Parker Washington, Stefon Diggs"
       ],
       [
        8,
@@ -1686,6 +1686,86 @@
        "WR",
        "@@Wallner",
        12.1
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "league",
+   "title": "Only in this league",
+   "intro": "Trackers built for this league's own quirks.",
+   "cards": [
+    {
+     "id": "names",
+     "title": "Team name history",
+     "note": "Every name a team has gone by: its name at the end of each season on record, plus renames caught by the daily update from October 2026 on. Before shows the last five, newest first.",
+     "cols": [
+      "Team",
+      "Names",
+      "Now",
+      "Before"
+     ],
+     "rows": [
+      [
+       "@@Colt45Johnson",
+       7,
+       "Not so guarenteed 1.01",
+       "Rippin Darts (2025) / Ayahuasca All-Stars (2023) / Gunshot Go Hards (2022) / Give me Moore (2021) / ALSO the Silky Wilsons (2020)"
+      ],
+      [
+       "@@TuanonStan",
+       5,
+       "no team name set",
+       "Tuanon (2023) / 2 Fast Tua Furious (2022) / Perennial Rebuilder (2021) / Please save us (2020) / Playoffs?! (2019)"
+      ],
+      [
+       "@@brettmn13",
+       5,
+       "I ❤️ An L",
+       "Madriguera (2022) / Team Brettmn29 (2021) / Back to back poop champ (2020) / Pillow man ZZZ (2019)"
+      ],
+      [
+       "@@YoungBuck04",
+       4,
+       "no team name set",
+       "Screw Them RB’s (2024) / Chasing Last (2022) / John Waller (2020) / Dirty Birds (2019)"
+      ],
+      [
+       "@@butterygoop",
+       4,
+       "no team name set",
+       "Picken otton with olave (2023) / TopSide Piss King 🤴 👑 (2022) / Rosterbation King 🤴 (2021) / Hot Beaver Trap (2019)"
+      ],
+      [
+       "@@Jbird531",
+       2,
+       "no team name set",
+       "Shot caller (2023) / Big Truss (2019)"
+      ],
+      [
+       "@@Wallner",
+       2,
+       "no team name set",
+       "Dead Man Walking (2020) / The Hunted (2019)"
+      ],
+      [
+       "@@DMsourbeer",
+       1,
+       "no team name set",
+       "DM sourbeer (2022)"
+      ],
+      [
+       "@@RebuildingRUs",
+       1,
+       "no team name set",
+       "Guranteed 1.01 (2022)"
+      ],
+      [
+       "@@triccster",
+       1,
+       "no team name set",
+       "Harold and kumara (2019)"
       ]
      ]
     }
