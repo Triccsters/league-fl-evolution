@@ -1,0 +1,1638 @@
+{
+ "season": 2026,
+ "through_week": 5,
+ "dynasty": true,
+ "projections": "Sleeper",
+ "groups": [
+  {
+   "id": "races",
+   "title": "Season races",
+   "intro": "Who is winning the awards nobody hands out until December.",
+   "cards": [
+    {
+     "id": "hot",
+     "title": "Hot hand",
+     "note": "Points per game over the last three weeks against the season average.",
+     "cols": [
+      "Team",
+      "Last 3",
+      "Season",
+      "Change"
+     ],
+     "rows": [
+      [
+       "@@YoungBuck04",
+       114.6,
+       101.7,
+       12.8
+      ],
+      [
+       "@@triccster",
+       140.8,
+       128.1,
+       12.8
+      ],
+      [
+       "@@RebuildingRUs",
+       96.7,
+       91.5,
+       5.2
+      ],
+      [
+       "@@DMsourbeer",
+       88.8,
+       85.9,
+       2.9
+      ],
+      [
+       "@@butterygoop",
+       159.6,
+       159.0,
+       0.6
+      ],
+      [
+       "@@brettmn13",
+       82.6,
+       82.5,
+       0.1
+      ],
+      [
+       "@@Wallner",
+       102.6,
+       102.8,
+       -0.2
+      ],
+      [
+       "@@TrifectaRich",
+       105.0,
+       105.5,
+       -0.4
+      ],
+      [
+       "@@Jbird531",
+       154.1,
+       157.2,
+       -3.1
+      ],
+      [
+       "@@TuanonStan",
+       106.4,
+       110.4,
+       -4.0
+      ],
+      [
+       "@@thecreamer",
+       116.5,
+       125.2,
+       -8.7
+      ],
+      [
+       "@@Colt45Johnson",
+       104.9,
+       119.1,
+       -14.2
+      ]
+     ]
+    },
+    {
+     "id": "pickup",
+     "title": "Pickup of the year",
+     "note": "Waiver and free-agent adds this season, by points scored in that team's starting lineup since.",
+     "cols": [
+      "Team",
+      "Player",
+      "Started pts",
+      "Starts",
+      "FAAB"
+     ],
+     "rows": [
+      [
+       "@@Wallner",
+       "Devaughn Vele",
+       49.7,
+       5,
+       "-"
+      ],
+      [
+       "@@brettmn13",
+       "Carson Wentz",
+       6.3,
+       1,
+       "$18"
+      ],
+      [
+       "@@thecreamer",
+       "Charlie Kolar",
+       3.6,
+       2,
+       "-"
+      ],
+      [
+       "@@brettmn13",
+       "Dohnte Meyers",
+       2.2,
+       1,
+       "$59"
+      ],
+      [
+       "@@brettmn13",
+       "Kalif Raymond",
+       1.6,
+       1,
+       "$12"
+      ],
+      [
+       "@@YoungBuck04",
+       "Raheim Sanders",
+       0,
+       0,
+       "$1"
+      ],
+      [
+       "@@DMsourbeer",
+       "Darren Waller",
+       0,
+       0,
+       "-"
+      ],
+      [
+       "@@Colt45Johnson",
+       "Jacob Saylors",
+       0,
+       0,
+       "-"
+      ]
+     ],
+     "race": true
+    },
+    {
+     "id": "wire",
+     "title": "Waiver king",
+     "note": "Started points from this season's pickups, team by team.",
+     "cols": [
+      "Team",
+      "Adds",
+      "Started pts",
+      "FAAB spent"
+     ],
+     "rows": [
+      [
+       "@@Wallner",
+       13,
+       49.7,
+       "$20"
+      ],
+      [
+       "@@brettmn13",
+       6,
+       10.1,
+       "$100"
+      ],
+      [
+       "@@thecreamer",
+       2,
+       3.6,
+       "-"
+      ],
+      [
+       "@@YoungBuck04",
+       6,
+       0.0,
+       "$24"
+      ],
+      [
+       "@@DMsourbeer",
+       3,
+       0.0,
+       "-"
+      ],
+      [
+       "@@Colt45Johnson",
+       7,
+       0.0,
+       "-"
+      ],
+      [
+       "@@TrifectaRich",
+       3,
+       0.0,
+       "$30"
+      ],
+      [
+       "@@triccster",
+       4,
+       0.0,
+       "$36"
+      ]
+     ],
+     "race": true
+    },
+    {
+     "id": "gm",
+     "title": "GM of the year",
+     "note": "Points started this season by players brought in by trade or off the wire, not the draft.",
+     "cols": [
+      "Team",
+      "Started pts",
+      "Players used"
+     ],
+     "rows": [
+      [
+       "@@TuanonStan",
+       226.4,
+       5
+      ],
+      [
+       "@@Jbird531",
+       100.2,
+       2
+      ],
+      [
+       "@@butterygoop",
+       90.9,
+       1
+      ],
+      [
+       "@@Colt45Johnson",
+       61.8,
+       1
+      ],
+      [
+       "@@RebuildingRUs",
+       53.3,
+       1
+      ],
+      [
+       "@@brettmn13",
+       52.5,
+       4
+      ],
+      [
+       "@@triccster",
+       52.4,
+       1
+      ],
+      [
+       "@@Wallner",
+       49.7,
+       1
+      ],
+      [
+       "@@thecreamer",
+       3.6,
+       1
+      ]
+     ],
+     "race": true
+    },
+    {
+     "id": "locks",
+     "title": "Locks and long shots",
+     "note": "Playoff chances from 10,000 simulated seasons, and the move since week 1.",
+     "cols": [
+      "Team",
+      "Playoffs",
+      "Status",
+      "Since week 1"
+     ],
+     "rows": [
+      [
+       "@@Jbird531",
+       "100.0%",
+       "Lock",
+       "+1.6"
+      ],
+      [
+       "@@butterygoop",
+       "99.6%",
+       "Lock",
+       "+16.3"
+      ],
+      [
+       "@@triccster",
+       "89.3%",
+       "Likely",
+       "+44.6"
+      ],
+      [
+       "@@TuanonStan",
+       "80.4%",
+       "Likely",
+       "+19.2"
+      ],
+      [
+       "@@thecreamer",
+       "60.4%",
+       "Bubble",
+       -16.1
+      ],
+      [
+       "@@YoungBuck04",
+       "53.2%",
+       "Bubble",
+       "+25.8"
+      ],
+      [
+       "@@TrifectaRich",
+       "49.0%",
+       "Bubble",
+       "+31.3"
+      ],
+      [
+       "@@Colt45Johnson",
+       "33.9%",
+       "Fading",
+       -53.5
+      ],
+      [
+       "@@Wallner",
+       "13.8%",
+       "Fading",
+       -9.8
+      ],
+      [
+       "@@DMsourbeer",
+       "12.8%",
+       "Fading",
+       -5.4
+      ],
+      [
+       "@@RebuildingRUs",
+       "5.9%",
+       "Long shot",
+       -22.4
+      ],
+      [
+       "@@brettmn13",
+       "1.8%",
+       "Long shot",
+       -31.5
+      ]
+     ]
+    },
+    {
+     "id": "records",
+     "title": "Season records so far",
+     "note": "Regular season, this year.",
+     "cols": [
+      "Record",
+      "Team",
+      "Mark",
+      "When"
+     ],
+     "rows": [
+      [
+       "Highest score",
+       "@@Jbird531",
+       197.5,
+       "Week 1"
+      ],
+      [
+       "Lowest score",
+       "@@DMsourbeer",
+       60.0,
+       "Week 1"
+      ],
+      [
+       "Biggest blowout",
+       "@@thecreamer",
+       "by 103.1",
+       "Week 1"
+      ],
+      [
+       "Closest game",
+       "@@triccster",
+       "by 0.18",
+       "Week 3"
+      ],
+      [
+       "Best shootout",
+       "@@butterygoop",
+       "152.9 to 195.4",
+       "Week 4"
+      ]
+     ]
+    },
+    {
+     "id": "beatproj",
+     "title": "Who beats Sleeper's projections",
+     "note": "Points from started players this season against what Sleeper projected for those same players.",
+     "cols": [
+      "Team",
+      "Scored",
+      "Projected",
+      "Over / under"
+     ],
+     "rows": [
+      [
+       "@@Jbird531",
+       786.0,
+       671.6,
+       114.4
+      ],
+      [
+       "@@butterygoop",
+       794.8,
+       707.4,
+       87.4
+      ],
+      [
+       "@@triccster",
+       640.4,
+       553.4,
+       86.9
+      ],
+      [
+       "@@thecreamer",
+       625.9,
+       581.2,
+       44.7
+      ],
+      [
+       "@@Wallner",
+       514.0,
+       495.2,
+       18.8
+      ],
+      [
+       "@@TrifectaRich",
+       527.3,
+       514.1,
+       13.2
+      ],
+      [
+       "@@Colt45Johnson",
+       595.5,
+       599.1,
+       -3.6
+      ],
+      [
+       "@@TuanonStan",
+       552.1,
+       570.4,
+       -18.3
+      ],
+      [
+       "@@YoungBuck04",
+       508.7,
+       547.6,
+       -38.9
+      ],
+      [
+       "@@RebuildingRUs",
+       457.5,
+       514.0,
+       -56.6
+      ],
+      [
+       "@@DMsourbeer",
+       429.4,
+       520.2,
+       -90.8
+      ],
+      [
+       "@@brettmn13",
+       412.5,
+       504.9,
+       -92.5
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "market",
+   "title": "Trade market",
+   "intro": "Where the surplus is, where the holes are, and who should be talking.",
+   "cards": [
+    {
+     "id": "market",
+     "title": "Trade market",
+     "note": "Need: a starting group in the bottom third of the league on rest-of-season projections. Surplus: a bench player close to what the middle team starts at that spot. Over 9 weeks of projections.",
+     "cols": [
+      "Team",
+      "Surplus",
+      "Need",
+      "Starter rank by position"
+     ],
+     "rows": [
+      [
+       "@@Colt45Johnson",
+       "RB",
+       "QB, TE",
+       "QB 9 RB 8 WR 2 TE 9"
+      ],
+      [
+       "@@DMsourbeer",
+       "-",
+       "WR, TE",
+       "QB 5 RB 4 WR 11 TE 10"
+      ],
+      [
+       "@@RebuildingRUs",
+       "QB",
+       "RB, WR",
+       "QB 3 RB 10 WR 9 TE 7"
+      ],
+      [
+       "@@TrifectaRich",
+       "-",
+       "RB",
+       "QB 4 RB 9 WR 7 TE 4"
+      ],
+      [
+       "@@TuanonStan",
+       "WR",
+       "QB",
+       "QB 10 RB 5 WR 6 TE 8"
+      ],
+      [
+       "@@Wallner",
+       "-",
+       "QB, RB, WR",
+       "QB 11 RB 12 WR 10 TE 6"
+      ],
+      [
+       "@@YoungBuck04",
+       "-",
+       "TE",
+       "QB 8 RB 7 WR 8 TE 11"
+      ],
+      [
+       "@@brettmn13",
+       "TE",
+       "RB, WR",
+       "QB 7 RB 11 WR 12 TE 5"
+      ],
+      [
+       "@@thecreamer",
+       "RB",
+       "QB, TE",
+       "QB 12 RB 3 WR 5 TE 12"
+      ],
+      [
+       "@@Jbird531",
+       "QB, WR",
+       "-",
+       "QB 1 RB 2 WR 3 TE 1"
+      ],
+      [
+       "@@butterygoop",
+       "QB, RB, WR, TE",
+       "-",
+       "QB 2 RB 1 WR 4 TE 3"
+      ],
+      [
+       "@@triccster",
+       "QB, WR",
+       "-",
+       "QB 6 RB 6 WR 1 TE 2"
+      ]
+     ]
+    },
+    {
+     "id": "partners",
+     "title": "Natural trade partners",
+     "note": "Pairs where each side has a surplus at the other's weak spot.",
+     "cols": [
+      "Team",
+      "Can send",
+      "Partner",
+      "Can send back"
+     ],
+     "rows": [
+      [
+       "@@Colt45Johnson",
+       "RB",
+       "@@RebuildingRUs",
+       "QB"
+      ],
+      [
+       "@@Colt45Johnson",
+       "RB",
+       "@@brettmn13",
+       "TE"
+      ],
+      [
+       "@@RebuildingRUs",
+       "QB",
+       "@@TuanonStan",
+       "WR"
+      ],
+      [
+       "@@RebuildingRUs",
+       "QB",
+       "@@thecreamer",
+       "RB"
+      ],
+      [
+       "@@brettmn13",
+       "TE",
+       "@@thecreamer",
+       "RB"
+      ]
+     ]
+    },
+    {
+     "id": "sell",
+     "title": "Selling pieces",
+     "note": "Bench players projected close to a starter for most teams. Points are projected per remaining week.",
+     "cols": [
+      "Team",
+      "Player",
+      "Pos",
+      "Proj/wk"
+     ],
+     "rows": [
+      [
+       "@@Jbird531",
+       "Trevor Lawrence",
+       "QB JAX",
+       18.1
+      ],
+      [
+       "@@RebuildingRUs",
+       "Drake Maye",
+       "QB NE",
+       17.7
+      ],
+      [
+       "@@butterygoop",
+       "Jalen Hurts",
+       "QB PHI",
+       16.4
+      ],
+      [
+       "@@Jbird531",
+       "Jordan Love",
+       "QB GB",
+       15.3
+      ],
+      [
+       "@@triccster",
+       "Jayden Daniels",
+       "QB WAS",
+       15.1
+      ],
+      [
+       "@@triccster",
+       "Kyler Murray",
+       "QB MIN",
+       13.8
+      ],
+      [
+       "@@triccster",
+       "DeVonta Smith",
+       "WR PHI",
+       9.9
+      ],
+      [
+       "@@Jbird531",
+       "Ladd McConkey",
+       "WR LAC",
+       8.9
+      ],
+      [
+       "@@Jbird531",
+       "Denzel Boston",
+       "WR CLE",
+       8.2
+      ],
+      [
+       "@@butterygoop",
+       "Woody Marks",
+       "RB HOU",
+       7.7
+      ],
+      [
+       "@@brettmn13",
+       "Colston Loveland",
+       "TE CHI",
+       7.3
+      ],
+      [
+       "@@thecreamer",
+       "Travis Etienne",
+       "RB NO",
+       7.0
+      ],
+      [
+       "@@Colt45Johnson",
+       "Kyle Monangai",
+       "RB CHI",
+       6.8
+      ],
+      [
+       "@@Jbird531",
+       "KC Concepcion",
+       "WR CLE",
+       6.8
+      ],
+      [
+       "@@butterygoop",
+       "Josh Jacobs",
+       "RB GB",
+       6.7
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "depth",
+   "title": "Bench and depth",
+   "intro": "Depth wins the weeks nobody plans for.",
+   "cards": [
+    {
+     "id": "bench",
+     "title": "Best bench",
+     "note": "The three best bench players on rest-of-season projections, per week combined. Depth for byes and injuries.",
+     "cols": [
+      "#",
+      "Team",
+      "Top 3 bench / wk",
+      "Who"
+     ],
+     "rows": [
+      [
+       1,
+       "@@Jbird531",
+       34.6,
+       "Jordan Love, Michael Wilson, Ladd McConkey"
+      ],
+      [
+       2,
+       "@@triccster",
+       31.6,
+       "Kyler Murray, DeVonta Smith, Harold Fannin"
+      ],
+      [
+       3,
+       "@@RebuildingRUs",
+       29.6,
+       "Michael Penix, Jameis Winston, Josh Downs"
+      ],
+      [
+       4,
+       "@@TuanonStan",
+       27.6,
+       "Jacoby Brissett, Deshaun Watson, Pat Freiermuth"
+      ],
+      [
+       5,
+       "@@TrifectaRich",
+       24.1,
+       "Geno Smith, Blake Corum, Keon Coleman"
+      ],
+      [
+       6,
+       "@@DMsourbeer",
+       23.3,
+       "Daniel Jones, Jake Ferguson, Kenyon Sadiq"
+      ],
+      [
+       7,
+       "@@butterygoop",
+       23.3,
+       "Isaiah Likely, Woody Marks, Chris Godwin"
+      ],
+      [
+       8,
+       "@@Colt45Johnson",
+       21.2,
+       "Omarion Hampton, Kyle Monangai, Hunter Henry"
+      ],
+      [
+       9,
+       "@@brettmn13",
+       18.9,
+       "Colston Loveland, Alvin Kamara, Kalif Raymond"
+      ],
+      [
+       10,
+       "@@thecreamer",
+       18.4,
+       "Travis Etienne, MarShawn Lloyd, Caleb Douglas"
+      ],
+      [
+       11,
+       "@@Wallner",
+       18.0,
+       "Aaron Jones, Tre' Harris, Jaylin Noel"
+      ],
+      [
+       12,
+       "@@YoungBuck04",
+       16.4,
+       "Khalil Shakir, Mike Gesicki, Justice Hill"
+      ]
+     ]
+    },
+    {
+     "id": "regret",
+     "title": "Bench regret",
+     "note": "Points left on the bench all season: the best lineup each week on real points, minus the lineup that was started.",
+     "cols": [
+      "Team",
+      "Points left",
+      "Lineup efficiency"
+     ],
+     "rows": [
+      [
+       "@@RebuildingRUs",
+       182.2,
+       "72%"
+      ],
+      [
+       "@@DMsourbeer",
+       164.0,
+       "73%"
+      ],
+      [
+       "@@Colt45Johnson",
+       142.3,
+       "81%"
+      ],
+      [
+       "@@TrifectaRich",
+       123.1,
+       "82%"
+      ],
+      [
+       "@@brettmn13",
+       110.9,
+       "80%"
+      ],
+      [
+       "@@Jbird531",
+       105.3,
+       "88%"
+      ],
+      [
+       "@@TuanonStan",
+       101.2,
+       "84%"
+      ],
+      [
+       "@@butterygoop",
+       89.7,
+       "90%"
+      ],
+      [
+       "@@YoungBuck04",
+       80.8,
+       "85%"
+      ],
+      [
+       "@@Wallner",
+       71.9,
+       "88%"
+      ],
+      [
+       "@@thecreamer",
+       65.8,
+       "90%"
+      ],
+      [
+       "@@triccster",
+       55.0,
+       "92%"
+      ]
+     ]
+    },
+    {
+     "id": "regret_week",
+     "title": "Worst lineup weeks",
+     "note": "The single weeks with the most points sitting on the bench.",
+     "cols": [
+      "Week",
+      "Team",
+      "Points left"
+     ],
+     "rows": [
+      [
+       4,
+       "@@RebuildingRUs",
+       60.3
+      ],
+      [
+       3,
+       "@@DMsourbeer",
+       52.5
+      ],
+      [
+       1,
+       "@@DMsourbeer",
+       51.5
+      ],
+      [
+       2,
+       "@@RebuildingRUs",
+       46.1
+      ],
+      [
+       5,
+       "@@Colt45Johnson",
+       42.7
+      ],
+      [
+       1,
+       "@@Colt45Johnson",
+       41.4
+      ]
+     ]
+    },
+    {
+     "id": "coach",
+     "title": "Coach of the year",
+     "note": "Average lineup efficiency: started points as a share of the best possible lineup each week.",
+     "cols": [
+      "Team",
+      "Efficiency",
+      "Weeks"
+     ],
+     "rows": [
+      [
+       "@@triccster",
+       "91.9%",
+       5
+      ],
+      [
+       "@@thecreamer",
+       "90.4%",
+       5
+      ],
+      [
+       "@@butterygoop",
+       "90.4%",
+       5
+      ],
+      [
+       "@@Wallner",
+       "87.7%",
+       5
+      ],
+      [
+       "@@Jbird531",
+       "87.6%",
+       5
+      ],
+      [
+       "@@YoungBuck04",
+       "85.2%",
+       5
+      ],
+      [
+       "@@TuanonStan",
+       "83.6%",
+       5
+      ],
+      [
+       "@@TrifectaRich",
+       "81.6%",
+       5
+      ],
+      [
+       "@@Colt45Johnson",
+       "81.2%",
+       5
+      ],
+      [
+       "@@brettmn13",
+       "79.8%",
+       5
+      ],
+      [
+       "@@DMsourbeer",
+       "73.2%",
+       5
+      ],
+      [
+       "@@RebuildingRUs",
+       "71.6%",
+       5
+      ]
+     ],
+     "race": true
+    },
+    {
+     "id": "byes",
+     "title": "Bye week danger",
+     "note": "Teams losing two or more of their usual starters to byes in the next four weeks, with those starters' projected points.",
+     "cols": [
+      "Week",
+      "Team",
+      "Starters out",
+      "Proj pts lost",
+      "Who"
+     ],
+     "rows": [
+      [
+       6,
+       "@@butterygoop",
+       2,
+       29.0,
+       "Sam LaPorta, Jahmyr Gibbs"
+      ],
+      [
+       6,
+       "@@thecreamer",
+       2,
+       26.7,
+       "Chase Brown, Amon-Ra St. Brown"
+      ],
+      [
+       6,
+       "@@TuanonStan",
+       2,
+       21.1,
+       "Malik Willis, Malik Washington"
+      ],
+      [
+       6,
+       "@@Colt45Johnson",
+       2,
+       19.8,
+       "Tee Higgins, Jameson Williams"
+      ],
+      [
+       7,
+       "@@Jbird531",
+       3,
+       49.9,
+       "Bhayshul Tuten, Trevor Lawrence, Josh Allen"
+      ],
+      [
+       7,
+       "@@brettmn13",
+       3,
+       21.6,
+       "Jacory Croskey-Merritt, Brenton Strange, Jakobi Meyers"
+      ],
+      [
+       7,
+       "@@Wallner",
+       2,
+       20.4,
+       "Parker Washington, Stefon Diggs"
+      ],
+      [
+       8,
+       "@@TrifectaRich",
+       3,
+       34.3,
+       "Malik Nabers, Chris Olave, George Kittle"
+      ],
+      [
+       8,
+       "@@TuanonStan",
+       2,
+       25.6,
+       "Christian McCaffrey, Juwan Johnson"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dynasty",
+   "title": "Dynasty desk",
+   "intro": "This year, the next three drafts, and the clock on every roster.",
+   "cards": [
+    {
+     "id": "quadrant",
+     "title": "Contender or rebuilder",
+     "note": "This year: rest-of-season projection rank. Future: FantasyPros dynasty roster value rank. Age: average age of rostered QB, RB, WR and TE.",
+     "cols": [
+      "Team",
+      "This year",
+      "Future",
+      "Avg age",
+      "Window"
+     ],
+     "rows": [
+      [
+       "@@Jbird531",
+       1,
+       1,
+       24.5,
+       "Dynasty power"
+      ],
+      [
+       "@@butterygoop",
+       2,
+       2,
+       26.0,
+       "Dynasty power"
+      ],
+      [
+       "@@RebuildingRUs",
+       5,
+       3,
+       25.7,
+       "Dynasty power"
+      ],
+      [
+       "@@triccster",
+       3,
+       5,
+       26.8,
+       "Dynasty power"
+      ],
+      [
+       "@@Colt45Johnson",
+       6,
+       4,
+       25.4,
+       "Dynasty power"
+      ],
+      [
+       "@@TuanonStan",
+       7,
+       7,
+       27.1,
+       "Rebuild"
+      ],
+      [
+       "@@thecreamer",
+       4,
+       10,
+       27,
+       "Win now"
+      ],
+      [
+       "@@DMsourbeer",
+       10,
+       6,
+       25.1,
+       "Built for later"
+      ],
+      [
+       "@@YoungBuck04",
+       9,
+       8,
+       25.8,
+       "Rebuild"
+      ],
+      [
+       "@@TrifectaRich",
+       8,
+       11,
+       25.9,
+       "Rebuild"
+      ],
+      [
+       "@@brettmn13",
+       12,
+       9,
+       27.6,
+       "Rebuild"
+      ],
+      [
+       "@@Wallner",
+       11,
+       12,
+       26.8,
+       "Rebuild"
+      ]
+     ]
+    },
+    {
+     "id": "capital",
+     "title": "Draft capital",
+     "note": "Picks owned for 2027 to 2029, from Sleeper's traded-pick ledger. Sorted with earlier rounds worth more.",
+     "cols": [
+      "Team",
+      "1sts",
+      "2nds",
+      "Total",
+      "By year"
+     ],
+     "rows": [
+      [
+       "@@brettmn13",
+       7,
+       3,
+       16,
+       "27:6 28:5 29:5"
+      ],
+      [
+       "@@Wallner",
+       3,
+       4,
+       15,
+       "27:6 28:5 29:4"
+      ],
+      [
+       "@@Jbird531",
+       4,
+       3,
+       12,
+       "27:4 28:4 29:4"
+      ],
+      [
+       "@@DMsourbeer",
+       3,
+       3,
+       12,
+       "27:4 28:4 29:4"
+      ],
+      [
+       "@@RebuildingRUs",
+       3,
+       3,
+       12,
+       "27:4 28:4 29:4"
+      ],
+      [
+       "@@TrifectaRich",
+       3,
+       3,
+       12,
+       "27:4 28:4 29:4"
+      ],
+      [
+       "@@YoungBuck04",
+       3,
+       3,
+       12,
+       "27:4 28:4 29:4"
+      ],
+      [
+       "@@thecreamer",
+       3,
+       3,
+       12,
+       "27:4 28:4 29:4"
+      ],
+      [
+       "@@TuanonStan",
+       2,
+       3,
+       11,
+       "27:3 28:4 29:4"
+      ],
+      [
+       "@@butterygoop",
+       2,
+       3,
+       11,
+       "27:3 28:4 29:4"
+      ],
+      [
+       "@@Colt45Johnson",
+       3,
+       2,
+       10,
+       "27:3 28:3 29:4"
+      ],
+      [
+       "@@triccster",
+       0,
+       3,
+       9,
+       "27:3 28:3 29:3"
+      ]
+     ]
+    },
+    {
+     "id": "qbroom",
+     "title": "Superflex QB room",
+     "note": "Starting QBs (top 24 on rest-of-season projections) per team. Two is the goal; three is trade capital.",
+     "cols": [
+      "Team",
+      "QBs",
+      "Starters",
+      "Top QBs (proj/wk)"
+     ],
+     "rows": [
+      [
+       "@@TuanonStan",
+       9,
+       3,
+       "Matthew Stafford 15.3, Malik Willis 13.7, Jacoby Brissett 13.1"
+      ],
+      [
+       "@@triccster",
+       4,
+       3,
+       "Jared Goff 16.2, Jayden Daniels 15.1, Kyler Murray 13.8"
+      ],
+      [
+       "@@Jbird531",
+       4,
+       3,
+       "Josh Allen 20.9, Trevor Lawrence 18.1, Jordan Love 15.3"
+      ],
+      [
+       "@@Wallner",
+       7,
+       2,
+       "Bo Nix 14.9, C.J. Stroud 13.9, Jalon Daniels 1.3"
+      ],
+      [
+       "@@RebuildingRUs",
+       7,
+       2,
+       "Brock Purdy 19.0, Drake Maye 17.7, Michael Penix 11.7"
+      ],
+      [
+       "@@thecreamer",
+       6,
+       2,
+       "Tyler Shough 14.3, Kirk Cousins 14.2, J.J. McCarthy 0.0"
+      ],
+      [
+       "@@DMsourbeer",
+       5,
+       2,
+       "Bryce Young 17.7, Sam Darnold 13.7, Daniel Jones 11.0"
+      ],
+      [
+       "@@TrifectaRich",
+       3,
+       2,
+       "Patrick Mahomes 18.4, Cam Ward 13.5, Geno Smith 12.6"
+      ],
+      [
+       "@@butterygoop",
+       3,
+       2,
+       "Lamar Jackson 19.7, Jalen Hurts 16.4, Gardner Minshew 0.0"
+      ],
+      [
+       "@@Colt45Johnson",
+       7,
+       1,
+       "Caleb Williams 15.8, Aaron Rodgers 12.6, Shedeur Sanders 3.9"
+      ],
+      [
+       "@@brettmn13",
+       6,
+       1,
+       "Joe Burrow 16.1, Baker Mayfield 11.0, Case Keenum 0.0"
+      ],
+      [
+       "@@YoungBuck04",
+       4,
+       1,
+       "Dak Prescott 16.0, Justin Herbert 12.9, Anthony Richardson 0.0"
+      ]
+     ]
+    },
+    {
+     "id": "rbage",
+     "title": "RB age watch",
+     "note": "Running backs 27 and older, by their team's power rank. Contenders ride them; everyone else should be shopping them.",
+     "cols": [
+      "Team",
+      "Player",
+      "Age",
+      "Team power",
+      "Proj/wk"
+     ],
+     "rows": [
+      [
+       "@@butterygoop",
+       "Josh Jacobs",
+       28,
+       2,
+       6.7
+      ],
+      [
+       "@@butterygoop",
+       "Jonathan Taylor",
+       27,
+       2,
+       16.6
+      ],
+      [
+       "@@butterygoop",
+       "Jerome Ford",
+       27,
+       2,
+       0.0
+      ],
+      [
+       "@@butterygoop",
+       "Jaylen Warren",
+       27,
+       2,
+       11.9
+      ],
+      [
+       "@@triccster",
+       "Joe Mixon",
+       30,
+       3,
+       0.0
+      ],
+      [
+       "@@triccster",
+       "Saquon Barkley",
+       29,
+       3,
+       11.4
+      ],
+      [
+       "@@triccster",
+       "Najee Harris",
+       28,
+       3,
+       4.1
+      ],
+      [
+       "@@triccster",
+       "Chris Rodriguez",
+       27,
+       3,
+       4.7
+      ],
+      [
+       "@@thecreamer",
+       "Derrick Henry",
+       32,
+       4,
+       14.6
+      ],
+      [
+       "@@thecreamer",
+       "Travis Etienne",
+       27,
+       4,
+       7.0
+      ],
+      [
+       "@@thecreamer",
+       "Malik Davis",
+       27,
+       4,
+       0.0
+      ],
+      [
+       "@@Colt45Johnson",
+       "David Montgomery",
+       29,
+       5,
+       8.9
+      ],
+      [
+       "@@Colt45Johnson",
+       "D'Andre Swift",
+       27,
+       5,
+       12.3
+      ],
+      [
+       "@@TuanonStan",
+       "Christian McCaffrey",
+       30,
+       6,
+       17.5
+      ],
+      [
+       "@@TuanonStan",
+       "Rico Dowdle",
+       28,
+       6,
+       5.6
+      ]
+     ]
+    },
+    {
+     "id": "rookies",
+     "title": "Rookie tracker",
+     "note": "Every rostered rookie, by points this season.",
+     "cols": [
+      "Player",
+      "Pos",
+      "Team",
+      "Pts"
+     ],
+     "rows": [
+      [
+       "Denzel Boston",
+       "WR",
+       "@@Jbird531",
+       61.0
+      ],
+      [
+       "Jeremiyah Love",
+       "RB",
+       "@@TrifectaRich",
+       45.6
+      ],
+      [
+       "Carnell Tate",
+       "WR",
+       "@@triccster",
+       36.9
+      ],
+      [
+       "Kenyon Sadiq",
+       "TE",
+       "@@DMsourbeer",
+       31.9
+      ],
+      [
+       "Antonio Williams",
+       "WR",
+       "@@Colt45Johnson",
+       29.0
+      ],
+      [
+       "Malachi Fields",
+       "WR",
+       "@@brettmn13",
+       25.6
+      ],
+      [
+       "Jalon Daniels",
+       "QB",
+       "@@Wallner",
+       24.2
+      ],
+      [
+       "Ted Hurst",
+       "WR",
+       "@@DMsourbeer",
+       22.8
+      ],
+      [
+       "KC Concepcion",
+       "WR",
+       "@@Jbird531",
+       22.8
+      ],
+      [
+       "Germie Bernard",
+       "WR",
+       "@@TrifectaRich",
+       20.9
+      ],
+      [
+       "Eli Raridon",
+       "TE",
+       "@@YoungBuck04",
+       20.1
+      ],
+      [
+       "Mike Washington",
+       "RB",
+       "@@brettmn13",
+       19.9
+      ],
+      [
+       "Makai Lemon",
+       "WR",
+       "@@RebuildingRUs",
+       17.8
+      ],
+      [
+       "Matt Hibner",
+       "TE",
+       "@@Wallner",
+       15.5
+      ],
+      [
+       "Emmett Johnson",
+       "RB",
+       "@@brettmn13",
+       15.5
+      ],
+      [
+       "Caleb Douglas",
+       "WR",
+       "@@thecreamer",
+       14.8
+      ],
+      [
+       "Kaelon Black",
+       "RB",
+       "@@TuanonStan",
+       14.6
+      ],
+      [
+       "Chris Bell",
+       "WR",
+       "@@RebuildingRUs",
+       14.3
+      ],
+      [
+       "Jonah Coleman",
+       "RB",
+       "@@triccster",
+       13.3
+      ],
+      [
+       "Kevin Coleman",
+       "WR",
+       "@@Wallner",
+       12.1
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
