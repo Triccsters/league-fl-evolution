@@ -20,7 +20,26 @@
     "sos_rest_rank": 11,
     "teams": 12
    },
-   "next_opp": "TuanonStan"
+   "next_opp": "TuanonStan",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 1"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 1"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Who beats Sleeper's projections"
+    }
+   ],
+   "nfl_hits": [
+    1,
+    3,
+    4
+   ]
   },
   {
    "handle": "butterygoop",
@@ -36,7 +55,20 @@
     "sos_rest_rank": 12,
     "teams": 12
    },
-   "next_opp": "DMsourbeer"
+   "next_opp": "DMsourbeer",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 2"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 2"
+    }
+   ],
+   "nfl_hits": [
+    0
+   ]
   },
   {
    "handle": "triccster",
@@ -52,7 +84,24 @@
     "sos_rest_rank": 1,
     "teams": 12
    },
-   "next_opp": "Wallner"
+   "next_opp": "Wallner",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 3"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 5"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Coach of the year"
+    }
+   ],
+   "nfl_hits": [
+    7
+   ]
   },
   {
    "handle": "TuanonStan",
@@ -68,7 +117,22 @@
     "sos_rest_rank": 6,
     "teams": 12
    },
-   "next_opp": "Jbird531"
+   "next_opp": "Jbird531",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 6"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 7"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: GM of the year"
+    }
+   ],
+   "nfl_hits": []
   },
   {
    "handle": "TrifectaRich",
@@ -84,7 +148,20 @@
     "sos_rest_rank": 10,
     "teams": 12
    },
-   "next_opp": "thecreamer"
+   "next_opp": "thecreamer",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 7"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 11"
+    }
+   ],
+   "nfl_hits": [
+    4
+   ]
   },
   {
    "handle": "YoungBuck04",
@@ -100,7 +177,25 @@
     "sos_rest_rank": 4,
     "teams": 12
    },
-   "next_opp": "Colt45Johnson"
+   "next_opp": "Colt45Johnson",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 9"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 8"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Hot hand"
+    }
+   ],
+   "nfl_hits": [
+    1,
+    6
+   ]
   },
   {
    "handle": "thecreamer",
@@ -116,7 +211,20 @@
     "sos_rest_rank": 8,
     "teams": 12
    },
-   "next_opp": "TrifectaRich"
+   "next_opp": "TrifectaRich",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 4"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 10"
+    }
+   ],
+   "nfl_hits": [
+    4
+   ]
   },
   {
    "handle": "DMsourbeer",
@@ -132,7 +240,18 @@
     "sos_rest_rank": 7,
     "teams": 12
    },
-   "next_opp": "butterygoop"
+   "next_opp": "butterygoop",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 11"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 6"
+    }
+   ],
+   "nfl_hits": []
   },
   {
    "handle": "Colt45Johnson",
@@ -148,7 +267,20 @@
     "sos_rest_rank": 2,
     "teams": 12
    },
-   "next_opp": "YoungBuck04"
+   "next_opp": "YoungBuck04",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 5"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 4"
+    }
+   ],
+   "nfl_hits": [
+    0
+   ]
   },
   {
    "handle": "Wallner",
@@ -164,7 +296,24 @@
     "sos_rest_rank": 9,
     "teams": 12
    },
-   "next_opp": "triccster"
+   "next_opp": "triccster",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 10"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 12"
+    },
+    {
+     "k": "lead",
+     "t": "Leads: Pickup of the year"
+    }
+   ],
+   "nfl_hits": [
+    2
+   ]
   },
   {
    "handle": "RebuildingRUs",
@@ -180,7 +329,24 @@
     "sos_rest_rank": 3,
     "teams": 12
    },
-   "next_opp": "brettmn13"
+   "next_opp": "brettmn13",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 8"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 3"
+    },
+    {
+     "k": "lead",
+     "t": "Most points left on the bench"
+    }
+   ],
+   "nfl_hits": [
+    5
+   ]
   },
   {
    "handle": "brettmn13",
@@ -196,7 +362,18 @@
     "sos_rest_rank": 5,
     "teams": 12
    },
-   "next_opp": "RebuildingRUs"
+   "next_opp": "RebuildingRUs",
+   "tags": [
+    {
+     "k": "power",
+     "t": "Power 12"
+    },
+    {
+     "k": "dyn",
+     "t": "Dynasty 9"
+    }
+   ],
+   "nfl_hits": []
   }
  ],
  "moves": {
@@ -270,6 +447,11 @@
  "ahead": "Game of the week: Jbird531 and TuanonStan, a rematch of the 2025 final. triccster and Wallner meet heading in opposite directions, and brettmn13 and RebuildingRUs play to stay out of last place.",
  "links": [
   {
+   "href": "/trackers",
+   "label": "League trackers",
+   "why": "Season races, the trade market, bench depth and bye-week danger."
+  },
+  {
    "href": "/standings",
    "label": "Standings, with a median toggle",
    "why": "Flip between head-to-head and a league-median game and see who moves."
@@ -314,5 +496,1413 @@
    "label": "Record book",
    "why": "The highs, lows and blowouts on record."
   }
- ]
+ ],
+ "power": {
+  "through_week": 5,
+  "dynasty": true,
+  "teams": [
+   {
+    "h": "Jbird531",
+    "rank": 1,
+    "prev": null,
+    "ros_rank": 1,
+    "ppg_rank": 2,
+    "allplay": 0.927,
+    "dyn_rank": 1
+   },
+   {
+    "h": "butterygoop",
+    "rank": 2,
+    "prev": null,
+    "ros_rank": 2,
+    "ppg_rank": 1,
+    "allplay": 0.927,
+    "dyn_rank": 2
+   },
+   {
+    "h": "triccster",
+    "rank": 3,
+    "prev": null,
+    "ros_rank": 3,
+    "ppg_rank": 3,
+    "allplay": 0.727,
+    "dyn_rank": 5
+   },
+   {
+    "h": "thecreamer",
+    "rank": 4,
+    "prev": null,
+    "ros_rank": 4,
+    "ppg_rank": 4,
+    "allplay": 0.636,
+    "dyn_rank": 10
+   },
+   {
+    "h": "Colt45Johnson",
+    "rank": 5,
+    "prev": null,
+    "ros_rank": 6,
+    "ppg_rank": 5,
+    "allplay": 0.545,
+    "dyn_rank": 4
+   },
+   {
+    "h": "TuanonStan",
+    "rank": 6,
+    "prev": null,
+    "ros_rank": 7,
+    "ppg_rank": 6,
+    "allplay": 0.564,
+    "dyn_rank": 7
+   },
+   {
+    "h": "TrifectaRich",
+    "rank": 7,
+    "prev": null,
+    "ros_rank": 8,
+    "ppg_rank": 7,
+    "allplay": 0.4,
+    "dyn_rank": 11
+   },
+   {
+    "h": "RebuildingRUs",
+    "rank": 8,
+    "prev": null,
+    "ros_rank": 5,
+    "ppg_rank": 10,
+    "allplay": 0.309,
+    "dyn_rank": 3
+   },
+   {
+    "h": "YoungBuck04",
+    "rank": 9,
+    "prev": null,
+    "ros_rank": 9,
+    "ppg_rank": 9,
+    "allplay": 0.418,
+    "dyn_rank": 8
+   },
+   {
+    "h": "Wallner",
+    "rank": 10,
+    "prev": null,
+    "ros_rank": 11,
+    "ppg_rank": 8,
+    "allplay": 0.309,
+    "dyn_rank": 12
+   },
+   {
+    "h": "DMsourbeer",
+    "rank": 11,
+    "prev": null,
+    "ros_rank": 10,
+    "ppg_rank": 11,
+    "allplay": 0.145,
+    "dyn_rank": 6
+   },
+   {
+    "h": "brettmn13",
+    "rank": 12,
+    "prev": null,
+    "ros_rank": 12,
+    "ppg_rank": 12,
+    "allplay": 0.091,
+    "dyn_rank": 9
+   }
+  ]
+ },
+ "board": {
+  "review": [
+   {
+    "id": "hot",
+    "title": "Hot hand",
+    "note": "Points per game over the last three weeks against the season average.",
+    "cols": [
+     "Team",
+     "Last 3",
+     "Season",
+     "Change"
+    ],
+    "rows": [
+     [
+      "@@YoungBuck04",
+      114.6,
+      101.7,
+      12.8
+     ],
+     [
+      "@@triccster",
+      140.8,
+      128.1,
+      12.8
+     ],
+     [
+      "@@RebuildingRUs",
+      96.7,
+      91.5,
+      5.2
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "coach",
+    "title": "Coach of the year",
+    "note": "Average lineup efficiency: started points as a share of the best possible lineup each week.",
+    "cols": [
+     "Team",
+     "Efficiency",
+     "Weeks"
+    ],
+    "rows": [
+     [
+      "@@triccster",
+      "91.9%",
+      5
+     ],
+     [
+      "@@thecreamer",
+      "90.4%",
+      5
+     ],
+     [
+      "@@butterygoop",
+      "90.4%",
+      5
+     ]
+    ],
+    "race": true
+   },
+   {
+    "id": "pickup",
+    "title": "Pickup of the year",
+    "note": "Waiver and free-agent adds this season, by points scored in that team's starting lineup since.",
+    "cols": [
+     "Team",
+     "Player",
+     "Started pts",
+     "Starts",
+     "FAAB"
+    ],
+    "rows": [
+     [
+      "@@Wallner",
+      "Devaughn Vele",
+      49.7,
+      5,
+      "-"
+     ],
+     [
+      "@@brettmn13",
+      "Carson Wentz",
+      6.3,
+      1,
+      "$18"
+     ],
+     [
+      "@@thecreamer",
+      "Charlie Kolar",
+      3.6,
+      2,
+      "-"
+     ]
+    ],
+    "race": true
+   },
+   {
+    "id": "gm",
+    "title": "GM of the year",
+    "note": "Points started this season by players brought in by trade or off the wire, not the draft.",
+    "cols": [
+     "Team",
+     "Started pts",
+     "Players used"
+    ],
+    "rows": [
+     [
+      "@@TuanonStan",
+      226.4,
+      5
+     ],
+     [
+      "@@Jbird531",
+      100.2,
+      2
+     ],
+     [
+      "@@butterygoop",
+      90.9,
+      1
+     ]
+    ],
+    "race": true
+   },
+   {
+    "id": "regret",
+    "title": "Bench regret",
+    "note": "Points left on the bench all season: the best lineup each week on real points, minus the lineup that was started.",
+    "cols": [
+     "Team",
+     "Points left",
+     "Lineup efficiency"
+    ],
+    "rows": [
+     [
+      "@@RebuildingRUs",
+      182.2,
+      "72%"
+     ],
+     [
+      "@@DMsourbeer",
+      164.0,
+      "73%"
+     ],
+     [
+      "@@Colt45Johnson",
+      142.3,
+      "81%"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "beatproj",
+    "title": "Who beats Sleeper's projections",
+    "note": "Points from started players this season against what Sleeper projected for those same players.",
+    "cols": [
+     "Team",
+     "Scored",
+     "Projected",
+     "Over / under"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      786.0,
+      671.6,
+      114.4
+     ],
+     [
+      "@@butterygoop",
+      794.8,
+      707.4,
+      87.4
+     ],
+     [
+      "@@triccster",
+      640.4,
+      553.4,
+      86.9
+     ]
+    ],
+    "race": false
+   }
+  ],
+  "ahead": [
+   {
+    "id": "locks",
+    "title": "Locks and long shots",
+    "note": "Playoff chances from 10,000 simulated seasons, and the move since week 1.",
+    "cols": [
+     "Team",
+     "Playoffs",
+     "Status",
+     "Since week 1"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      "100.0%",
+      "Lock",
+      "+1.6"
+     ],
+     [
+      "@@butterygoop",
+      "99.6%",
+      "Lock",
+      "+16.3"
+     ],
+     [
+      "@@triccster",
+      "89.3%",
+      "Likely",
+      "+44.6"
+     ],
+     [
+      "@@TuanonStan",
+      "80.4%",
+      "Likely",
+      "+19.2"
+     ],
+     [
+      "@@thecreamer",
+      "60.4%",
+      "Bubble",
+      -16.1
+     ],
+     [
+      "@@YoungBuck04",
+      "53.2%",
+      "Bubble",
+      "+25.8"
+     ],
+     [
+      "@@TrifectaRich",
+      "49.0%",
+      "Bubble",
+      "+31.3"
+     ],
+     [
+      "@@Colt45Johnson",
+      "33.9%",
+      "Fading",
+      -53.5
+     ],
+     [
+      "@@Wallner",
+      "13.8%",
+      "Fading",
+      -9.8
+     ],
+     [
+      "@@DMsourbeer",
+      "12.8%",
+      "Fading",
+      -5.4
+     ],
+     [
+      "@@RebuildingRUs",
+      "5.9%",
+      "Long shot",
+      -22.4
+     ],
+     [
+      "@@brettmn13",
+      "1.8%",
+      "Long shot",
+      -31.5
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "byes",
+    "title": "Bye week danger",
+    "note": "Teams losing two or more of their usual starters to byes in the next four weeks, with those starters' projected points.",
+    "cols": [
+     "Week",
+     "Team",
+     "Starters out",
+     "Proj pts lost",
+     "Who"
+    ],
+    "rows": [
+     [
+      6,
+      "@@butterygoop",
+      2,
+      29.0,
+      "Jahmyr Gibbs, Sam LaPorta"
+     ],
+     [
+      6,
+      "@@thecreamer",
+      2,
+      26.7,
+      "Amon-Ra St. Brown, Chase Brown"
+     ],
+     [
+      6,
+      "@@TuanonStan",
+      2,
+      21.1,
+      "Malik Washington, Malik Willis"
+     ],
+     [
+      6,
+      "@@Colt45Johnson",
+      2,
+      19.8,
+      "Jameson Williams, Tee Higgins"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "partners",
+    "title": "Natural trade partners",
+    "note": "Pairs where each side has a surplus at the other's weak spot.",
+    "cols": [
+     "Team",
+     "Can send",
+     "Partner",
+     "Can send back"
+    ],
+    "rows": [
+     [
+      "@@Colt45Johnson",
+      "RB",
+      "@@RebuildingRUs",
+      "QB"
+     ],
+     [
+      "@@Colt45Johnson",
+      "RB",
+      "@@brettmn13",
+      "TE"
+     ],
+     [
+      "@@RebuildingRUs",
+      "QB",
+      "@@TuanonStan",
+      "WR"
+     ],
+     [
+      "@@RebuildingRUs",
+      "QB",
+      "@@thecreamer",
+      "RB"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "sell",
+    "title": "Selling pieces",
+    "note": "Bench players projected close to a starter for most teams. Points are projected per remaining week.",
+    "cols": [
+     "Team",
+     "Player",
+     "Pos",
+     "Proj/wk"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      "Trevor Lawrence",
+      "QB JAX",
+      18.1
+     ],
+     [
+      "@@RebuildingRUs",
+      "Drake Maye",
+      "QB NE",
+      17.7
+     ],
+     [
+      "@@butterygoop",
+      "Jalen Hurts",
+      "QB PHI",
+      16.4
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "bench",
+    "title": "Best bench",
+    "note": "The three best bench players on rest-of-season projections, per week combined. Depth for byes and injuries.",
+    "cols": [
+     "#",
+     "Team",
+     "Top 3 bench / wk",
+     "Who"
+    ],
+    "rows": [
+     [
+      1,
+      "@@Jbird531",
+      34.6,
+      "Jordan Love, Michael Wilson, Ladd McConkey"
+     ],
+     [
+      2,
+      "@@triccster",
+      31.6,
+      "Kyler Murray, DeVonta Smith, Harold Fannin"
+     ],
+     [
+      3,
+      "@@RebuildingRUs",
+      29.6,
+      "Michael Penix, Jameis Winston, Josh Downs"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "quadrant",
+    "title": "Contender or rebuilder",
+    "note": "This year: rest-of-season projection rank. Future: FantasyPros dynasty roster value rank. Age: average age of rostered QB, RB, WR and TE.",
+    "cols": [
+     "Team",
+     "This year",
+     "Future",
+     "Avg age",
+     "Window"
+    ],
+    "rows": [
+     [
+      "@@Jbird531",
+      1,
+      1,
+      24.5,
+      "Dynasty power"
+     ],
+     [
+      "@@butterygoop",
+      2,
+      2,
+      26.0,
+      "Dynasty power"
+     ],
+     [
+      "@@RebuildingRUs",
+      5,
+      3,
+      25.7,
+      "Dynasty power"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "capital",
+    "title": "Draft capital",
+    "note": "Picks owned for 2027 to 2029, from Sleeper's traded-pick ledger. Sorted with earlier rounds worth more.",
+    "cols": [
+     "Team",
+     "1sts",
+     "2nds",
+     "Total",
+     "By year"
+    ],
+    "rows": [
+     [
+      "@@brettmn13",
+      7,
+      3,
+      16,
+      "27:6 28:5 29:5"
+     ],
+     [
+      "@@Wallner",
+      3,
+      4,
+      15,
+      "27:6 28:5 29:4"
+     ],
+     [
+      "@@Jbird531",
+      4,
+      3,
+      12,
+      "27:4 28:4 29:4"
+     ]
+    ],
+    "race": false
+   },
+   {
+    "id": "qbroom",
+    "title": "Superflex QB room",
+    "note": "Starting QBs (top 24 on rest-of-season projections) per team. Two is the goal; three is trade capital.",
+    "cols": [
+     "Team",
+     "QBs",
+     "Starters",
+     "Top QBs (proj/wk)"
+    ],
+    "rows": [
+     [
+      "@@TuanonStan",
+      9,
+      3,
+      "Matthew Stafford 15.3, Malik Willis 13.7, Jacoby Brissett 13.1"
+     ],
+     [
+      "@@triccster",
+      4,
+      3,
+      "Jared Goff 16.2, Jayden Daniels 15.1, Kyler Murray 13.8"
+     ],
+     [
+      "@@Jbird531",
+      4,
+      3,
+      "Josh Allen 20.9, Trevor Lawrence 18.1, Jordan Love 15.3"
+     ]
+    ],
+    "race": false
+   }
+  ]
+ },
+ "nfl": {
+  "read_at": "2026-10-14T01:33+00:00",
+  "note": "Headlines as ESPN reported them on the date shown. Injury and depth-chart news can change before kickoff.",
+  "intro": "Three NFL storylines with real weight in a superflex dynasty: a backup quarterback winning a game, a Browns injury list that touches five rosters, and a Patriots back going down behind a manager who owns most of that offense.",
+  "items": [
+   {
+    "headline": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
+    "url": "https://www.espn.com/nfl/story/_/id/50164378/backup-qb-tyler-huntley-leads-ravens-comeback-ot-win-vs-falcons",
+    "date": "2026-10-12",
+    "kind": "news",
+    "teams": [
+     "BAL"
+    ],
+    "named": [
+     {
+      "n": "Tyler Huntley",
+      "p": "QB",
+      "t": "BAL",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Lamar Jackson",
+      "p": "QB",
+      "t": "BAL",
+      "h": "butterygoop"
+     }
+    ],
+    "lead": [
+     "Tyler Huntley"
+    ],
+    "ripple": [
+     {
+      "n": "Matt Hibner",
+      "p": "TE",
+      "t": "BAL",
+      "h": "Wallner"
+     },
+     {
+      "n": "Josh Cuevas",
+      "p": "TE",
+      "t": "BAL",
+      "h": "Wallner"
+     },
+     {
+      "n": "Ja'Kobi Lane",
+      "p": "WR",
+      "t": "BAL",
+      "h": "brettmn13"
+     },
+     {
+      "n": "Mark Andrews",
+      "p": "TE",
+      "t": "BAL",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Justice Hill",
+      "p": "RB",
+      "t": "BAL",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Elijah Sarratt",
+      "p": "WR",
+      "t": "BAL",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Derrick Henry",
+      "p": "RB",
+      "t": "BAL",
+      "h": "thecreamer"
+     },
+     {
+      "n": "Zay Flowers",
+      "p": "WR",
+      "t": "BAL",
+      "h": "triccster"
+     },
+     {
+      "n": "Adam Randall",
+      "p": "RB",
+      "t": "BAL",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Rashod Bateman",
+      "p": "WR",
+      "t": "BAL",
+      "h": "Jbird531"
+     }
+    ],
+    "managers": [
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Jbird531",
+     "Wallner",
+     "YoungBuck04",
+     "brettmn13",
+     "butterygoop",
+     "thecreamer",
+     "triccster"
+    ],
+    "note": "Lamar Jackson sat this one out and Colt45Johnson's Tyler Huntley led the comeback. butterygoop owns Lamar. In superflex, Huntley's value rides on how long that lasts, so his price in a trade is moving week to week."
+   },
+   {
+    "headline": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
+    "url": "https://www.espn.com/nfl/story/_/id/50167865/judkins-schwesinger-ankles-add-injury-woes-browns",
+    "date": "2026-10-12",
+    "kind": "news",
+    "teams": [
+     "CLE"
+    ],
+    "named": [
+     {
+      "n": "Quinshon Judkins",
+      "p": "RB",
+      "t": "CLE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "KC Concepcion",
+      "p": "WR",
+      "t": "CLE",
+      "h": "Jbird531"
+     }
+    ],
+    "lead": [
+     "Quinshon Judkins"
+    ],
+    "ripple": [
+     {
+      "n": "Taylen Green",
+      "p": "QB",
+      "t": "CLE",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Deshaun Watson",
+      "p": "QB",
+      "t": "CLE",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Raheim Sanders",
+      "p": "RB",
+      "t": "CLE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Dylan Sampson",
+      "p": "RB",
+      "t": "CLE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Jerry Jeudy",
+      "p": "WR",
+      "t": "CLE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Shedeur Sanders",
+      "p": "QB",
+      "t": "CLE",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Bub Means",
+      "p": "WR",
+      "t": "CLE",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Harold Fannin",
+      "p": "TE",
+      "t": "CLE",
+      "h": "triccster"
+     },
+     {
+      "n": "Denzel Boston",
+      "p": "WR",
+      "t": "CLE",
+      "h": "Jbird531"
+     }
+    ],
+    "managers": [
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Jbird531",
+     "TuanonStan",
+     "YoungBuck04",
+     "triccster"
+    ],
+    "note": "YoungBuck04 owns Quinshon Judkins and two more backs from that room, Raheim Sanders and Dylan Sampson, plus Jerry Jeudy. Jbird531 has KC Concepcion, who took a concussion in week 5, and Denzel Boston."
+   },
+   {
+    "headline": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start",
+    "url": "https://www.espn.com/nfl/story/_/id/50177580/broncos-bo-nix-says-needs-simplify-approach-amid-rocky-start",
+    "date": "2026-10-14",
+    "kind": "news",
+    "teams": [
+     "DEN"
+    ],
+    "named": [
+     {
+      "n": "Bo Nix",
+      "p": "QB",
+      "t": "DEN",
+      "h": "Wallner"
+     }
+    ],
+    "lead": [
+     "Bo Nix"
+    ],
+    "ripple": [
+     {
+      "n": "Courtland Sutton",
+      "p": "WR",
+      "t": "DEN",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Jarrett Stidham",
+      "p": "QB",
+      "t": "DEN",
+      "h": "Wallner"
+     },
+     {
+      "n": "Jaylen Waddle",
+      "p": "WR",
+      "t": "DEN",
+      "h": "brettmn13"
+     },
+     {
+      "n": "J.K. Dobbins",
+      "p": "RB",
+      "t": "DEN",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Pat Bryant",
+      "p": "WR",
+      "t": "DEN",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Marvin Mims",
+      "p": "WR",
+      "t": "DEN",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "RJ Harvey",
+      "p": "RB",
+      "t": "DEN",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Evan Engram",
+      "p": "TE",
+      "t": "DEN",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Troy Franklin",
+      "p": "WR",
+      "t": "DEN",
+      "h": "triccster"
+     },
+     {
+      "n": "Jonah Coleman",
+      "p": "RB",
+      "t": "DEN",
+      "h": "triccster"
+     }
+    ],
+    "managers": [
+     "DMsourbeer",
+     "RebuildingRUs",
+     "TuanonStan",
+     "Wallner",
+     "YoungBuck04",
+     "brettmn13",
+     "triccster"
+    ]
+   },
+   {
+    "headline": "Bills QB Josh Allen earns first overtime win of career vs. Rams on MNF",
+    "url": "https://www.espn.com/nfl/story/_/id/50171513/bills-josh-allen-earns-first-career-win-vs-rams-mnf",
+    "date": "2026-10-13",
+    "kind": "news",
+    "teams": [
+     "BUF",
+     "LAR"
+    ],
+    "named": [
+     {
+      "n": "Josh Allen",
+      "p": "QB",
+      "t": "BUF",
+      "h": "Jbird531"
+     }
+    ],
+    "lead": [
+     "Josh Allen"
+    ],
+    "ripple": [
+     {
+      "n": "Dawson Knox",
+      "p": "TE",
+      "t": "BUF",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Ray Davis",
+      "p": "RB",
+      "t": "BUF",
+      "h": "TrifectaRich"
+     },
+     {
+      "n": "Keon Coleman",
+      "p": "WR",
+      "t": "BUF",
+      "h": "TrifectaRich"
+     },
+     {
+      "n": "Khalil Shakir",
+      "p": "WR",
+      "t": "BUF",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Skyler Bell",
+      "p": "WR",
+      "t": "BUF",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "James Cook",
+      "p": "RB",
+      "t": "BUF",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "DJ Moore",
+      "p": "WR",
+      "t": "BUF",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Greg Dortch",
+      "p": "WR",
+      "t": "BUF",
+      "h": "thecreamer"
+     },
+     {
+      "n": "Dalton Kincaid",
+      "p": "TE",
+      "t": "BUF",
+      "h": "Jbird531"
+     }
+    ],
+    "managers": [
+     "DMsourbeer",
+     "Jbird531",
+     "RebuildingRUs",
+     "TrifectaRich",
+     "TuanonStan",
+     "YoungBuck04",
+     "thecreamer"
+    ]
+   },
+   {
+    "headline": "Packers' Watson-Golden WR combo reminiscent of Nelson-Cobb",
+    "url": "https://www.espn.com/nfl/story/_/id/50167436/green-bay-packers-christian-watson-matthew-golden-nelson-cobb",
+    "date": "2026-10-13",
+    "kind": "story",
+    "teams": [
+     "GB"
+    ],
+    "named": [
+     {
+      "n": "Christian Watson",
+      "p": "WR",
+      "t": "GB",
+      "h": "thecreamer"
+     },
+     {
+      "n": "Matthew Golden",
+      "p": "WR",
+      "t": "GB",
+      "h": "TrifectaRich"
+     },
+     {
+      "n": "Jordan Love",
+      "p": "QB",
+      "t": "GB",
+      "h": "Jbird531"
+     }
+    ],
+    "lead": [
+     "Christian Watson",
+     "Matthew Golden"
+    ],
+    "ripple": [
+     {
+      "n": "Tyrod Taylor",
+      "p": "QB",
+      "t": "GB",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Tucker Kraft",
+      "p": "TE",
+      "t": "GB",
+      "h": "brettmn13"
+     },
+     {
+      "n": "Jayden Reed",
+      "p": "WR",
+      "t": "GB",
+      "h": "thecreamer"
+     },
+     {
+      "n": "MarShawn Lloyd",
+      "p": "RB",
+      "t": "GB",
+      "h": "thecreamer"
+     },
+     {
+      "n": "Kaleb Johnson",
+      "p": "RB",
+      "t": "GB",
+      "h": "thecreamer"
+     },
+     {
+      "n": "Josh Jacobs",
+      "p": "RB",
+      "t": "GB",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Chris Brooks",
+      "p": "RB",
+      "t": "GB",
+      "h": "triccster"
+     },
+     {
+      "n": "Savion Williams",
+      "p": "WR",
+      "t": "GB",
+      "h": "Jbird531"
+     }
+    ],
+    "managers": [
+     "Jbird531",
+     "TrifectaRich",
+     "TuanonStan",
+     "brettmn13",
+     "butterygoop",
+     "thecreamer",
+     "triccster"
+    ]
+   },
+   {
+    "headline": "Sources: Patriots' TreVeyon Henderson out multiple weeks with high ankle sprain",
+    "url": "https://www.espn.com/nfl/story/_/id/50173985/sources-patriots-treveyon-henderson-high-ankle-sprain",
+    "date": "2026-10-13",
+    "kind": "news",
+    "teams": [
+     "NE"
+    ],
+    "named": [
+     {
+      "n": "TreVeyon Henderson",
+      "p": "RB",
+      "t": "NE",
+      "h": "RebuildingRUs"
+     }
+    ],
+    "lead": [
+     "TreVeyon Henderson"
+    ],
+    "ripple": [
+     {
+      "n": "Kyle Williams",
+      "p": "WR",
+      "t": "NE",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Romeo Doubs",
+      "p": "WR",
+      "t": "NE",
+      "h": "Wallner"
+     },
+     {
+      "n": "Mack Hollins",
+      "p": "WR",
+      "t": "NE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Eli Raridon",
+      "p": "TE",
+      "t": "NE",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Hunter Henry",
+      "p": "TE",
+      "t": "NE",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Drake Maye",
+      "p": "QB",
+      "t": "NE",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "A.J. Brown",
+      "p": "WR",
+      "t": "NE",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Rhamondre Stevenson",
+      "p": "RB",
+      "t": "NE",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "DeMario Douglas",
+      "p": "WR",
+      "t": "NE",
+      "h": "butterygoop"
+     }
+    ],
+    "managers": [
+     "Colt45Johnson",
+     "RebuildingRUs",
+     "TuanonStan",
+     "Wallner",
+     "YoungBuck04",
+     "butterygoop"
+    ],
+    "note": "RebuildingRUs owns Henderson, Rhamondre Stevenson, Drake Maye and A.J. Brown. No manager is tied tighter to one NFL offense, and the backup back is already on the roster."
+   },
+   {
+    "headline": "Texans complete trade with Cardinals for WR Marvin Harrison Jr.",
+    "url": "https://www.espn.com/nfl/story/_/id/50160631/texans-complete-trade-cardinals-wr-marvin-harrison-jr",
+    "date": "2026-10-12",
+    "kind": "news",
+    "teams": [
+     "ARI",
+     "HOU"
+    ],
+    "named": [
+     {
+      "n": "Marvin Harrison",
+      "p": "WR",
+      "t": "HOU",
+      "h": "YoungBuck04"
+     }
+    ],
+    "lead": [
+     "Marvin Harrison"
+    ],
+    "ripple": [
+     {
+      "n": "C.J. Stroud",
+      "p": "QB",
+      "t": "HOU",
+      "h": "Wallner"
+     },
+     {
+      "n": "Jaylin Noel",
+      "p": "WR",
+      "t": "HOU",
+      "h": "Wallner"
+     },
+     {
+      "n": "Davis Mills",
+      "p": "QB",
+      "t": "HOU",
+      "h": "Wallner"
+     },
+     {
+      "n": "David Montgomery",
+      "p": "RB",
+      "t": "HOU",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Jayden Higgins",
+      "p": "WR",
+      "t": "HOU",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Kayshon Boutte",
+      "p": "WR",
+      "t": "HOU",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Woody Marks",
+      "p": "RB",
+      "t": "HOU",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Dalton Schultz",
+      "p": "TE",
+      "t": "HOU",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Tank Dell",
+      "p": "WR",
+      "t": "HOU",
+      "h": "butterygoop"
+     },
+     {
+      "n": "Xavier Hutchinson",
+      "p": "WR",
+      "t": "HOU",
+      "h": "Jbird531"
+     },
+     {
+      "n": "Nico Collins",
+      "p": "WR",
+      "t": "HOU",
+      "h": "Jbird531"
+     }
+    ],
+    "managers": [
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Jbird531",
+     "RebuildingRUs",
+     "Wallner",
+     "YoungBuck04",
+     "butterygoop"
+    ]
+   },
+   {
+    "headline": "Shanahan says 49ers WR Deebo Samuel to miss time with hamstring injury",
+    "url": "https://www.espn.com/nfl/story/_/id/50168446/shanahan-49ers-wr-samuel-miss-hamstring-injury",
+    "date": "2026-10-12",
+    "kind": "news",
+    "teams": [
+     "SF"
+    ],
+    "named": [
+     {
+      "n": "Deebo Samuel",
+      "p": "WR",
+      "t": "SF",
+      "h": "triccster"
+     }
+    ],
+    "lead": [
+     "Deebo Samuel"
+    ],
+    "ripple": [
+     {
+      "n": "Kaelon Black",
+      "p": "RB",
+      "t": "SF",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Christian McCaffrey",
+      "p": "RB",
+      "t": "SF",
+      "h": "TuanonStan"
+     },
+     {
+      "n": "Demarcus Robinson",
+      "p": "WR",
+      "t": "SF",
+      "h": "Wallner"
+     },
+     {
+      "n": "Brandon Aiyuk",
+      "p": "WR",
+      "t": "SF",
+      "h": "brettmn13"
+     },
+     {
+      "n": "George Kittle",
+      "p": "TE",
+      "t": "SF",
+      "h": "TrifectaRich"
+     },
+     {
+      "n": "Jordan James",
+      "p": "RB",
+      "t": "SF",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Jake Tonges",
+      "p": "TE",
+      "t": "SF",
+      "h": "YoungBuck04"
+     },
+     {
+      "n": "Ricky Pearsall",
+      "p": "WR",
+      "t": "SF",
+      "h": "Colt45Johnson"
+     },
+     {
+      "n": "Christian Kirk",
+      "p": "WR",
+      "t": "SF",
+      "h": "DMsourbeer"
+     },
+     {
+      "n": "Isaac Guerendo",
+      "p": "RB",
+      "t": "SF",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Brock Purdy",
+      "p": "QB",
+      "t": "SF",
+      "h": "RebuildingRUs"
+     },
+     {
+      "n": "Mac Jones",
+      "p": "QB",
+      "t": "SF",
+      "h": "thecreamer"
+     },
+     {
+      "n": "Mike Evans",
+      "p": "WR",
+      "t": "SF",
+      "h": "triccster"
+     },
+     {
+      "n": "De'Zhaun Stribling",
+      "p": "WR",
+      "t": "SF",
+      "h": "Jbird531"
+     }
+    ],
+    "managers": [
+     "Colt45Johnson",
+     "DMsourbeer",
+     "Jbird531",
+     "RebuildingRUs",
+     "TrifectaRich",
+     "TuanonStan",
+     "Wallner",
+     "YoungBuck04",
+     "brettmn13",
+     "thecreamer",
+     "triccster"
+    ]
+   }
+  ]
+ }
 }
