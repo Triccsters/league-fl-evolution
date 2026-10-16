@@ -157,7 +157,7 @@
      "rows": [
       [
        "@@Wallner",
-       13,
+       14,
        49.7,
        "$20"
       ],
@@ -202,6 +202,12 @@
        5,
        0.0,
        "$36"
+      ],
+      [
+       "@@butterygoop",
+       1,
+       0.0,
+       "$1"
       ]
      ],
      "race": true
@@ -293,69 +299,69 @@
       ],
       [
        "@@butterygoop",
-       "99.6%",
+       "99.7%",
        "Lock",
-       "+16.3"
+       "+16.4"
       ],
       [
        "@@triccster",
-       "89.3%",
+       "88.6%",
        "Likely",
-       "+44.6"
+       "+43.9"
       ],
       [
        "@@TuanonStan",
-       "80.4%",
+       "80.9%",
        "Likely",
-       "+19.2"
+       "+19.7"
       ],
       [
        "@@thecreamer",
-       "60.4%",
+       "60.0%",
        "Bubble",
-       -16.1
+       -16.5
       ],
       [
        "@@YoungBuck04",
-       "53.2%",
+       "53.9%",
        "Bubble",
-       "+25.8"
+       "+26.5"
       ],
       [
        "@@TrifectaRich",
-       "49.0%",
+       "48.3%",
        "Bubble",
-       "+31.3"
+       "+30.6"
       ],
       [
        "@@Colt45Johnson",
-       "33.9%",
+       "34.0%",
        "Fading",
-       -53.5
+       -53.4
       ],
       [
        "@@Wallner",
-       "13.8%",
+       "13.6%",
        "Fading",
-       -9.8
+       -10.0
       ],
       [
        "@@DMsourbeer",
-       "12.8%",
+       "13.1%",
        "Fading",
-       -5.4
+       -5.1
       ],
       [
        "@@RebuildingRUs",
-       "5.9%",
+       "6.3%",
        "Long shot",
-       -22.4
+       -22.0
       ],
       [
        "@@brettmn13",
-       "1.8%",
+       "1.6%",
        "Long shot",
-       -31.5
+       -31.7
       ]
      ]
     },
@@ -570,25 +576,25 @@
        "@@DMsourbeer",
        "QB",
        "WR, TE",
-       "QB 5 RB 4 WR 11 TE 10"
+       "QB 5 RB 5 WR 11 TE 11"
       ],
       [
        "@@RebuildingRUs",
        "QB, WR",
        "RB",
-       "QB 3 RB 10 WR 8 TE 7"
+       "QB 3 RB 10 WR 7 TE 7"
       ],
       [
        "@@TrifectaRich",
        "-",
        "RB",
-       "QB 4 RB 9 WR 7 TE 4"
+       "QB 4 RB 9 WR 8 TE 4"
       ],
       [
        "@@TuanonStan",
        "WR",
        "QB",
-       "QB 10 RB 5 WR 6 TE 8"
+       "QB 10 RB 4 WR 6 TE 8"
       ],
       [
        "@@Wallner",
@@ -600,13 +606,13 @@
        "@@YoungBuck04",
        "-",
        "WR, TE",
-       "QB 8 RB 7 WR 9 TE 11"
+       "QB 8 RB 7 WR 9 TE 10"
       ],
       [
        "@@brettmn13",
        "TE",
        "RB, WR",
-       "QB 7 RB 12 WR 12 TE 5"
+       "QB 6 RB 12 WR 12 TE 5"
       ],
       [
        "@@thecreamer",
@@ -630,7 +636,7 @@
        "@@triccster",
        "QB, WR",
        "-",
-       "QB 6 RB 6 WR 1 TE 2"
+       "QB 7 RB 6 WR 1 TE 2"
       ]
      ]
     },
@@ -698,19 +704,7 @@
        "@@RebuildingRUs",
        "Drake Maye",
        "QB NE",
-       17.7
-      ],
-      [
-       "@@butterygoop",
-       "Jalen Hurts",
-       "QB PHI",
-       16.3
-      ],
-      [
-       "@@Jbird531",
-       "Jordan Love",
-       "QB GB",
-       15.2
+       17.6
       ],
       [
        "@@triccster",
@@ -719,10 +713,22 @@
        15.1
       ],
       [
+       "@@butterygoop",
+       "Jalen Hurts",
+       "QB PHI",
+       14.7
+      ],
+      [
+       "@@Jbird531",
+       "Jordan Love",
+       "QB GB",
+       14.7
+      ],
+      [
        "@@triccster",
        "Kyler Murray",
        "QB MIN",
-       13.8
+       14.0
       ],
       [
        "@@DMsourbeer",
@@ -731,22 +737,22 @@
        13.7
       ],
       [
-       "@@triccster",
-       "DeVonta Smith",
-       "WR PHI",
-       9.9
-      ],
-      [
        "@@Jbird531",
        "Ladd McConkey",
        "WR LAC",
        8.9
       ],
       [
+       "@@triccster",
+       "DeVonta Smith",
+       "WR PHI",
+       8.7
+      ],
+      [
        "@@Jbird531",
        "Denzel Boston",
        "WR CLE",
-       8.2
+       8.1
       ],
       [
        "@@RebuildingRUs",
@@ -801,44 +807,44 @@
       [
        1,
        "@@Jbird531",
-       34.6,
+       34.2,
        "Jordan Love, Michael Wilson, Ladd McConkey"
       ],
       [
        2,
        "@@triccster",
-       31.6,
+       30.6,
        "Kyler Murray, DeVonta Smith, Harold Fannin"
       ],
       [
        3,
        "@@RebuildingRUs",
-       29.7,
+       29.6,
        "Michael Penix, Jameis Winston, Josh Downs"
       ],
       [
        4,
        "@@TuanonStan",
-       27.6,
-       "Jacoby Brissett, Deshaun Watson, Pat Freiermuth"
+       28.2,
+       "Jacoby Brissett, Deshaun Watson, Malik Washington"
       ],
       [
        5,
        "@@TrifectaRich",
-       24.1,
+       24.0,
        "Geno Smith, Blake Corum, Keon Coleman"
       ],
       [
        6,
-       "@@DMsourbeer",
-       23.3,
-       "Daniel Jones, Jake Ferguson, Kenyon Sadiq"
+       "@@butterygoop",
+       23.5,
+       "Isaiah Likely, Woody Marks, Chris Godwin"
       ],
       [
        7,
-       "@@butterygoop",
-       23.3,
-       "Isaiah Likely, Woody Marks, Chris Godwin"
+       "@@DMsourbeer",
+       23.2,
+       "Daniel Jones, Jake Ferguson, Kenyon Sadiq"
       ],
       [
        8,
@@ -848,27 +854,27 @@
       ],
       [
        9,
-       "@@brettmn13",
-       18.8,
-       "Colston Loveland, Alvin Kamara, Kalif Raymond"
+       "@@thecreamer",
+       18.3,
+       "Travis Etienne, MarShawn Lloyd, Ryan Flournoy"
       ],
       [
        10,
-       "@@thecreamer",
-       18.4,
-       "Travis Etienne, MarShawn Lloyd, Caleb Douglas"
+       "@@Wallner",
+       18.2,
+       "Zach Charbonnet, Tre' Harris, Cooper Kupp"
       ],
       [
        11,
-       "@@Wallner",
-       18.0,
-       "Aaron Jones, Tre' Harris, Jaylin Noel"
-      ],
-      [
-       12,
        "@@YoungBuck04",
        17.7,
        "Khalil Shakir, Kendrick Bourne, Mike Gesicki"
+      ],
+      [
+       12,
+       "@@brettmn13",
+       17.1,
+       "Colston Loveland, Kalif Raymond, Mike Washington"
       ]
      ]
     },
@@ -1088,7 +1094,7 @@
        6,
        "@@butterygoop",
        2,
-       29.0,
+       28.9,
        "Sam LaPorta, Jahmyr Gibbs"
       ],
       [
@@ -1096,35 +1102,35 @@
        "@@thecreamer",
        2,
        26.7,
-       "Amon-Ra St. Brown, Chase Brown"
-      ],
-      [
-       6,
-       "@@TuanonStan",
-       2,
-       21.1,
-       "Malik Washington, Malik Willis"
+       "Chase Brown, Amon-Ra St. Brown"
       ],
       [
        6,
        "@@Colt45Johnson",
        2,
        19.8,
-       "Tee Higgins, Jameson Williams"
+       "Jameson Williams, Tee Higgins"
+      ],
+      [
+       6,
+       "@@Wallner",
+       2,
+       14.2,
+       "Aaron Jones, T.J. Hockenson"
       ],
       [
        7,
        "@@Jbird531",
        3,
        49.9,
-       "Bhayshul Tuten, Josh Allen, Trevor Lawrence"
+       "Josh Allen, Trevor Lawrence, Bhayshul Tuten"
       ],
       [
        7,
        "@@brettmn13",
        3,
        21.6,
-       "Jakobi Meyers, Jacory Croskey-Merritt, Brenton Strange"
+       "Jacory Croskey-Merritt, Brenton Strange, Jakobi Meyers"
       ],
       [
        7,
@@ -1137,15 +1143,15 @@
        8,
        "@@TrifectaRich",
        3,
-       34.3,
-       "George Kittle, Chris Olave, Malik Nabers"
+       34.2,
+       "Chris Olave, George Kittle, Malik Nabers"
       ],
       [
        8,
        "@@TuanonStan",
        2,
-       25.6,
-       "Christian McCaffrey, Juwan Johnson"
+       25.5,
+       "Juwan Johnson, Christian McCaffrey"
       ]
      ]
     }
@@ -1179,14 +1185,7 @@
        "@@butterygoop",
        2,
        2,
-       26.0,
-       "Dynasty power"
-      ],
-      [
-       "@@RebuildingRUs",
-       5,
-       3,
-       25.7,
+       25.9,
        "Dynasty power"
       ],
       [
@@ -1194,6 +1193,13 @@
        3,
        5,
        26.7,
+       "Dynasty power"
+      ],
+      [
+       "@@RebuildingRUs",
+       6,
+       3,
+       25.7,
        "Dynasty power"
       ],
       [
@@ -1205,14 +1211,14 @@
       ],
       [
        "@@TuanonStan",
-       6,
+       4,
        7,
        27.2,
        "Win now"
       ],
       [
        "@@thecreamer",
-       4,
+       5,
        10,
        27,
        "Win now"
@@ -1249,7 +1255,7 @@
        "@@Wallner",
        11,
        12,
-       26.8,
+       27,
        "Rebuild"
       ]
      ]
@@ -1270,8 +1276,8 @@
        "@@brettmn13",
        7,
        3,
-       16,
-       "27:6 28:5 29:5"
+       17,
+       "27:7 28:5 29:5"
       ],
       [
        "@@Wallner",
@@ -1323,13 +1329,6 @@
        "27:4 28:4 29:4"
       ],
       [
-       "@@TuanonStan",
-       2,
-       3,
-       11,
-       "27:3 28:4 29:4"
-      ],
-      [
        "@@butterygoop",
        2,
        3,
@@ -1342,6 +1341,13 @@
        2,
        10,
        "27:3 28:3 29:4"
+      ],
+      [
+       "@@TuanonStan",
+       2,
+       3,
+       10,
+       "27:2 28:4 29:4"
       ],
       [
        "@@triccster",
@@ -1367,73 +1373,73 @@
        "@@TuanonStan",
        9,
        3,
-       "Matthew Stafford 15.3, Malik Willis 13.7, Jacoby Brissett 13.1"
+       "Matthew Stafford 15.4, Malik Willis 13.6, Jacoby Brissett 13.2"
       ],
       [
        "@@triccster",
        4,
        3,
-       "Jared Goff 16.2, Jayden Daniels 15.1, Kyler Murray 13.8"
+       "Jared Goff 16.1, Jayden Daniels 15.1, Kyler Murray 14.0"
       ],
       [
        "@@Jbird531",
        4,
        3,
-       "Josh Allen 20.9, Trevor Lawrence 18.1, Jordan Love 15.2"
+       "Josh Allen 20.9, Trevor Lawrence 18.1, Jordan Love 14.7"
       ],
       [
        "@@Wallner",
        7,
        2,
-       "Bo Nix 14.9, C.J. Stroud 13.9, Jalon Daniels 1.3"
+       "Bo Nix 15.0, C.J. Stroud 13.9, Jalon Daniels 1.3"
       ],
       [
        "@@RebuildingRUs",
        7,
        2,
-       "Brock Purdy 19.0, Drake Maye 17.7, Michael Penix 11.8"
+       "Brock Purdy 19.0, Drake Maye 17.6, Michael Penix 11.8"
       ],
       [
        "@@thecreamer",
        6,
        2,
-       "Tyler Shough 14.3, Kirk Cousins 14.2, J.J. McCarthy 0.0"
+       "Tyler Shough 14.3, Kirk Cousins 14.1, J.J. McCarthy 0.4"
       ],
       [
        "@@DMsourbeer",
        5,
        2,
-       "Bryce Young 17.7, Sam Darnold 13.7, Daniel Jones 11.0"
+       "Bryce Young 17.6, Sam Darnold 13.7, Daniel Jones 11.1"
+      ],
+      [
+       "@@butterygoop",
+       4,
+       2,
+       "Lamar Jackson 19.5, Jalen Hurts 14.7, Tanner McKee 1.1"
       ],
       [
        "@@TrifectaRich",
        3,
        2,
-       "Patrick Mahomes 18.4, Cam Ward 13.5, Geno Smith 12.6"
-      ],
-      [
-       "@@butterygoop",
-       3,
-       2,
-       "Lamar Jackson 19.7, Jalen Hurts 16.3, Gardner Minshew 0.0"
+       "Patrick Mahomes 18.3, Cam Ward 13.5, Geno Smith 12.4"
       ],
       [
        "@@Colt45Johnson",
        7,
        1,
-       "Caleb Williams 15.7, Aaron Rodgers 12.6, Shedeur Sanders 3.9"
+       "Caleb Williams 15.7, Aaron Rodgers 13.0, Shedeur Sanders 3.9"
       ],
       [
        "@@brettmn13",
        6,
        1,
-       "Joe Burrow 16.1, Baker Mayfield 11.0, Case Keenum 0.0"
+       "Joe Burrow 16.1, Baker Mayfield 11.1, Case Keenum 0.0"
       ],
       [
        "@@YoungBuck04",
        4,
        1,
-       "Dak Prescott 16.0, Justin Herbert 12.9, Anthony Richardson 0.0"
+       "Dak Prescott 15.9, Justin Herbert 12.9, Anthony Richardson 0.0"
       ]
      ]
     },
@@ -1465,13 +1471,6 @@
       ],
       [
        "@@butterygoop",
-       "Jerome Ford",
-       27,
-       2,
-       0.0
-      ],
-      [
-       "@@butterygoop",
        "Jaylen Warren",
        27,
        2,
@@ -1482,7 +1481,7 @@
        "Saquon Barkley",
        29,
        3,
-       11.3
+       11.4
       ],
       [
        "@@triccster",
@@ -1503,7 +1502,7 @@
        "Derrick Henry",
        32,
        4,
-       14.6
+       14.5
       ],
       [
        "@@thecreamer",
@@ -1552,7 +1551,14 @@
        "Devin Singletary",
        29,
        7,
-       0.7
+       0.6
+      ],
+      [
+       "@@TrifectaRich",
+       "Emari Demercado",
+       27,
+       7,
+       0.1
       ]
      ]
     },
@@ -1709,9 +1715,9 @@
      "rows": [
       [
        "@@Colt45Johnson",
-       7,
-       "Not so guarenteed 1.01",
-       "Rippin Darts (2025) / Ayahuasca All-Stars (2023) / Gunshot Go Hards (2022) / Give me Moore (2021) / ALSO the Silky Wilsons (2020)"
+       8,
+       "Screw Them QBs",
+       "Not so guarenteed 1.01 (2026 (wk 5)) / Screw Them QBs (2026) / Rippin Darts (2025) / Ayahuasca All-Stars (2023) / Gunshot Go Hards (2022)"
       ],
       [
        "@@TuanonStan",
