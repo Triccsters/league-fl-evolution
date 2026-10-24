@@ -3,7 +3,7 @@
  "week": 6,
  "slug": "2026-w06",
  "title": "Week 6 recap",
- "generated": "2026-10-23T12:48:28+00:00",
+ "generated": "2026-10-24T16:03:44+00:00",
  "intro": "",
  "video": "",
  "notes": [],
@@ -199,7 +199,7 @@
       "pts": 17.36
      },
      {
-      "name": "Luther Burden",
+      "name": "Luther Burden III",
       "pos": "WR",
       "id": "12519",
       "nfl": "CHI",
@@ -207,7 +207,7 @@
      }
     ],
     "best_bench": {
-     "name": "Michael Penix",
+     "name": "Michael Penix Jr.",
      "id": "11559",
      "nfl": "ATL",
      "pts": 23.1
@@ -400,7 +400,7 @@
       "pts": 22.98
      },
      {
-      "name": "Tyrone Tracy",
+      "name": "Tyrone Tracy Jr.",
       "pos": "RB",
       "id": "11655",
       "nfl": "NYG",
@@ -574,7 +574,7 @@
      }
     ],
     "best_bench": {
-     "name": "Omar Cooper",
+     "name": "Omar Cooper Jr.",
      "id": "13276",
      "nfl": "NYJ",
      "pts": 19.3
@@ -840,7 +840,7 @@
     },
     "top": [
      {
-      "name": "James Cook",
+      "name": "James Cook III",
       "pos": "RB",
       "id": "8138",
       "nfl": "BUF",
@@ -936,7 +936,7 @@
     },
     "top": [
      {
-      "name": "Kenneth Walker",
+      "name": "Kenneth Walker III",
       "pos": "RB",
       "id": "8151",
       "nfl": "KC",
@@ -1104,7 +1104,7 @@
       "pts": 17.36
      },
      {
-      "name": "Luther Burden",
+      "name": "Luther Burden III",
       "pos": "WR",
       "id": "12519",
       "nfl": "CHI",
@@ -1112,7 +1112,7 @@
      }
     ],
     "best_bench": {
-     "name": "Michael Penix",
+     "name": "Michael Penix Jr.",
      "id": "11559",
      "nfl": "ATL",
      "pts": 23.1
@@ -1242,7 +1242,7 @@
     },
     "top": [
      {
-      "name": "Kenneth Walker",
+      "name": "Kenneth Walker III",
       "pos": "RB",
       "id": "8151",
       "nfl": "KC",
