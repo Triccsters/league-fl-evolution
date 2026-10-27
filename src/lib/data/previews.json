@@ -1,105 +1,47 @@
 {
- "generated": "2026-10-26T13:17:52+00:00",
+ "generated": "2026-10-27T12:14:53+00:00",
  "season": 2026,
- "week": 7,
+ "week": 8,
  "playoff": false,
  "games": [
   {
-   "a": "thecreamer",
-   "b": "butterygoop",
-   "a_win": 30.1,
+   "a": "YoungBuck04",
+   "b": "Jbird531",
+   "a_win": 23.6,
    "rec": {
-    "thecreamer": [
-     2,
-     4
+    "YoungBuck04": [
+     4,
+     3
     ],
-    "butterygoop": [
-     5,
+    "Jbird531": [
+     6,
      1
     ]
    },
    "avg": {
-    "thecreamer": 120.66,
-    "butterygoop": 150.8
+    "YoungBuck04": 103.01,
+    "Jbird531": 142.04
    },
    "last3": {
-    "thecreamer": [
-     121.54,
-     102.46,
-     98.08
-    ],
-    "butterygoop": [
-     152.9,
-     163.9,
-     110.0
-    ]
-   },
-   "proj": {
-    "thecreamer": 115.8,
-    "butterygoop": 138.54
-   },
-   "h2h": {
-    "thecreamer": 2,
-    "butterygoop": 8,
-    "games": 10
-   },
-   "streak": [
-    "butterygoop",
-    3
-   ],
-   "last": {
-    "season": 2025,
-    "week": 6,
-    "label": null,
-    "score": {
-     "thecreamer": 84.28,
-     "butterygoop": 111.3
-    }
-   },
-   "flags": [
-    "{butterygoop} has won 3 straight in this series",
-    "Rematch of the 2021 final",
-    "{butterygoop} owns this series 8-2"
-   ]
-  },
-  {
-   "a": "brettmn13",
-   "b": "Jbird531",
-   "a_win": 13.3,
-   "rec": {
-    "brettmn13": [
-     0,
-     6
+    "YoungBuck04": [
+     102.78,
+     93.08,
+     119.28
     ],
     "Jbird531": [
-     6,
-     0
-    ]
-   },
-   "avg": {
-    "brettmn13": 82.68,
-    "Jbird531": 152.61
-   },
-   "last3": {
-    "brettmn13": [
-     91.92,
-     73.4,
-     83.6
-    ],
-    "Jbird531": [
-     195.4,
      136.92,
-     129.64
+     129.64,
+     78.66
     ]
    },
    "proj": {
-    "brettmn13": 95.31,
-    "Jbird531": 143.75
+    "YoungBuck04": 107.71,
+    "Jbird531": 137.63
    },
    "h2h": {
-    "brettmn13": 7,
-    "Jbird531": 4,
-    "games": 11
+    "YoungBuck04": 4,
+    "Jbird531": 5,
+    "games": 9
    },
    "streak": [
     "Jbird531",
@@ -107,112 +49,56 @@
    ],
    "last": {
     "season": 2025,
-    "week": 6,
-    "label": null,
+    "week": 16,
+    "label": "Semifinal",
     "score": {
-     "brettmn13": 108.56,
-     "Jbird531": 146.76
+     "YoungBuck04": 111.46,
+     "Jbird531": 132.32
     }
    },
    "flags": [
-    "Rematch of the 2024 final",
-    "Upset watch: {brettmn13} is the underdog"
-   ]
-  },
-  {
-   "a": "TrifectaRich",
-   "b": "DMsourbeer",
-   "a_win": 58.6,
-   "rec": {
-    "TrifectaRich": [
-     4,
-     2
-    ],
-    "DMsourbeer": [
-     2,
-     4
-    ]
-   },
-   "avg": {
-    "TrifectaRich": 108.17,
-    "DMsourbeer": 85.12
-   },
-   "last3": {
-    "TrifectaRich": [
-     112.36,
-     91.58,
-     121.76
-    ],
-    "DMsourbeer": [
-     91.78,
-     81.08,
-     81.28
-    ]
-   },
-   "proj": {
-    "TrifectaRich": 104.49,
-    "DMsourbeer": 95.08
-   },
-   "h2h": {
-    "TrifectaRich": 1,
-    "DMsourbeer": 4,
-    "games": 5
-   },
-   "streak": [
-    "DMsourbeer",
-    4
-   ],
-   "last": {
-    "season": 2025,
-    "week": 11,
-    "label": null,
-    "score": {
-     "TrifectaRich": 76.94,
-     "DMsourbeer": 92.78
-    }
-   },
-   "flags": [
-    "{DMsourbeer} has won 4 straight in this series"
+    "Playoff rematch: {YoungBuck04} lost the 2025 semifinal",
+    "Upset watch: {YoungBuck04} is the underdog"
    ]
   },
   {
    "a": "TuanonStan",
-   "b": "RebuildingRUs",
-   "a_win": 61.6,
+   "b": "butterygoop",
+   "a_win": 25.5,
    "rec": {
     "TuanonStan": [
      4,
-     2
+     3
     ],
-    "RebuildingRUs": [
-     2,
-     4
+    "butterygoop": [
+     6,
+     1
     ]
    },
    "avg": {
-    "TuanonStan": 107.3,
-    "RebuildingRUs": 91.14
+    "TuanonStan": 107.33,
+    "butterygoop": 146.38
    },
    "last3": {
     "TuanonStan": [
-     61.42,
      132.7,
-     91.7
+     91.7,
+     107.52
     ],
-    "RebuildingRUs": [
-     92.98,
-     106.82,
-     89.36
+    "butterygoop": [
+     163.9,
+     110.0,
+     119.84
     ]
    },
    "proj": {
-    "TuanonStan": 109.63,
-    "RebuildingRUs": 96.78
+    "TuanonStan": 109.26,
+    "butterygoop": 136.65
    },
    "h2h": {
-    "TuanonStan": 3,
-    "RebuildingRUs": 2,
-    "games": 5
+    "TuanonStan": 5,
+    "butterygoop": 3,
+    "games": 8
    },
    "streak": [
     "TuanonStan",
@@ -220,107 +106,111 @@
    ],
    "last": {
     "season": 2025,
-    "week": 11,
+    "week": 8,
     "label": null,
     "score": {
-     "TuanonStan": 103.62,
-     "RebuildingRUs": 97.54
+     "TuanonStan": 116.62,
+     "butterygoop": 94.96
     }
    },
-   "flags": []
+   "flags": [
+    "Upset watch: {TuanonStan} is the underdog"
+   ]
   },
   {
-   "a": "Wallner",
-   "b": "YoungBuck04",
-   "a_win": 46.8,
+   "a": "brettmn13",
+   "b": "TrifectaRich",
+   "a_win": 41.8,
    "rec": {
-    "Wallner": [
+    "brettmn13": [
      1,
-     5
+     6
     ],
-    "YoungBuck04": [
-     3,
-     3
+    "TrifectaRich": [
+     5,
+     2
     ]
    },
    "avg": {
-    "Wallner": 102.3,
-    "YoungBuck04": 100.3
+    "brettmn13": 84.09,
+    "TrifectaRich": 106.39
    },
    "last3": {
-    "Wallner": [
-     124.54,
-     93.36,
-     99.86
+    "brettmn13": [
+     73.4,
+     83.6,
+     92.54
     ],
-    "YoungBuck04": [
-     135.06,
-     102.78,
-     93.08
+    "TrifectaRich": [
+     91.58,
+     121.76,
+     95.68
     ]
    },
    "proj": {
-    "Wallner": 103.25,
-    "YoungBuck04": 106.76
+    "brettmn13": 94.88,
+    "TrifectaRich": 103.53
    },
    "h2h": {
-    "Wallner": 3,
-    "YoungBuck04": 4,
-    "games": 7
+    "brettmn13": 4,
+    "TrifectaRich": 1,
+    "games": 5
    },
    "streak": [
-    "YoungBuck04",
-    2
+    "brettmn13",
+    4
    ],
    "last": {
     "season": 2025,
-    "week": 10,
+    "week": 8,
     "label": null,
     "score": {
-     "Wallner": 80.08,
-     "YoungBuck04": 87.9
+     "brettmn13": 137.7,
+     "TrifectaRich": 85.12
     }
    },
-   "flags": []
+   "flags": [
+    "{brettmn13} has won 4 straight in this series"
+   ]
   },
   {
    "a": "Colt45Johnson",
-   "b": "triccster",
-   "a_win": 49.4,
+   "b": "DMsourbeer",
+   "a_win": 73.7,
    "rec": {
     "Colt45Johnson": [
-     2,
+     3,
      4
     ],
-    "triccster": [
-     5,
-     1
+    "DMsourbeer": [
+     2,
+     5
     ]
    },
    "avg": {
-    "Colt45Johnson": 118.23,
-    "triccster": 125.74
+    "Colt45Johnson": 121.65,
+    "DMsourbeer": 83.86
    },
    "last3": {
     "Colt45Johnson": [
-     99.36,
      103.08,
-     113.92
+     113.92,
+     142.2
     ],
-    "triccster": [
-     152.86,
-     144.0,
-     114.1
+    "DMsourbeer": [
+     81.08,
+     81.28,
+     76.3
     ]
    },
    "proj": {
-    "Colt45Johnson": 117.52,
-    "triccster": 118.13
+    "Colt45Johnson": 119.58,
+    "DMsourbeer": 93.2
    },
    "h2h": {
-    "Colt45Johnson": 5,
-    "triccster": 3,
-    "games": 8
+    "Colt45Johnson": 2,
+    "DMsourbeer": 3,
+    "games": 5
    },
    "streak": [
     "Colt45Johnson",
@@ -328,11 +218,121 @@
    ],
    "last": {
     "season": 2025,
-    "week": 6,
+    "week": 10,
     "label": null,
     "score": {
-     "Colt45Johnson": 154.88,
-     "triccster": 94.86
+     "Colt45Johnson": 130.88,
+     "DMsourbeer": 79.22
+    }
+   },
+   "flags": [
+    "Upset watch: {DMsourbeer} is the underdog"
+   ]
+  },
+  {
+   "a": "Wallner",
+   "b": "thecreamer",
+   "a_win": 39.3,
+   "rec": {
+    "Wallner": [
+     1,
+     6
+    ],
+    "thecreamer": [
+     2,
+     5
+    ]
+   },
+   "avg": {
+    "Wallner": 103.97,
+    "thecreamer": 119.53
+   },
+   "last3": {
+    "Wallner": [
+     93.36,
+     99.86,
+     114.0
+    ],
+    "thecreamer": [
+     102.46,
+     98.08,
+     112.72
+    ]
+   },
+   "proj": {
+    "Wallner": 104.06,
+    "thecreamer": 115.35
+   },
+   "h2h": {
+    "Wallner": 3,
+    "thecreamer": 5,
+    "games": 8
+   },
+   "streak": [
+    "Wallner",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 7,
+    "label": null,
+    "score": {
+     "Wallner": 117.52,
+     "thecreamer": 85.88
+    }
+   },
+   "flags": []
+  },
+  {
+   "a": "RebuildingRUs",
+   "b": "triccster",
+   "a_win": 32.4,
+   "rec": {
+    "RebuildingRUs": [
+     3,
+     4
+    ],
+    "triccster": [
+     5,
+     2
+    ]
+   },
+   "avg": {
+    "RebuildingRUs": 95.98,
+    "triccster": 125.01
+   },
+   "last3": {
+    "RebuildingRUs": [
+     106.82,
+     89.36,
+     125.06
+    ],
+    "triccster": [
+     144.0,
+     114.1,
+     120.62
+    ]
+   },
+   "proj": {
+    "RebuildingRUs": 99.19,
+    "triccster": 118.19
+   },
+   "h2h": {
+    "RebuildingRUs": 1,
+    "triccster": 4,
+    "games": 5
+   },
+   "streak": [
+    "RebuildingRUs",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 17,
+    "label": "Consolation",
+    "score": {
+     "RebuildingRUs": 96.64,
+     "triccster": 75.08
     }
    },
    "flags": []
