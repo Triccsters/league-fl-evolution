@@ -3,7 +3,7 @@
  "week": 7,
  "slug": "2026-w07",
  "title": "Week 7 recap",
- "generated": "2026-10-27T12:14:34+00:00",
+ "generated": "2026-10-28T13:08:39+00:00",
  "intro": "",
  "video": "",
  "notes": [],
@@ -15,7 +15,7 @@
   "SNF",
   "MNF"
  ],
- "median": 113.36,
+ "median": 113.31,
  "awards": [
   {
    "key": "high",
@@ -50,7 +50,7 @@
    "name": "Won anyway",
    "manager": "brettmn13",
    "value": 92.54,
-   "note": "below the week's median of 113.36",
+   "note": "below the week's median of 113.31",
    "vs": null
   },
   {
@@ -59,7 +59,7 @@
    "name": "Lost anyway",
    "manager": "triccster",
    "value": 120.62,
-   "note": "above the week's median of 113.36",
+   "note": "above the week's median of 113.31",
    "vs": null
   },
   {
@@ -85,7 +85,7 @@
    "emoji": "😬",
    "name": "Closest game",
    "manager": "YoungBuck04",
-   "value": 5.28,
+   "value": 5.38,
    "note": null,
    "vs": "Wallner"
   },
@@ -127,8 +127,8 @@
   },
   {
    "manager": "Wallner",
-   "points": 114.0,
-   "optimal": 128.8
+   "points": 113.9,
+   "optimal": 128.7
   },
   {
    "manager": "thecreamer",
@@ -222,19 +222,19 @@
    "loser": {
     "manager": "Wallner",
     "team": null,
-    "points": 114.0,
-    "optimal": 128.8,
+    "points": 113.9,
+    "optimal": 128.7,
     "left_on_bench": 14.8,
     "timeline": [
      0.0,
      0.0,
      77.42,
-     103.7,
-     106.7,
-     114.0
+     103.6,
+     106.6,
+     113.9
     ],
     "by_pos": {
-     "QB": 42.8,
+     "QB": 42.7,
      "RB": 46.3,
      "TE": 7.3,
      "WR": 17.6
@@ -252,7 +252,7 @@
       "pos": "QB",
       "id": "11563",
       "nfl": "DEN",
-      "pts": 26.28
+      "pts": 26.18
      },
      {
       "name": "C.J. Stroud",
@@ -275,7 +275,7 @@
      "pts": 0.7
     }
    },
-   "margin": 5.28,
+   "margin": 5.38,
    "cost": [
     {
      "name": "Aaron Jones Sr.",
@@ -1165,19 +1165,19 @@
    "loser": {
     "manager": "Wallner",
     "team": null,
-    "points": 114.0,
-    "optimal": 128.8,
+    "points": 113.9,
+    "optimal": 128.7,
     "left_on_bench": 14.8,
     "timeline": [
      0.0,
      0.0,
      77.42,
-     103.7,
-     106.7,
-     114.0
+     103.6,
+     106.6,
+     113.9
     ],
     "by_pos": {
-     "QB": 42.8,
+     "QB": 42.7,
      "RB": 46.3,
      "TE": 7.3,
      "WR": 17.6
@@ -1195,7 +1195,7 @@
       "pos": "QB",
       "id": "11563",
       "nfl": "DEN",
-      "pts": 26.28
+      "pts": 26.18
      },
      {
       "name": "C.J. Stroud",
@@ -1218,7 +1218,7 @@
      "pts": 0.7
     }
    },
-   "margin": 5.28,
+   "margin": 5.38,
    "cost": [
     {
      "name": "Aaron Jones Sr.",
@@ -1520,7 +1520,7 @@
    "w": 1,
    "l": 6,
    "t": 0,
-   "pf": 727.82
+   "pf": 727.72
   },
   {
    "manager": "brettmn13",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T12:14:53+00:00",
+ "generated": "2026-10-28T13:08:59+00:00",
  "season": 2026,
  "week": 8,
  "playoff": false,
@@ -36,7 +36,7 @@
    },
    "proj": {
     "YoungBuck04": 107.71,
-    "Jbird531": 137.63
+    "Jbird531": 137.62
    },
    "h2h": {
     "YoungBuck04": 4,
@@ -244,14 +244,14 @@
     ]
    },
    "avg": {
-    "Wallner": 103.97,
+    "Wallner": 103.96,
     "thecreamer": 119.53
    },
    "last3": {
     "Wallner": [
      93.36,
      99.86,
-     114.0
+     113.9
     ],
     "thecreamer": [
      102.46,
@@ -260,7 +260,7 @@
     ]
    },
    "proj": {
-    "Wallner": 104.06,
+    "Wallner": 104.05,
     "thecreamer": 115.35
    },
    "h2h": {
