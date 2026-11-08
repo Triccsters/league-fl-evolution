@@ -688,7 +688,7 @@
        "@@TrifectaRich",
        "WR, TE",
        "RB",
-       "QB 4 RB 10 WR 4 TE 3"
+       "QB 4 RB 9 WR 4 TE 4"
       ],
       [
        "@@TuanonStan",
@@ -700,13 +700,13 @@
        "@@Wallner",
        "-",
        "RB, WR",
-       "QB 7 RB 9 WR 10 TE 6"
+       "QB 7 RB 10 WR 10 TE 6"
       ],
       [
        "@@YoungBuck04",
        "WR",
        "QB, TE",
-       "QB 11 RB 7 WR 5 TE 10"
+       "QB 11 RB 7 WR 6 TE 10"
       ],
       [
        "@@brettmn13",
@@ -724,7 +724,7 @@
        "@@thecreamer",
        "RB",
        "QB, TE",
-       "QB 10 RB 3 WR 6 TE 12"
+       "QB 10 RB 3 WR 5 TE 12"
       ],
       [
        "@@Jbird531",
@@ -736,7 +736,7 @@
        "@@triccster",
        "QB, WR",
        "-",
-       "QB 5 RB 6 WR 3 TE 4"
+       "QB 5 RB 6 WR 3 TE 3"
       ]
      ]
     },
@@ -840,7 +840,7 @@
        "@@Jbird531",
        "Michael Wilson",
        "WR ARI",
-       9.7
+       9.8
       ],
       [
        "@@Jbird531",
@@ -874,6 +874,12 @@
       ],
       [
        "@@Jbird531",
+       "Jordyn Tyson",
+       "WR NO",
+       7.8
+      ],
+      [
+       "@@Jbird531",
        "Denzel Boston",
        "WR CLE",
        7.7
@@ -894,12 +900,6 @@
        "@@YoungBuck04",
        "DK Metcalf",
        "WR PIT",
-       7.1
-      ],
-      [
-       "@@thecreamer",
-       "Jadarian Price",
-       "RB SEA",
        7.1
       ]
      ]
@@ -943,7 +943,7 @@
       [
        4,
        "@@butterygoop",
-       26.5,
+       26.4,
        "Isaiah Likely, Woody Marks, Braelon Allen"
       ],
       [
@@ -991,7 +991,7 @@
       [
        12,
        "@@Wallner",
-       17.5,
+       17.3,
        "Dallas Goedert, Cooper Kupp, Devaughn Vele"
       ]
      ]
@@ -1213,28 +1213,28 @@
        "@@Colt45Johnson",
        2,
        29.3,
-       "D'Andre Swift, Caleb Williams"
+       "Caleb Williams, D'Andre Swift"
       ],
       [
        10,
        "@@brettmn13",
        3,
        28.6,
-       "Colston Loveland, Jaylen Waddle, Baker Mayfield"
+       "Baker Mayfield, Jaylen Waddle, Colston Loveland"
       ],
       [
        10,
        "@@DMsourbeer",
        2,
        21.7,
-       "Rome Odunze, Bucky Irving"
+       "Bucky Irving, Rome Odunze"
       ],
       [
        11,
        "@@RebuildingRUs",
        3,
        33.9,
-       "A.J. Brown, Rhamondre Stevenson, Drake Maye"
+       "Drake Maye, Rhamondre Stevenson, A.J. Brown"
       ],
       [
        11,
@@ -1314,6 +1314,13 @@
        "Rebuild"
       ],
       [
+       "@@thecreamer",
+       5,
+       10,
+       26.8,
+       "Win now"
+      ],
+      [
        "@@DMsourbeer",
        10,
        6,
@@ -1322,16 +1329,9 @@
       ],
       [
        "@@TrifectaRich",
-       5,
+       6,
        11,
        25.8,
-       "Win now"
-      ],
-      [
-       "@@thecreamer",
-       6,
-       10,
-       26.8,
        "Win now"
       ],
       [
@@ -1470,13 +1470,13 @@
        "@@RebuildingRUs",
        7,
        3,
-       "Brock Purdy 20.7, Drake Maye 17.4, Michael Penix Jr. 12.4"
+       "Brock Purdy 20.6, Drake Maye 17.4, Michael Penix Jr. 12.3"
       ],
       [
        "@@thecreamer",
        6,
        3,
-       "Tyler Shough 15.8, J.J. McCarthy 14.3, Kirk Cousins 13.6"
+       "Tyler Shough 15.8, J.J. McCarthy 14.2, Kirk Cousins 13.5"
       ],
       [
        "@@triccster",
@@ -1494,7 +1494,7 @@
        "@@TuanonStan",
        9,
        2,
-       "Malik Willis 16.1, Matthew Stafford 13.6, Jacoby Brissett 5.8"
+       "Malik Willis 16.1, Matthew Stafford 13.5, Jacoby Brissett 5.8"
       ],
       [
        "@@Wallner",
@@ -1557,7 +1557,7 @@
        "Josh Jacobs",
        28,
        2,
-       11.0
+       11.1
       ],
       [
        "@@butterygoop",
