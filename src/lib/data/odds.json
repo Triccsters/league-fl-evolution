@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T14:47:52+00:00",
+ "generated": "2026-11-14T14:29:43+00:00",
  "season": 2026,
  "through_week": 9,
  "sims": 10000,
@@ -40,7 +40,17 @@
     "Wallner",
     "Colt45Johnson"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 138.75,
+   "mu_roster": null,
+   "mu_playoff": 138.75,
+   "mu_weeks": {
+    "10": 138.75,
+    "11": 138.75,
+    "12": 138.75,
+    "13": 138.75,
+    "14": 138.75
+   }
   },
   {
    "h": "butterygoop",
@@ -66,7 +76,17 @@
     "Colt45Johnson",
     "RebuildingRUs"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 126.99,
+   "mu_roster": null,
+   "mu_playoff": 126.99,
+   "mu_weeks": {
+    "10": 126.99,
+    "11": 126.99,
+    "12": 126.99,
+    "13": 126.99,
+    "14": 126.99
+   }
   },
   {
    "h": "triccster",
@@ -92,7 +112,17 @@
     "TuanonStan",
     "thecreamer"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 116.28,
+   "mu_roster": null,
+   "mu_playoff": 116.28,
+   "mu_weeks": {
+    "10": 116.28,
+    "11": 116.28,
+    "12": 116.28,
+    "13": 116.28,
+    "14": 116.28
+   }
   },
   {
    "h": "TrifectaRich",
@@ -118,7 +148,17 @@
     "RebuildingRUs",
     "Wallner"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 101.77,
+   "mu_roster": null,
+   "mu_playoff": 101.77,
+   "mu_weeks": {
+    "10": 101.77,
+    "11": 101.77,
+    "12": 101.77,
+    "13": 101.77,
+    "14": 101.77
+   }
   },
   {
    "h": "thecreamer",
@@ -144,7 +184,17 @@
     "brettmn13",
     "triccster"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 114.35,
+   "mu_roster": null,
+   "mu_playoff": 114.35,
+   "mu_weeks": {
+    "10": 114.35,
+    "11": 114.35,
+    "12": 114.35,
+    "13": 114.35,
+    "14": 114.35
+   }
   },
   {
    "h": "TuanonStan",
@@ -170,7 +220,17 @@
     "triccster",
     "YoungBuck04"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 104.08,
+   "mu_roster": null,
+   "mu_playoff": 104.08,
+   "mu_weeks": {
+    "10": 104.08,
+    "11": 104.08,
+    "12": 104.08,
+    "13": 104.08,
+    "14": 104.08
+   }
   },
   {
    "h": "YoungBuck04",
@@ -196,7 +256,17 @@
     "DMsourbeer",
     "TuanonStan"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 104.58,
+   "mu_roster": null,
+   "mu_playoff": 104.58,
+   "mu_weeks": {
+    "10": 104.58,
+    "11": 104.58,
+    "12": 104.58,
+    "13": 104.58,
+    "14": 104.58
+   }
   },
   {
    "h": "Colt45Johnson",
@@ -222,7 +292,17 @@
     "butterygoop",
     "Jbird531"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 116.95,
+   "mu_roster": null,
+   "mu_playoff": 116.95,
+   "mu_weeks": {
+    "10": 116.95,
+    "11": 116.95,
+    "12": 116.95,
+    "13": 116.95,
+    "14": 116.95
+   }
   },
   {
    "h": "DMsourbeer",
@@ -248,7 +328,17 @@
     "YoungBuck04",
     "brettmn13"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 93.26,
+   "mu_roster": null,
+   "mu_playoff": 93.26,
+   "mu_weeks": {
+    "10": 93.26,
+    "11": 93.26,
+    "12": 93.26,
+    "13": 93.26,
+    "14": 93.26
+   }
   },
   {
    "h": "RebuildingRUs",
@@ -274,7 +364,17 @@
     "TrifectaRich",
     "butterygoop"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 95.91,
+   "mu_roster": null,
+   "mu_playoff": 95.91,
+   "mu_weeks": {
+    "10": 95.91,
+    "11": 95.91,
+    "12": 95.91,
+    "13": 95.91,
+    "14": 95.91
+   }
   },
   {
    "h": "brettmn13",
@@ -300,7 +400,17 @@
     "thecreamer",
     "DMsourbeer"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 93.17,
+   "mu_roster": null,
+   "mu_playoff": 93.17,
+   "mu_weeks": {
+    "10": 93.17,
+    "11": 93.17,
+    "12": 93.17,
+    "13": 93.17,
+    "14": 93.17
+   }
   },
   {
    "h": "Wallner",
@@ -326,7 +436,17 @@
     "Jbird531",
     "TrifectaRich"
    ],
-   "tau": 7.62
+   "tau": 7.62,
+   "mu_scores": 99.72,
+   "mu_roster": null,
+   "mu_playoff": 99.72,
+   "mu_weeks": {
+    "10": 99.72,
+    "11": 99.72,
+    "12": 99.72,
+    "13": 99.72,
+    "14": 99.72
+   }
   }
  ],
  "history": {
@@ -590,5 +710,6 @@
   ]
  },
  "bye_teams": 2,
- "divisions": {}
+ "divisions": {},
+ "roster_weight": 0
 }
