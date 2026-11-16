@@ -6,105 +6,105 @@
    "n": "Corey Kiner",
    "p": "RB",
    "t": "NE",
-   "c": 5998308,
+   "c": 5859270,
    "h": "YoungBuck04"
-  },
-  {
-   "n": "Tank Dell",
-   "p": "WR",
-   "t": "HOU",
-   "c": 4655160,
-   "h": "butterygoop"
   },
   {
    "n": "Konata Mumpfield",
    "p": "WR",
    "t": "LAR",
-   "c": 4544523,
+   "c": 4570965,
    "h": "triccster"
   },
   {
-   "n": "Darren Waller",
-   "p": "TE",
-   "t": "CAR",
-   "c": 2784663,
-   "h": "DMsourbeer"
+   "n": "Tank Dell",
+   "p": "WR",
+   "t": "HOU",
+   "c": 4255856,
+   "h": "butterygoop"
   },
   {
    "n": "Emmett Johnson",
    "p": "RB",
    "t": "KC",
-   "c": 2675241,
+   "c": 2796939,
    "h": "brettmn13"
+  },
+  {
+   "n": "Darren Waller",
+   "p": "TE",
+   "t": "CAR",
+   "c": 2764287,
+   "h": "DMsourbeer"
   },
   {
    "n": "Tutu Atwell",
    "p": "WR",
    "t": "LAR",
-   "c": 2298877,
+   "c": 2398067,
    "h": "thecreamer"
-  },
-  {
-   "n": "Audric Estime",
-   "p": "RB",
-   "t": "NO",
-   "c": 1856583,
-   "h": "DMsourbeer"
   },
   {
    "n": "Fernando Mendoza",
    "p": "QB",
    "t": "LV",
-   "c": 1746048,
+   "c": 1867488,
    "h": "TuanonStan"
   },
   {
    "n": "Justice Hill",
    "p": "RB",
    "t": "BAL",
-   "c": 1490463,
+   "c": 1694808,
    "h": "YoungBuck04"
+  },
+  {
+   "n": "Audric Estime",
+   "p": "RB",
+   "t": "NO",
+   "c": 1680807,
+   "h": "DMsourbeer"
   },
   {
    "n": "Chimere Dike",
    "p": "WR",
    "t": "TEN",
-   "c": 1104417,
+   "c": 1174716,
    "h": "Colt45Johnson"
-  },
-  {
-   "n": "Baltimore Ravens",
-   "p": "DEF",
-   "t": "BAL",
-   "c": 1071243,
-   "h": null
   },
   {
    "n": "Tyler Higbee",
    "p": "TE",
    "t": "LAR",
-   "c": 1066788,
+   "c": 1138293,
    "h": "TrifectaRich"
+  },
+  {
+   "n": "Baltimore Ravens",
+   "p": "DEF",
+   "t": "BAL",
+   "c": 1076892,
+   "h": null
   },
   {
    "n": "Ashton Dulin",
    "p": "WR",
    "t": "IND",
-   "c": 1066068,
+   "c": 1068588,
    "h": "Wallner"
   },
   {
    "n": "Kyle McCord",
    "p": "QB",
    "t": "MIA",
-   "c": 973908,
+   "c": 981376,
    "h": "Colt45Johnson"
   },
   {
    "n": "Indianapolis Colts",
    "p": "DEF",
    "t": "IND",
-   "c": 934578,
+   "c": 944118,
    "h": null
   }
  ],
@@ -113,105 +113,105 @@
    "n": "Michael Wilson",
    "p": "WR",
    "t": "ARI",
-   "c": 3391551,
+   "c": 3445200,
    "h": "Jbird531"
   },
   {
    "n": "Devin Singletary",
    "p": "RB",
    "t": "NYG",
-   "c": 2253600,
+   "c": 2297952,
    "h": "TrifectaRich"
   },
   {
    "n": "Seth McGowan",
    "p": "RB",
    "t": "IND",
-   "c": 1797424,
+   "c": 1792592,
    "h": "YoungBuck04"
   },
   {
    "n": "Chase McLaughlin",
    "p": "K",
    "t": "TB",
-   "c": 1580448,
+   "c": 1602512,
    "h": null
   },
   {
    "n": "Malik Willis",
    "p": "QB",
    "t": "MIA",
-   "c": 1520428,
+   "c": 1472443,
    "h": "TuanonStan"
   },
   {
    "n": "Adonai Mitchell",
    "p": "WR",
    "t": "NYJ",
-   "c": 1458520,
+   "c": 1363672,
    "h": "DMsourbeer"
   },
   {
    "n": "Emanuel Wilson",
    "p": "RB",
    "t": "SEA",
-   "c": 1389699,
+   "c": 1344762,
    "h": "YoungBuck04"
   },
   {
    "n": "Cairo Santos",
    "p": "K",
    "t": "CHI",
-   "c": 1216936,
+   "c": 1214353,
    "h": null
   },
   {
    "n": "Kyler Murray",
    "p": "QB",
    "t": "MIN",
-   "c": 1189360,
+   "c": 1180232,
    "h": "triccster"
   },
   {
    "n": "Detroit Lions",
    "p": "DEF",
    "t": "DET",
-   "c": 1152765,
+   "c": 1121967,
    "h": null
   },
   {
    "n": "Elijah Mitchell",
    "p": "RB",
    "t": "PHI",
-   "c": 1070073,
+   "c": 1053351,
    "h": "triccster"
   },
   {
    "n": "Devaughn Vele",
    "p": "WR",
    "t": "NO",
-   "c": 975660,
+   "c": 959658,
    "h": "Wallner"
   },
   {
    "n": "Carson Wentz",
    "p": "QB",
    "t": "MIN",
-   "c": 926598,
+   "c": 928542,
    "h": "brettmn13"
   },
   {
    "n": "New Orleans Saints",
    "p": "DEF",
    "t": "NO",
-   "c": 871695,
+   "c": 856925,
    "h": null
   },
   {
    "n": "New England Patriots",
    "p": "DEF",
    "t": "NE",
-   "c": 868224,
+   "c": 851935,
    "h": null
   }
  ]
