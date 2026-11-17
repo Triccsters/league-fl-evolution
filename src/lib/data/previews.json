@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T21:13:01+00:00",
+ "generated": "2026-11-17T21:28:09+00:00",
  "season": 2026,
  "week": 11,
  "playoff": false,
@@ -166,23 +166,16 @@
      }
     },
     {
-     "headline": "Vikings WR Jordan Addison needs thumb surgery, is candidate for IR",
-     "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
      "date": "2026-11-16",
-     "both": true,
-     "score": 16.0,
+     "both": false,
+     "score": 20.0,
      "touches": {
-      "thecreamer": [
-       {
-        "n": "Kirk Cousins",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
       "Jbird531": [
        {
-        "n": "Justin Jefferson",
-        "p": "WR",
+        "n": "Isaiah Davis",
+        "p": "RB",
         "how": "ripple"
        }
       ]
@@ -807,6 +800,44 @@
      }
     },
     {
+     "headline": "Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts",
+     "url": "https://www.espn.com/nfl/story/_/id/50505347/miami-dolphins-quarterback-kyle-mccord-debut-colts",
+     "date": "2026-11-17",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Malik Willis",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Malik Washington",
+        "p": "WR",
+        "how": "named"
+       },
+       {
+        "n": "Justin Joly",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "Wallner": [
+       {
+        "n": "Jaylen Wright",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kevin Coleman Jr.",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
      "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
      "date": "2026-11-16",
@@ -822,22 +853,6 @@
        {
         "n": "Breece Hall",
         "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
-     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
-     "date": "2026-11-16",
-     "both": false,
-     "score": 18.0,
-     "touches": {
-      "TuanonStan": [
-       {
-        "n": "Rashee Rice",
-        "p": "WR",
         "how": "ripple"
        }
       ]
@@ -933,6 +948,29 @@
      }
     },
     {
+     "headline": "Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts",
+     "url": "https://www.espn.com/nfl/story/_/id/50505347/miami-dolphins-quarterback-kyle-mccord-debut-colts",
+     "date": "2026-11-17",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "Colt45Johnson": [
+       {
+        "n": "Kyle McCord",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "De'Von Achane",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints",
      "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
      "date": "2026-11-16",
@@ -986,34 +1024,6 @@
      }
     },
     {
-     "headline": "Vikings WR Jordan Addison needs thumb surgery, is candidate for IR",
-     "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Carson Wentz",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "Jauan Jennings",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "Colt45Johnson": [
-       {
-        "n": "Tai Felton",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
      "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
      "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
      "date": "2026-11-16",
@@ -1045,6 +1055,6 @@
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-17T21:13+00:00",
+ "nfl_read_at": "2026-11-17T21:28+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }

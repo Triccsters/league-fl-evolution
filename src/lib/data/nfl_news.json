@@ -1,7 +1,7 @@
 {
- "read_at": "2026-11-17T21:13+00:00",
+ "read_at": "2026-11-17T21:28+00:00",
  "days": 7,
- "count": 122,
+ "count": 126,
  "items": [
   {
    "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
@@ -719,6 +719,111 @@
    "score": 16.5
   },
   {
+   "headline": "Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts",
+   "url": "https://www.espn.com/nfl/story/_/id/50505347/miami-dolphins-quarterback-kyle-mccord-debut-colts",
+   "date": "2026-11-17",
+   "kind": "story",
+   "teams": [
+    "MIA"
+   ],
+   "named": [
+    {
+     "n": "Kyle McCord",
+     "p": "QB",
+     "t": "MIA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Malik Willis",
+     "p": "QB",
+     "t": "MIA",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Malik Washington",
+     "p": "WR",
+     "t": "MIA",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Caleb Douglas",
+     "p": "WR",
+     "t": "MIA",
+     "h": "thecreamer"
+    }
+   ],
+   "lead": [
+    "Kyle McCord"
+   ],
+   "ripple": [
+    {
+     "n": "Justin Joly",
+     "p": "TE",
+     "t": "MIA",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Jaylen Wright",
+     "p": "RB",
+     "t": "MIA",
+     "h": "Wallner"
+    },
+    {
+     "n": "Kevin Coleman Jr.",
+     "p": "WR",
+     "t": "MIA",
+     "h": "Wallner"
+    },
+    {
+     "n": "De'Von Achane",
+     "p": "RB",
+     "t": "MIA",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Ollie Gordon II",
+     "p": "RB",
+     "t": "MIA",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Greg Dulcich",
+     "p": "TE",
+     "t": "MIA",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Chris Bell",
+     "p": "WR",
+     "t": "MIA",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Kaytron Allen",
+     "p": "RB",
+     "t": "MIA",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jalen Tolbert",
+     "p": "WR",
+     "t": "MIA",
+     "h": "butterygoop"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "RebuildingRUs",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "brettmn13",
+    "butterygoop",
+    "thecreamer"
+   ],
+   "score": 16.0
+  },
+  {
    "headline": "Falcons WR Drake London cleared after being checked for concussion",
    "url": "https://www.espn.com/nfl/story/_/id/50503127/falcons-drake-london-cleared-being-checked-concussion",
    "date": "2026-11-16",
@@ -1232,100 +1337,6 @@
     "TuanonStan",
     "brettmn13",
     "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Vikings WR Jordan Addison needs thumb surgery, is candidate for IR",
-   "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
-   "date": "2026-11-16",
-   "kind": "news",
-   "teams": [
-    "MIN"
-   ],
-   "named": [
-    {
-     "n": "Jordan Addison",
-     "p": "WR",
-     "t": "MIN",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Jordan Addison"
-   ],
-   "ripple": [
-    {
-     "n": "Aaron Jones Sr.",
-     "p": "RB",
-     "t": "MIN",
-     "h": "Wallner"
-    },
-    {
-     "n": "T.J. Hockenson",
-     "p": "TE",
-     "t": "MIN",
-     "h": "Wallner"
-    },
-    {
-     "n": "Carson Wentz",
-     "p": "QB",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jauan Jennings",
-     "p": "WR",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Tai Felton",
-     "p": "WR",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jordan Mason",
-     "p": "RB",
-     "t": "MIN",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Kirk Cousins",
-     "p": "QB",
-     "t": "MIN",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Demond Claiborne",
-     "p": "RB",
-     "t": "MIN",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Kyler Murray",
-     "p": "QB",
-     "t": "MIN",
-     "h": "triccster"
-    },
-    {
-     "n": "Justin Jefferson",
-     "p": "WR",
-     "t": "MIN",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "RebuildingRUs",
-    "Wallner",
-    "brettmn13",
-    "butterygoop",
-    "thecreamer",
     "triccster"
    ],
    "score": 16.0
