@@ -407,33 +407,33 @@
       ],
       [
        "@@TuanonStan",
-       "78.1%",
+       "78.0%",
        "Likely",
-       "+16.9"
+       "+16.8"
       ],
       [
        "@@YoungBuck04",
-       "76.8%",
+       "77.0%",
        "Likely",
-       "+49.4"
+       "+49.6"
       ],
       [
        "@@TrifectaRich",
-       "68.4%",
+       "68.0%",
        "Likely",
-       "+50.7"
+       "+50.3"
       ],
       [
        "@@thecreamer",
-       "58.6%",
+       "58.8%",
        "Bubble",
-       -17.9
+       -17.7
       ],
       [
        "@@Colt45Johnson",
-       "19.3%",
+       "19.5%",
        "Fading",
-       -68.1
+       -67.9
       ],
       [
        "@@DMsourbeer",
@@ -720,11 +720,11 @@
        "@@RebuildingRUs",
        "WR",
        "RB",
-       "QB 6 RB 11 WR 6 TE 8"
+       "QB 6 RB 11 WR 7 TE 8"
       ],
       [
        "@@TrifectaRich",
-       "WR",
+       "-",
        "RB",
        "QB 5 RB 10 WR 4 TE 5"
       ],
@@ -744,7 +744,7 @@
        "@@YoungBuck04",
        "WR",
        "QB, TE",
-       "QB 11 RB 8 WR 7 TE 10"
+       "QB 11 RB 8 WR 6 TE 10"
       ],
       [
        "@@brettmn13",
@@ -802,12 +802,6 @@
        "RB"
       ],
       [
-       "@@TrifectaRich",
-       "WR",
-       "@@TuanonStan",
-       "RB"
-      ],
-      [
        "@@TuanonStan",
        "RB",
        "@@brettmn13",
@@ -848,31 +842,31 @@
        "@@triccster",
        "C.J. Stroud",
        "QB HOU",
-       19.1
+       19.2
       ],
       [
        "@@triccster",
        "Jared Goff",
        "QB DET",
-       18.6
-      ],
-      [
-       "@@Jbird531",
-       "Jordyn Tyson",
-       "WR NO",
-       9.1
+       18.5
       ],
       [
        "@@thecreamer",
        "Travis Etienne Jr.",
        "RB NO",
-       9.0
+       9.1
+      ],
+      [
+       "@@Jbird531",
+       "Jordyn Tyson",
+       "WR NO",
+       8.9
       ],
       [
        "@@butterygoop",
        "Josh Jacobs",
        "RB GB",
-       8.4
+       8.5
       ],
       [
        "@@triccster",
@@ -881,16 +875,16 @@
        7.9
       ],
       [
-       "@@YoungBuck04",
-       "Pat Bryant",
-       "WR DEN",
-       7.3
-      ],
-      [
        "@@TuanonStan",
        "Rico Dowdle",
        "RB PIT",
-       7.1
+       7.2
+      ],
+      [
+       "@@YoungBuck04",
+       "Pat Bryant",
+       "WR DEN",
+       7.2
       ],
       [
        "@@Colt45Johnson",
@@ -951,7 +945,7 @@
       [
        1,
        "@@triccster",
-       36.0,
+       36.1,
        "Jared Goff, Zay Flowers, Deebo Samuel Sr."
       ],
       [
@@ -969,19 +963,19 @@
       [
        4,
        "@@YoungBuck04",
-       27.2,
+       27.1,
        "Joe Milton, Pat Bryant, Omar Cooper Jr."
       ],
       [
        5,
        "@@TuanonStan",
-       26.1,
+       26.3,
        "Fernando Mendoza, Jacoby Brissett, Breece Hall"
       ],
       [
        6,
        "@@RebuildingRUs",
-       25.3,
+       25.2,
        "Drake Maye, Carson Beck, Josh Downs"
       ],
       [
@@ -993,13 +987,13 @@
       [
        8,
        "@@butterygoop",
-       22.1,
+       22.0,
        "Josh Jacobs, Chris Godwin Jr., Dalton Schultz"
       ],
       [
        9,
        "@@Colt45Johnson",
-       21.8,
+       21.9,
        "Omarion Hampton, Kyle Monangai, Antonio Williams"
       ],
       [
@@ -1011,7 +1005,7 @@
       [
        11,
        "@@brettmn13",
-       18.5,
+       18.4,
        "Tucker Kraft, Jacory Croskey-Merritt, Malachi Fields"
       ],
       [
@@ -1239,20 +1233,20 @@
        "@@RebuildingRUs",
        3,
        27.3,
-       "Michael Penix Jr., A.J. Brown, Rhamondre Stevenson"
+       "A.J. Brown, Rhamondre Stevenson, Michael Penix Jr."
       ],
       [
        11,
        "@@TuanonStan",
        2,
-       21.0,
+       20.9,
        "Matthew Stafford, Deshaun Watson"
       ],
       [
        11,
        "@@butterygoop",
        2,
-       20.2,
+       20.1,
        "Davante Adams, Drake London"
       ],
       [
@@ -1260,21 +1254,21 @@
        "@@TrifectaRich",
        2,
        17.1,
-       "Matthew Golden, Blake Corum"
+       "Blake Corum, Matthew Golden"
       ],
       [
        13,
        "@@TuanonStan",
        2,
        17.7,
-       "Garrett Wilson, Ashton Jeanty"
+       "Ashton Jeanty, Garrett Wilson"
       ],
       [
        14,
        "@@YoungBuck04",
        2,
-       22.1,
-       "George Pickens, Dak Prescott"
+       22.2,
+       "Dak Prescott, George Pickens"
       ]
      ]
     }
@@ -1496,37 +1490,37 @@
        "@@thecreamer",
        6,
        3,
-       "Kirk Cousins 17.4, Tyler Shough 15.4, J.J. McCarthy 13.4"
+       "Kirk Cousins 17.3, Tyler Shough 15.4, J.J. McCarthy 13.4"
       ],
       [
        "@@triccster",
        5,
        3,
-       "Jayden Daniels 21.1, C.J. Stroud 19.1, Jared Goff 18.6"
+       "Jayden Daniels 21.1, C.J. Stroud 19.2, Jared Goff 18.5"
       ],
       [
        "@@YoungBuck04",
        4,
        3,
-       "Justin Herbert 14.2, Dak Prescott 13.6, Joe Milton 13.6"
+       "Justin Herbert 14.2, Dak Prescott 13.7, Joe Milton 13.5"
       ],
       [
        "@@Jbird531",
        4,
        3,
-       "Josh Allen 23.3, Trevor Lawrence 21.3, Jordan Love 13.6"
+       "Josh Allen 23.1, Trevor Lawrence 21.3, Jordan Love 13.7"
       ],
       [
        "@@TrifectaRich",
        3,
        3,
-       "Patrick Mahomes 19.3, Cam Ward 14.7, Geno Smith 11.5"
+       "Patrick Mahomes 19.2, Cam Ward 14.6, Geno Smith 11.5"
       ],
       [
        "@@brettmn13",
        6,
        2,
-       "Joe Burrow 21.8, Baker Mayfield 15.0, Case Keenum 0.0"
+       "Joe Burrow 21.9, Baker Mayfield 14.8, Case Keenum 0.0"
       ],
       [
        "@@DMsourbeer",
@@ -1538,7 +1532,7 @@
        "@@TuanonStan",
        9,
        1,
-       "Deshaun Watson 11.1, Matthew Stafford 10.0, Fernando Mendoza 9.8"
+       "Deshaun Watson 11.1, Matthew Stafford 9.8, Fernando Mendoza 9.7"
       ],
       [
        "@@Colt45Johnson",
@@ -1550,19 +1544,19 @@
        "@@RebuildingRUs",
        7,
        1,
-       "Brock Purdy 18.9, Michael Penix Jr. 10.3, Drake Maye 9.6"
+       "Brock Purdy 19.0, Michael Penix Jr. 10.3, Drake Maye 9.6"
       ],
       [
        "@@Wallner",
        6,
        1,
-       "Bo Nix 17.3, Mason Rudolph 0.0, Jarrett Stidham 0.0"
+       "Bo Nix 17.2, Mason Rudolph 0.0, Jarrett Stidham 0.0"
       ],
       [
        "@@butterygoop",
        5,
        1,
-       "Aaron Rodgers 14.6, Lamar Jackson 0.0, Gardner Minshew II 0.0"
+       "Aaron Rodgers 15.0, Lamar Jackson 0.0, Gardner Minshew II 0.0"
       ]
      ]
     },
@@ -1583,14 +1577,14 @@
        "Josh Jacobs",
        28,
        2,
-       8.4
+       8.5
       ],
       [
        "@@butterygoop",
        "Jaylen Warren",
        28,
        2,
-       12.9
+       13.0
       ],
       [
        "@@butterygoop",
@@ -1611,14 +1605,14 @@
        "Saquon Barkley",
        29,
        3,
-       14.4
+       14.3
       ],
       [
        "@@triccster",
        "Elijah Mitchell",
        28,
        3,
-       1.7
+       1.6
       ],
       [
        "@@triccster",
@@ -1639,7 +1633,7 @@
        "D'Andre Swift",
        27,
        4,
-       15.9
+       16.0
       ],
       [
        "@@thecreamer",
@@ -1653,7 +1647,7 @@
        "Travis Etienne Jr.",
        27,
        5,
-       9.0
+       9.1
       ],
       [
        "@@thecreamer",
@@ -1815,86 +1809,6 @@
        "TE",
        "@@Wallner",
        29.6
-      ]
-     ]
-    }
-   ]
-  },
-  {
-   "id": "league",
-   "title": "Only in this league",
-   "intro": "Trackers built for this league's own quirks.",
-   "cards": [
-    {
-     "id": "names",
-     "title": "Team name history",
-     "note": "Every name a team has gone by: its name at the end of each season on record, plus renames caught by the daily update from October 2026 on. Before shows the last five, newest first.",
-     "cols": [
-      "Team",
-      "Names",
-      "Now",
-      "Before"
-     ],
-     "rows": [
-      [
-       "@@Colt45Johnson",
-       8,
-       "Screw Them QBs",
-       "Not so guarenteed 1.01 (2026 (wk 5)) / Screw Them QBs (2026) / Rippin Darts (2025) / Ayahuasca All-Stars (2023) / Gunshot Go Hards (2022)"
-      ],
-      [
-       "@@TuanonStan",
-       5,
-       "no team name set",
-       "Tuanon (2023) / 2 Fast Tua Furious (2022) / Perennial Rebuilder (2021) / Please save us (2020) / Playoffs?! (2019)"
-      ],
-      [
-       "@@brettmn13",
-       5,
-       "I ❤️ An L",
-       "Madriguera (2022) / Team Brettmn29 (2021) / Back to back poop champ (2020) / Pillow man ZZZ (2019)"
-      ],
-      [
-       "@@YoungBuck04",
-       4,
-       "no team name set",
-       "Screw Them RB’s (2024) / Chasing Last (2022) / John Waller (2020) / Dirty Birds (2019)"
-      ],
-      [
-       "@@butterygoop",
-       4,
-       "no team name set",
-       "Picken otton with olave (2023) / TopSide Piss King 🤴 👑 (2022) / Rosterbation King 🤴 (2021) / Hot Beaver Trap (2019)"
-      ],
-      [
-       "@@Jbird531",
-       2,
-       "no team name set",
-       "Shot caller (2023) / Big Truss (2019)"
-      ],
-      [
-       "@@Wallner",
-       2,
-       "no team name set",
-       "Dead Man Walking (2020) / The Hunted (2019)"
-      ],
-      [
-       "@@DMsourbeer",
-       1,
-       "no team name set",
-       "DM sourbeer (2022)"
-      ],
-      [
-       "@@RebuildingRUs",
-       1,
-       "no team name set",
-       "Guranteed 1.01 (2022)"
-      ],
-      [
-       "@@triccster",
-       1,
-       "no team name set",
-       "Harold and kumara (2019)"
       ]
      ]
     }

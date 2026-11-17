@@ -166,5 +166,89 @@
    "link": 9,
    "image": "https://sleepercdn.com/avatars/7afb1b19e4712555d01fc64d1ed4fc2b"
   }
+ },
+ {
+  "managerID": "past-joeyk14",
+  "handle": "JoeyK14",
+  "name": "JoeyK14",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2019,
+  "bio": "Played from 2019 to 2021. Regular season: 17-23. Toughest opponent: Triccster (1-5). No longer in the league.",
+  "past": true,
+  "lastSeason": 2021,
+  "lastTeamName": "JoeyK14",
+  "seasonsPlayed": [
+   2019,
+   2020,
+   2021
+  ],
+  "rival": {
+   "name": "Triccster",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
+ },
+ {
+  "managerID": "past-rockmnwild",
+  "handle": "RockMNwild",
+  "name": "RockMNwild",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2019,
+  "bio": "Played from 2019 to 2020. Regular season: 16-10. Toughest opponent: butterygoop (0-3). No longer in the league.",
+  "past": true,
+  "lastSeason": 2020,
+  "lastTeamName": "back to back fivers",
+  "seasonsPlayed": [
+   2019,
+   2020
+  ],
+  "rival": {
+   "name": "butterygoop",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
+ },
+ {
+  "managerID": "past-rongo914",
+  "handle": "Rongo914",
+  "name": "Rongo914",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2021,
+  "bio": "Played in 2021. Regular season: 3-11. Toughest opponent: TrifectaRich (0-2). No longer in the league.",
+  "past": true,
+  "lastSeason": 2021,
+  "lastTeamName": "Rongo914",
+  "seasonsPlayed": [
+   2021
+  ],
+  "rival": {
+   "name": "TrifectaRich",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
+ },
+ {
+  "managerID": "past-xfire3",
+  "handle": "XFIRE3",
+  "name": "XFIRE3",
+  "photo": "/managers/question.jpg",
+  "avatar": "/managers/question.jpg",
+  "fantasyStart": 2019,
+  "bio": "Played from 2019 to 2020. Regular season: 15-11. 1 final, never won one. Toughest opponent: butterygoop (1-3). No longer in the league.",
+  "past": true,
+  "lastSeason": 2020,
+  "lastTeamName": "Team No Picks",
+  "seasonsPlayed": [
+   2019,
+   2020
+  ],
+  "rival": {
+   "name": "butterygoop",
+   "link": null,
+   "image": "/managers/everyone.png"
+  }
  }
 ]
