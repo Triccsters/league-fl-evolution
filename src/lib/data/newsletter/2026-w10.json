@@ -1228,227 +1228,6 @@
  },
  "features": [
   {
-   "id": "lineup-audit",
-   "style": "article",
-   "place": "after-lead",
-   "label": "Lineup audit",
-   "title": "Who started players who did not play, and what it cost",
-   "dek": "Every team's numbers, this season and the four before it, and the games and seeds a full lineup would have changed.",
-   "blocks": [
-    {
-     "type": "h",
-     "text": "What was counted"
-    },
-    {
-     "type": "p",
-     "text": "A dead starter here is a player who was started, scored 0, and has no game logged in Sleeper's stats that week: out, on injured reserve, inactive or on a bye. A player who played and scored 0 is not counted. The count cannot tell a player ruled out on Friday from one scratched an hour before kickoff, so some of these could not have been avoided. \"Had a bench player who scored\" means the manager had someone on his bench that week who could have filled the slot and did score."
-    },
-    {
-     "type": "h",
-     "text": "This season, weeks 1 to 10"
-    },
-    {
-     "type": "table",
-     "cols": [
-      "Team",
-      "Dead starters",
-      "Had a bench player who scored",
-      "Points given away"
-     ],
-     "rows": [
-      [
-       "RebuildingRUs",
-       "9",
-       "9",
-       "106.3"
-      ],
-      [
-       "DMsourbeer",
-       "4",
-       "3",
-       "21.6"
-      ],
-      [
-       "TrifectaRich",
-       "1",
-       "1",
-       "10.4"
-      ],
-      [
-       "TuanonStan",
-       "1",
-       "1",
-       "5.4"
-      ],
-      [
-       "Wallner",
-       "1",
-       "1",
-       "5.2"
-      ],
-      [
-       "brettmn13",
-       "1",
-       "0",
-       "0.0"
-      ],
-      [
-       "The other six",
-       "0",
-       "",
-       ""
-      ]
-     ]
-    },
-    {
-     "type": "p",
-     "text": "RebuildingRUs had three dead starters in week 9 and none in week 10. RJ Harvey has been on injured reserve since October 31 and TreVeyon Henderson was placed there on November 14; Harvey was started in weeks 8 and 9 and Henderson in week 9. Wallner's one was T.J. Hockenson in week 10, ruled out on Friday."
-    },
-    {
-     "type": "h",
-     "text": "By season"
-    },
-    {
-     "type": "table",
-     "cols": [
-      "Team",
-      "2022",
-      "2023",
-      "2024",
-      "2025"
-     ],
-     "rows": [
-      [
-       "RebuildingRUs",
-       "14 / 7",
-       "18 / 16",
-       "23 / 22",
-       "9 / 8"
-      ],
-      [
-       "TrifectaRich",
-       "2 / 2",
-       "10 / 9",
-       "16 / 13",
-       "3 / 3"
-      ],
-      [
-       "TuanonStan",
-       "0",
-       "0",
-       "6 / 6",
-       "1 / 1"
-      ],
-      [
-       "DMsourbeer",
-       "1 / 0",
-       "5 / 3",
-       "3 / 3",
-       "1 / 1"
-      ],
-      [
-       "Everyone else",
-       "0 to 2",
-       "0 to 2",
-       "0 to 2",
-       "0 to 2"
-      ]
-     ]
-    },
-    {
-     "type": "note",
-     "text": "Dead starters / of those, how many had a bench player who scored."
-    },
-    {
-     "type": "h",
-     "text": "The games it changed"
-    },
-    {
-     "type": "p",
-     "text": "A loss counts here when it becomes a win with each dead starter replaced by the best eligible bench player that week. That is the best fill in hindsight, so this is the most generous version, and each game is treated on its own."
-    },
-    {
-     "type": "list",
-     "items": [
-      "2026 week 9: RebuildingRUs lost to YoungBuck04 96.22 to 86.84; the bench fill was worth 44.5.",
-      "2025 week 11: RebuildingRUs lost to TuanonStan by 6.1; fill 6.6.",
-      "2024 week 2: RebuildingRUs lost to Colt45Johnson by 15.2; fill 36.5.",
-      "2024 week 4: RebuildingRUs lost to butterygoop by 51.5; fill 55.6.",
-      "2024 week 12: RebuildingRUs lost to Jbird531 by 9.1; fill 28.7.",
-      "2024 week 12: TrifectaRich lost to Colt45Johnson by 11.4; fill 19.1, from an empty slot.",
-      "2024 week 14: RebuildingRUs lost to TrifectaRich by 3.8; fill 35.8.",
-      "2023 week 1: TrifectaRich lost to butterygoop by 7.9; fill 21.4, from an empty slot.",
-      "2023 week 2: RebuildingRUs lost to Colt45Johnson by 29.8; fill 30.2.",
-      "2023 week 7: DMsourbeer lost to Wallner by 4.1; fill 15.9.",
-      "2023 week 10: TrifectaRich lost to YoungBuck04 by 15.7; fill 44.0."
-     ]
-    },
-    {
-     "type": "h",
-     "text": "What it did to the playoffs"
-    },
-    {
-     "type": "p",
-     "text": "From 2021 to 2025 the six playoff teams were the same every season with those games flipped. Seeding moved. In 2025 TuanonStan drops from the 3 seed to the 5 and Jbird531 moves up from 4 to 3, and RebuildingRUs finishes 7-7, level with DMsourbeer for the last spot, and misses on points. In 2023 Wallner and brettmn13 swap the 2 and 3 seeds, and butterygoop and Jbird531 swap 4 and 5. In 2024 no seed changes."
-    },
-    {
-     "type": "p",
-     "text": "This season it matters now. With the week 9 game flipped, YoungBuck04 is 5-5 instead of 6-4 and RebuildingRUs is 4-6, and the 6 seed today goes to thecreamer on points instead of YoungBuck04."
-    },
-    {
-     "type": "h",
-     "text": "Draft order"
-    },
-    {
-     "type": "p",
-     "text": "TuanonStan, the commissioner, confirmed in the league chat on November 13 that the rookie draft order for the six non-playoff teams is set by max points for. Picks 7 to 12 follow the playoff finish in reverse, and the losers bracket has never moved a pick."
-    },
-    {
-     "type": "table",
-     "cols": [
-      "Draft",
-      "Picks 1 to 6 as made",
-      "By record",
-      "By max PF"
-     ],
-     "rows": [
-      [
-       "2023",
-       "RebuildingRUs, Colt45Johnson, YoungBuck04, DMsourbeer, Jbird531, TrifectaRich",
-       "same",
-       "differs at 4 and 5"
-      ],
-      [
-       "2024",
-       "RebuildingRUs, DMsourbeer, triccster, Colt45Johnson, thecreamer, TrifectaRich",
-       "differs",
-       "same"
-      ],
-      [
-       "2025",
-       "TuanonStan, TrifectaRich, RebuildingRUs, Colt45Johnson, DMsourbeer, Wallner",
-       "differs",
-       "same"
-      ],
-      [
-       "2026",
-       "TrifectaRich, triccster, Wallner, thecreamer, RebuildingRUs, brettmn13",
-       "same",
-       "differs at 2 and 3"
-      ]
-     ]
-    },
-    {
-     "type": "p",
-     "text": "The 2026 order has a slip at picks 2 and 3: by max PF, Wallner (1,483) should have picked before triccster (1,538). triccster raised it himself, though the slip was in his favor. Orders for 2023 and earlier match the standings in reverse, and nobody has said when max PF began."
-    },
-    {
-     "type": "p",
-     "text": "Under max PF, a short lineup does not buy a better pick. In the 2024 draft TrifectaRich was 4-10 and would have picked 4th by record; he picked 6th. In the 2025 draft RebuildingRUs was 2-12 and would have picked 1st by record; he picked 3rd."
-    }
-   ]
-  },
-  {
    "id": "odds-movement",
    "style": "article",
    "place": "after-lead",
@@ -1836,6 +1615,227 @@
     {
      "type": "note",
      "text": "No return dates are attached to any of these, so this is a list of who is unavailable rather than a list of who is close."
+    }
+   ]
+  },
+  {
+   "id": "lineup-audit",
+   "style": "article",
+   "place": "end",
+   "label": "Lineup audit",
+   "title": "Who started players who did not play, and what it cost",
+   "dek": "Every team's numbers, this season and the four before it, and the games and seeds a full lineup would have changed.",
+   "blocks": [
+    {
+     "type": "h",
+     "text": "What was counted"
+    },
+    {
+     "type": "p",
+     "text": "A dead starter here is a player who was started, scored 0, and has no game logged in Sleeper's stats that week: out, on injured reserve, inactive or on a bye. A player who played and scored 0 is not counted. The count cannot tell a player ruled out on Friday from one scratched an hour before kickoff, so some of these could not have been avoided. \"Had a bench player who scored\" means the manager had someone on his bench that week who could have filled the slot and did score."
+    },
+    {
+     "type": "h",
+     "text": "This season, weeks 1 to 10"
+    },
+    {
+     "type": "table",
+     "cols": [
+      "Team",
+      "Dead starters",
+      "Had a bench player who scored",
+      "Points given away"
+     ],
+     "rows": [
+      [
+       "RebuildingRUs",
+       "9",
+       "9",
+       "106.3"
+      ],
+      [
+       "DMsourbeer",
+       "4",
+       "3",
+       "21.6"
+      ],
+      [
+       "TrifectaRich",
+       "1",
+       "1",
+       "10.4"
+      ],
+      [
+       "TuanonStan",
+       "1",
+       "1",
+       "5.4"
+      ],
+      [
+       "Wallner",
+       "1",
+       "1",
+       "5.2"
+      ],
+      [
+       "brettmn13",
+       "1",
+       "0",
+       "0.0"
+      ],
+      [
+       "The other six",
+       "0",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "RebuildingRUs had three dead starters in week 9 and none in week 10. RJ Harvey has been on injured reserve since October 31 and TreVeyon Henderson was placed there on November 14; Harvey was started in weeks 8 and 9 and Henderson in week 9. Wallner's one was T.J. Hockenson in week 10, ruled out on Friday."
+    },
+    {
+     "type": "h",
+     "text": "By season"
+    },
+    {
+     "type": "table",
+     "cols": [
+      "Team",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+     ],
+     "rows": [
+      [
+       "RebuildingRUs",
+       "14 / 7",
+       "18 / 16",
+       "23 / 22",
+       "9 / 8"
+      ],
+      [
+       "TrifectaRich",
+       "2 / 2",
+       "10 / 9",
+       "16 / 13",
+       "3 / 3"
+      ],
+      [
+       "TuanonStan",
+       "0",
+       "0",
+       "6 / 6",
+       "1 / 1"
+      ],
+      [
+       "DMsourbeer",
+       "1 / 0",
+       "5 / 3",
+       "3 / 3",
+       "1 / 1"
+      ],
+      [
+       "Everyone else",
+       "0 to 2",
+       "0 to 2",
+       "0 to 2",
+       "0 to 2"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Dead starters / of those, how many had a bench player who scored."
+    },
+    {
+     "type": "h",
+     "text": "The games it changed"
+    },
+    {
+     "type": "p",
+     "text": "A loss counts here when it becomes a win with each dead starter replaced by the best eligible bench player that week. That is the best fill in hindsight, so this is the most generous version, and each game is treated on its own."
+    },
+    {
+     "type": "list",
+     "items": [
+      "2026 week 9: RebuildingRUs lost to YoungBuck04 96.22 to 86.84; the bench fill was worth 44.5.",
+      "2025 week 11: RebuildingRUs lost to TuanonStan by 6.1; fill 6.6.",
+      "2024 week 2: RebuildingRUs lost to Colt45Johnson by 15.2; fill 36.5.",
+      "2024 week 4: RebuildingRUs lost to butterygoop by 51.5; fill 55.6.",
+      "2024 week 12: RebuildingRUs lost to Jbird531 by 9.1; fill 28.7.",
+      "2024 week 12: TrifectaRich lost to Colt45Johnson by 11.4; fill 19.1, from an empty slot.",
+      "2024 week 14: RebuildingRUs lost to TrifectaRich by 3.8; fill 35.8.",
+      "2023 week 1: TrifectaRich lost to butterygoop by 7.9; fill 21.4, from an empty slot.",
+      "2023 week 2: RebuildingRUs lost to Colt45Johnson by 29.8; fill 30.2.",
+      "2023 week 7: DMsourbeer lost to Wallner by 4.1; fill 15.9.",
+      "2023 week 10: TrifectaRich lost to YoungBuck04 by 15.7; fill 44.0."
+     ]
+    },
+    {
+     "type": "h",
+     "text": "What it did to the playoffs"
+    },
+    {
+     "type": "p",
+     "text": "From 2021 to 2025 the six playoff teams were the same every season with those games flipped. Seeding moved. In 2025 TuanonStan drops from the 3 seed to the 5 and Jbird531 moves up from 4 to 3, and RebuildingRUs finishes 7-7, level with DMsourbeer for the last spot, and misses on points. In 2023 Wallner and brettmn13 swap the 2 and 3 seeds, and butterygoop and Jbird531 swap 4 and 5. In 2024 no seed changes."
+    },
+    {
+     "type": "p",
+     "text": "This season it matters now. With the week 9 game flipped, YoungBuck04 is 5-5 instead of 6-4 and RebuildingRUs is 4-6, and the 6 seed today goes to thecreamer on points instead of YoungBuck04."
+    },
+    {
+     "type": "h",
+     "text": "Draft order"
+    },
+    {
+     "type": "p",
+     "text": "TuanonStan, the commissioner, confirmed in the league chat on November 13 that the rookie draft order for the six non-playoff teams is set by max points for. Picks 7 to 12 follow the playoff finish in reverse, and the losers bracket has never moved a pick."
+    },
+    {
+     "type": "table",
+     "cols": [
+      "Draft",
+      "Picks 1 to 6 as made",
+      "By record",
+      "By max PF"
+     ],
+     "rows": [
+      [
+       "2023",
+       "RebuildingRUs, Colt45Johnson, YoungBuck04, DMsourbeer, Jbird531, TrifectaRich",
+       "same",
+       "differs at 4 and 5"
+      ],
+      [
+       "2024",
+       "RebuildingRUs, DMsourbeer, triccster, Colt45Johnson, thecreamer, TrifectaRich",
+       "differs",
+       "same"
+      ],
+      [
+       "2025",
+       "TuanonStan, TrifectaRich, RebuildingRUs, Colt45Johnson, DMsourbeer, Wallner",
+       "differs",
+       "same"
+      ],
+      [
+       "2026",
+       "TrifectaRich, triccster, Wallner, thecreamer, RebuildingRUs, brettmn13",
+       "same",
+       "differs at 2 and 3"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "The 2026 order has a slip at picks 2 and 3: by max PF, Wallner (1,483) should have picked before triccster (1,538). triccster raised it himself, though the slip was in his favor. Orders for 2023 and earlier match the standings in reverse, and nobody has said when max PF began."
+    },
+    {
+     "type": "p",
+     "text": "Under max PF, a short lineup does not buy a better pick. In the 2024 draft TrifectaRich was 4-10 and would have picked 4th by record; he picked 6th. In the 2025 draft RebuildingRUs was 2-12 and would have picked 1st by record; he picked 3rd."
     }
    ]
   }
