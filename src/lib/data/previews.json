@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T21:28:09+00:00",
+ "generated": "2026-11-18T13:11:16+00:00",
  "season": 2026,
  "week": 11,
  "playoff": false,
@@ -35,8 +35,8 @@
     ]
    },
    "proj": {
-    "thecreamer": 115.57,
-    "Jbird531": 139.02
+    "thecreamer": 115.27,
+    "Jbird531": 138.72
    },
    "h2h": {
     "thecreamer": 4,
@@ -123,42 +123,22 @@
      }
     },
     {
-     "headline": "QB Jordan Love, Packers frustrated after blowout loss at home to Vikings",
-     "url": "https://www.espn.com/nfl/story/_/id/50495671/qb-jordan-love-packers-frustrated-home-loss-vikings",
+     "headline": "Vikings WR Jordan Addison needs thumb surgery, is candidate for IR",
+     "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
      "date": "2026-11-16",
      "both": true,
      "score": 16.0,
      "touches": {
-      "Jbird531": [
+      "thecreamer": [
        {
-        "n": "Jordan Love",
+        "n": "Kirk Cousins",
         "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Savion Williams",
-        "p": "WR",
         "how": "ripple"
        }
       ],
-      "thecreamer": [
+      "Jbird531": [
        {
-        "n": "Jayden Reed",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "MarShawn Lloyd",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Kaleb Johnson",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Christian Watson",
+        "n": "Justin Jefferson",
         "p": "WR",
         "how": "ripple"
        }
@@ -170,7 +150,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
      "date": "2026-11-16",
      "both": false,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "Jbird531": [
        {
@@ -186,7 +166,7 @@
   {
    "a": "butterygoop",
    "b": "triccster",
-   "a_win": 52.9,
+   "a_win": 52.6,
    "rec": {
     "butterygoop": [
      7,
@@ -214,8 +194,8 @@
     ]
    },
    "proj": {
-    "butterygoop": 122.75,
-    "triccster": 119.84
+    "butterygoop": 122.47,
+    "triccster": 119.86
    },
    "h2h": {
     "butterygoop": 8,
@@ -279,45 +259,233 @@
      }
     },
     {
-     "headline": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
-     "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
-     "date": "2026-11-10",
+     "headline": "Raiders TE Brock Bowers day-to-day with ankle injury",
+     "url": "https://www.espn.com/nfl/story/_/id/50501232/raiders-te-brock-bowers-avoids-major-ankle-injury-source-says",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Tre Tucker",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Jack Bech",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Jalen Nailor",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Vikings WR Jordan Addison needs thumb surgery, is candidate for IR",
+     "url": "https://www.espn.com/nfl/story/_/id/50503437/vikings-wr-jordan-addison-needs-thumb-surgery",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Demond Claiborne",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Kyler Murray",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": false,
+     "score": 18.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Braelon Allen",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "a": "brettmn13",
+   "b": "Colt45Johnson",
+   "a_win": 27.9,
+   "rec": {
+    "brettmn13": [
+     3,
+     7
+    ],
+    "Colt45Johnson": [
+     4,
+     6
+    ]
+   },
+   "avg": {
+    "brettmn13": 87.76,
+    "Colt45Johnson": 114.78
+   },
+   "last3": {
+    "brettmn13": [
+     111.48,
+     67.46,
+     110.06
+    ],
+    "Colt45Johnson": [
+     130.16,
+     86.34,
+     79.76
+    ]
+   },
+   "proj": {
+    "brettmn13": 91.68,
+    "Colt45Johnson": 115.33
+   },
+   "h2h": {
+    "brettmn13": 3,
+    "Colt45Johnson": 4,
+    "games": 7
+   },
+   "streak": [
+    "Colt45Johnson",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 9,
+    "label": null,
+    "score": {
+     "brettmn13": 129.2,
+     "Colt45Johnson": 148.04
+    }
+   },
+   "flags": [
+    "Upset watch: {brettmn13} is the underdog"
+   ],
+   "nfl": [
+    {
+     "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
+     "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+     "date": "2026-11-11",
      "both": true,
      "score": 17.0,
      "touches": {
-      "butterygoop": [
+      "brettmn13": [
        {
-        "n": "Jonathan Taylor",
+        "n": "Mike Washington Jr.",
         "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Carson Wentz",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jauan Jennings",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Tai Felton",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
+     "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
+     "date": "2026-11-18",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "Colt45Johnson": [
+       {
+        "n": "Caleb Williams",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Tyson Bagent",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kyle Monangai",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "D'Andre Swift",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Colston Loveland",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Case Keenum",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kalif Raymond",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Cole Kmet",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts",
+     "url": "https://www.espn.com/nfl/story/_/id/50505347/miami-dolphins-quarterback-kyle-mccord-debut-colts",
+     "date": "2026-11-17",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "Colt45Johnson": [
+       {
+        "n": "Kyle McCord",
+        "p": "QB",
         "how": "named"
        }
       ],
-      "triccster": [
+      "brettmn13": [
        {
-        "n": "Laquon Treadwell",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "QB Jordan Love, Packers frustrated after blowout loss at home to Vikings",
-     "url": "https://www.espn.com/nfl/story/_/id/50495671/qb-jordan-love-packers-frustrated-home-loss-vikings",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "butterygoop": [
-       {
-        "n": "Josh Jacobs",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "Chris Brooks",
+        "n": "De'Von Achane",
         "p": "RB",
         "how": "ripple"
        }
@@ -325,23 +493,53 @@
      }
     },
     {
-     "headline": "Citing short week, Colts sticking with Daniel Jones at QB despite dreadful start",
-     "url": "https://www.espn.com/nfl/story/_/id/50496110/colts-sticking-daniel-jones-qb-dreadful-start",
+     "headline": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints",
+     "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
      "date": "2026-11-16",
      "both": true,
      "score": 16.0,
      "touches": {
-      "butterygoop": [
+      "Colt45Johnson": [
        {
-        "n": "Jonathan Taylor",
+        "n": "Kyle Monangai",
+        "p": "RB",
+        "how": "named"
+       },
+       {
+        "n": "Tyson Bagent",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Caleb Williams",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "D'Andre Swift",
         "p": "RB",
         "how": "ripple"
        }
       ],
-      "triccster": [
+      "brettmn13": [
        {
-        "n": "Laquon Treadwell",
+        "n": "Colston Loveland",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Case Keenum",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kalif Raymond",
         "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Cole Kmet",
+        "p": "TE",
         "how": "ripple"
        }
       ]
@@ -352,7 +550,7 @@
   {
    "a": "TrifectaRich",
    "b": "YoungBuck04",
-   "a_win": 41.9,
+   "a_win": 41.1,
    "rec": {
     "TrifectaRich": [
      6,
@@ -380,8 +578,8 @@
     ]
    },
    "proj": {
-    "TrifectaRich": 104.01,
-    "YoungBuck04": 112.28
+    "TrifectaRich": 103.6,
+    "YoungBuck04": 112.64
    },
    "h2h": {
     "TrifectaRich": 2,
@@ -410,7 +608,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
      "date": "2026-11-16",
      "both": true,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "TrifectaRich": [
        {
@@ -428,29 +626,6 @@
        {
         "n": "Omar Cooper Jr.",
         "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
-     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 18.0,
-     "touches": {
-      "TrifectaRich": [
-       {
-        "n": "Patrick Mahomes",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "YoungBuck04": [
-       {
-        "n": "Noah Gray",
-        "p": "TE",
         "how": "ripple"
        }
       ]
@@ -511,13 +686,36 @@
        }
       ]
      }
+    },
+    {
+     "headline": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL",
+     "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
+     "date": "2026-11-18",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "TrifectaRich": [
+       {
+        "n": "Jeremiyah Love",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Kendrick Bourne",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
     }
    ]
   },
   {
    "a": "DMsourbeer",
    "b": "RebuildingRUs",
-   "a_win": 60.1,
+   "a_win": 59.8,
    "rec": {
     "DMsourbeer": [
      3,
@@ -545,8 +743,8 @@
     ]
    },
    "proj": {
-    "DMsourbeer": 99.4,
-    "RebuildingRUs": 89.06
+    "DMsourbeer": 99.03,
+    "RebuildingRUs": 89.07
    },
    "h2h": {
     "DMsourbeer": 5,
@@ -575,7 +773,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
      "date": "2026-11-16",
      "both": true,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "RebuildingRUs": [
        {
@@ -593,39 +791,6 @@
        {
         "n": "Kenyon Sadiq",
         "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
-     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 18.0,
-     "touches": {
-      "RebuildingRUs": [
-       {
-        "n": "Josh Downs",
-        "p": "WR",
-        "how": "named"
-       },
-       {
-        "n": "Tyquan Thornton",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "DMsourbeer": [
-       {
-        "n": "Bub Means",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Xavier Worthy",
-        "p": "WR",
         "how": "ripple"
        }
       ]
@@ -681,13 +846,36 @@
        }
       ]
      }
+    },
+    {
+     "headline": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
+     "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
+     "date": "2026-11-18",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Rome Odunze",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "RebuildingRUs": [
+       {
+        "n": "Luther Burden III",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
     }
    ]
   },
   {
    "a": "TuanonStan",
    "b": "Wallner",
-   "a_win": 60.4,
+   "a_win": 56.4,
    "rec": {
     "TuanonStan": [
      6,
@@ -715,8 +903,8 @@
     ]
    },
    "proj": {
-    "TuanonStan": 104.03,
-    "Wallner": 93.38
+    "TuanonStan": 103.8,
+    "Wallner": 97.29
    },
    "h2h": {
     "TuanonStan": 3,
@@ -842,7 +1030,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
      "date": "2026-11-16",
      "both": false,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "TuanonStan": [
        {
@@ -859,202 +1047,11 @@
      }
     }
    ]
-  },
-  {
-   "a": "brettmn13",
-   "b": "Colt45Johnson",
-   "a_win": 30.9,
-   "rec": {
-    "brettmn13": [
-     3,
-     7
-    ],
-    "Colt45Johnson": [
-     4,
-     6
-    ]
-   },
-   "avg": {
-    "brettmn13": 87.76,
-    "Colt45Johnson": 114.78
-   },
-   "last3": {
-    "brettmn13": [
-     111.48,
-     67.46,
-     110.06
-    ],
-    "Colt45Johnson": [
-     130.16,
-     86.34,
-     79.76
-    ]
-   },
-   "proj": {
-    "brettmn13": 94.66,
-    "Colt45Johnson": 114.79
-   },
-   "h2h": {
-    "brettmn13": 3,
-    "Colt45Johnson": 4,
-    "games": 7
-   },
-   "streak": [
-    "Colt45Johnson",
-    1
-   ],
-   "last": {
-    "season": 2025,
-    "week": 9,
-    "label": null,
-    "score": {
-     "brettmn13": 129.2,
-     "Colt45Johnson": 148.04
-    }
-   },
-   "flags": [],
-   "nfl": [
-    {
-     "headline": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
-     "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
-     "date": "2026-11-11",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Mike Washington Jr.",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Carson Wentz",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "Jauan Jennings",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "Colt45Johnson": [
-       {
-        "n": "Tai Felton",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Miami Dolphins backup QB Kyle McCord showed poise in debut vs. Indianapolis Colts",
-     "url": "https://www.espn.com/nfl/story/_/id/50505347/miami-dolphins-quarterback-kyle-mccord-debut-colts",
-     "date": "2026-11-17",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "Colt45Johnson": [
-       {
-        "n": "Kyle McCord",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "brettmn13": [
-       {
-        "n": "De'Von Achane",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints",
-     "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "Colt45Johnson": [
-       {
-        "n": "Kyle Monangai",
-        "p": "RB",
-        "how": "named"
-       },
-       {
-        "n": "Tyson Bagent",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "Caleb Williams",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "D'Andre Swift",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "brettmn13": [
-       {
-        "n": "Colston Loveland",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Case Keenum",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "Kalif Raymond",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Cole Kmet",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Patrick Mahomes stars for Chiefs, strikes early connection with Josh Downs",
-     "url": "https://www.espn.com/nfl/story/_/id/50496736/patrick-mahomes-stars-chiefs-sync-josh-downs",
-     "date": "2026-11-16",
-     "both": false,
-     "score": 18.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Emmett Johnson",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Cyrus Allen",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Justin Fields",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    }
-   ]
   }
  ],
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-17T21:28+00:00",
+ "nfl_read_at": "2026-11-18T13:11+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }
