@@ -1639,6 +1639,205 @@
      ]
     }
    ]
+  },
+  {
+   "id": "position-groups",
+   "style": "article",
+   "place": "after-lead",
+   "label": "Position groups",
+   "title": "What each spot has actually produced",
+   "dek": "Two different questions, and with twenty bench spots they are a long way apart. From the lineup is what a manager has banked at that spot over ten weeks, with the flex and superflex counting toward whichever position filled them. On paper is every point the roster as it sits today has scored this season, including points scored for a previous owner.",
+   "blocks": [
+    {
+     "type": "table",
+     "cols": [
+      "Spot",
+      "Most from the lineup",
+      "Least from the lineup",
+      "Best room on paper (started)"
+     ],
+     "rows": [
+      [
+       "QB",
+       "Jbird531 406, RebuildingRUs 383, triccster 350",
+       "DMsourbeer 237, butterygoop 212",
+       "Jbird531 592 (406)"
+      ],
+      [
+       "RB",
+       "butterygoop 585, Jbird531 470, thecreamer 440",
+       "brettmn13 207, RebuildingRUs 166",
+       "butterygoop 729 (585)"
+      ],
+      [
+       "WR",
+       "Colt45Johnson 508, triccster 461, Jbird531 424",
+       "brettmn13 237, DMsourbeer 177",
+       "butterygoop 680 (399)"
+      ],
+      [
+       "TE",
+       "brettmn13 161, triccster 140, RebuildingRUs 133",
+       "thecreamer 43, DMsourbeer 43",
+       "butterygoop 301 (99)"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "butterygoop owns three positions on paper and only one of them in the lineup. His receivers and tight ends are the best rooms in the league, 680 and 301, and he has started 399 and 99 of that, sixth at both. The running backs are the real thing, first on paper at 729 and first started at 585. And he is last in the league from quarterback at 212, which is Jalen Hurts on IR."
+    },
+    {
+     "type": "p",
+     "text": "Wallner's roster is last, but his season has not been. Twelfth at quarterback and twelfth at running back as the roster sits, yet from the lineup he is tenth, eighth, eighth and seventh across the four spots, and ninth in the league in points. The 1-9 is a team that keeps losing close ones and has since sold the pieces, not one that has been outclassed every week."
+    },
+    {
+     "type": "p",
+     "text": "Jbird531 and triccster are 2.3 points apart at quarterback on paper, 592.3 to 590.0, the tightest gap at the top of any position here. From the lineup it is 406 to 350, a 56-point difference, and that is closer to why one of them is 9-1."
+    },
+    {
+     "type": "note",
+     "text": "Through week 10, from Sleeper box scores. From the lineup counts only players actually started that week. On paper counts every point the current roster has scored this season, whoever owned the player at the time."
+    }
+   ]
+  },
+  {
+   "id": "bye-crunch",
+   "style": "article",
+   "place": "after-lead",
+   "label": "The bye crunch",
+   "title": "Six teams are off, and it lands very unevenly",
+   "dek": "Atlanta, Cleveland, Green Bay, the Rams, New England and Seattle. With rosters this deep a headcount means little, so this is every rostered player on a bye team ranked by what he has scored this season.",
+   "blocks": [
+    {
+     "type": "table",
+     "cols": [
+      "Manager",
+      "Off",
+      "Season points off",
+      "The ones that matter"
+     ],
+     "rows": [
+      [
+       "triccster",
+       "9",
+       "339",
+       "Kyren Williams 145, Puka Nacua 139, Harold Fannin Jr. 55"
+      ],
+      [
+       "RebuildingRUs",
+       "7",
+       "309",
+       "Drake Maye 182, Rhamondre Stevenson 102"
+      ],
+      [
+       "Colt45Johnson",
+       "6",
+       "262",
+       "Jaxon Smith-Njigba 224"
+      ],
+      [
+       "TrifectaRich",
+       "5",
+       "225",
+       "Matthew Golden 147, Blake Corum 78"
+      ],
+      [
+       "Jbird531",
+       "7",
+       "217",
+       "Bijan Robinson 180"
+      ],
+      [
+       "butterygoop",
+       "5",
+       "202",
+       "Drake London 114, Davante Adams 87"
+      ],
+      [
+       "TuanonStan",
+       "6",
+       "164",
+       "Matthew Stafford 163"
+      ],
+      [
+       "thecreamer",
+       "8",
+       "158",
+       "Christian Watson 158"
+      ],
+      [
+       "YoungBuck04",
+       "8",
+       "157",
+       "Quinshon Judkins 96, Emanuel Wilson 61"
+      ],
+      [
+       "Wallner",
+       "3",
+       "99",
+       "Romeo Doubs 51"
+      ],
+      [
+       "DMsourbeer",
+       "2",
+       "75",
+       "Sam Darnold 65"
+      ],
+      [
+       "brettmn13",
+       "2",
+       "75",
+       "Tucker Kraft 75"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "triccster loses the most, 339 points across nine players, in the week he plays butterygoop for a bye. RebuildingRUs loses his whole New England and Atlanta half: Drake Maye, Rhamondre Stevenson, TreVeyon Henderson, A.J. Brown, Tua Tagovailoa, Michael Penix Jr. and Brian Robinson Jr."
+    },
+    {
+     "type": "p",
+     "text": "The count and the cost come apart at the bottom of the table. TuanonStan has six players off and 163 of the 164 is Matthew Stafford alone; thecreamer has eight off and essentially all of it is Christian Watson. brettmn13 and DMsourbeer lose two each and barely notice."
+    },
+    {
+     "type": "note",
+     "text": "Read live from the Sleeper rosters on Wednesday morning."
+    }
+   ]
+  },
+  {
+   "id": "on-ir",
+   "style": "notes",
+   "place": "after-lead",
+   "label": "On IR",
+   "title": "Who is unavailable, and who has a slot open",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "New to the newsletter this week and running every issue from here. Seven of the twelve are carrying someone in an IR slot."
+    },
+    {
+     "type": "list",
+     "items": [
+      "butterygoop — Jalen Hurts and Davante Adams. Hurts explains the quarterback number above better than anything else in this issue",
+      "triccster — Puka Nacua, Tank Bigsby",
+      "Colt45Johnson — Jonathon Brooks, Ricky Pearsall",
+      "Wallner — James Conner, Romeo Doubs",
+      "YoungBuck04 — Jake Tonges, Kendrick Bourne",
+      "DMsourbeer — Jayden Higgins, Roman Wilson",
+      "TrifectaRich — Chris Brazzell II"
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Jbird531, RebuildingRUs, TuanonStan, brettmn13 and thecreamer have their IR slots empty."
+    },
+    {
+     "type": "note",
+     "text": "No return dates are attached to any of these, so this is a list of who is unavailable rather than a list of who is close."
+    }
+   ]
   }
  ],
  "power": {
