@@ -29,8 +29,8 @@
   {
    "h": "Jbird531",
    "rank": 1,
-   "score": 2.157,
-   "ros": 148.29,
+   "score": 2.152,
+   "ros": 148.06,
    "ppg": 143.06,
    "allplay": 0.855,
    "ros_rank": 1,
@@ -43,8 +43,8 @@
   {
    "h": "butterygoop",
    "rank": 2,
-   "score": 0.954,
-   "ros": 125.26,
+   "score": 0.961,
+   "ros": 125.4,
    "ppg": 129.35,
    "allplay": 0.682,
    "ros_rank": 3,
@@ -57,8 +57,8 @@
   {
    "h": "triccster",
    "rank": 3,
-   "score": 0.91,
-   "ros": 127.81,
+   "score": 0.917,
+   "ros": 127.98,
    "ppg": 120.21,
    "allplay": 0.718,
    "ros_rank": 2,
@@ -71,8 +71,8 @@
   {
    "h": "Colt45Johnson",
    "rank": 4,
-   "score": 0.41,
-   "ros": 120.02,
+   "score": 0.406,
+   "ros": 119.85,
    "ppg": 114.78,
    "allplay": 0.582,
    "ros_rank": 4,
@@ -85,8 +85,8 @@
   {
    "h": "thecreamer",
    "rank": 5,
-   "score": 0.393,
-   "ros": 115.56,
+   "score": 0.39,
+   "ros": 115.41,
    "ppg": 118.61,
    "allplay": 0.645,
    "ros_rank": 5,
@@ -99,8 +99,8 @@
   {
    "h": "YoungBuck04",
    "rank": 6,
-   "score": -0.176,
-   "ros": 108.27,
+   "score": -0.175,
+   "ros": 108.28,
    "ppg": 108.93,
    "allplay": 0.5,
    "ros_rank": 8,
@@ -113,8 +113,8 @@
   {
    "h": "TrifectaRich",
    "rank": 7,
-   "score": -0.207,
-   "ros": 110.94,
+   "score": -0.206,
+   "ros": 110.93,
    "ppg": 104.32,
    "allplay": 0.464,
    "ros_rank": 6,
@@ -127,8 +127,8 @@
   {
    "h": "TuanonStan",
    "rank": 8,
-   "score": -0.38,
-   "ros": 105.22,
+   "score": -0.376,
+   "ros": 105.31,
    "ppg": 104.92,
    "allplay": 0.473,
    "ros_rank": 9,
@@ -141,8 +141,8 @@
   {
    "h": "RebuildingRUs",
    "rank": 9,
-   "score": -0.819,
-   "ros": 103.16,
+   "score": -0.816,
+   "ros": 103.2,
    "ppg": 92.29,
    "allplay": 0.336,
    "ros_rank": 10,
@@ -155,8 +155,8 @@
   {
    "h": "DMsourbeer",
    "rank": 10,
-   "score": -0.884,
-   "ros": 109.59,
+   "score": -0.883,
+   "ros": 109.57,
    "ppg": 85.88,
    "allplay": 0.173,
    "ros_rank": 7,
@@ -169,11 +169,11 @@
   {
    "h": "Wallner",
    "rank": 11,
-   "score": -0.97,
-   "ros": 94.97,
+   "score": -1.033,
+   "ros": 93.07,
    "ppg": 98.65,
    "allplay": 0.345,
-   "ros_rank": 11,
+   "ros_rank": 12,
    "ppg_rank": 9,
    "allplay_rank": 9,
    "prev": 11,
@@ -183,11 +183,11 @@
   {
    "h": "brettmn13",
    "rank": 12,
-   "score": -1.39,
-   "ros": 91.96,
+   "score": -1.336,
+   "ros": 93.53,
    "ppg": 87.76,
    "allplay": 0.227,
-   "ros_rank": 12,
+   "ros_rank": 11,
    "ppg_rank": 11,
    "allplay_rank": 11,
    "prev": 12,
@@ -196,7 +196,7 @@
   }
  ],
  "source": "Sleeper weekly projections scored with this league's scoring",
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "history": {
   "9": {
    "Jbird531": {
@@ -251,51 +251,51 @@
   "10": {
    "Jbird531": {
     "rank": 1,
-    "score": 2.157
+    "score": 2.152
    },
    "butterygoop": {
     "rank": 2,
-    "score": 0.954
+    "score": 0.961
    },
    "triccster": {
     "rank": 3,
-    "score": 0.91
+    "score": 0.917
    },
    "Colt45Johnson": {
     "rank": 4,
-    "score": 0.41
+    "score": 0.406
    },
    "thecreamer": {
     "rank": 5,
-    "score": 0.393
+    "score": 0.39
    },
    "YoungBuck04": {
     "rank": 6,
-    "score": -0.176
+    "score": -0.175
    },
    "TrifectaRich": {
     "rank": 7,
-    "score": -0.207
+    "score": -0.206
    },
    "TuanonStan": {
     "rank": 8,
-    "score": -0.38
+    "score": -0.376
    },
    "RebuildingRUs": {
     "rank": 9,
-    "score": -0.819
+    "score": -0.816
    },
    "DMsourbeer": {
     "rank": 10,
-    "score": -0.884
+    "score": -0.883
    },
    "Wallner": {
     "rank": 11,
-    "score": -0.97
+    "score": -1.033
    },
    "brettmn13": {
     "rank": 12,
-    "score": -1.39
+    "score": -1.336
    }
   }
  }
