@@ -1,8 +1,102 @@
 {
- "read_at": "2026-11-20T13:12+00:00",
+ "read_at": "2026-11-21T13:11+00:00",
  "days": 7,
- "count": 114,
+ "count": 117,
  "items": [
+  {
+   "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+   "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+   "date": "2026-11-20",
+   "kind": "news",
+   "teams": [
+    "IND"
+   ],
+   "named": [
+    {
+     "n": "Daniel Jones",
+     "p": "QB",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Anthony Richardson Sr.",
+     "p": "QB",
+     "t": "IND",
+     "h": "YoungBuck04"
+    }
+   ],
+   "lead": [
+    "Daniel Jones",
+    "Anthony Richardson Sr."
+   ],
+   "ripple": [
+    {
+     "n": "Ashton Dulin",
+     "p": "WR",
+     "t": "IND",
+     "h": "Wallner"
+    },
+    {
+     "n": "Deion Burks",
+     "p": "WR",
+     "t": "IND",
+     "h": "Wallner"
+    },
+    {
+     "n": "Will Mallory",
+     "p": "TE",
+     "t": "IND",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Seth McGowan",
+     "p": "RB",
+     "t": "IND",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Tyler Warren",
+     "p": "TE",
+     "t": "IND",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Alec Pierce",
+     "p": "WR",
+     "t": "IND",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "DJ Giddens",
+     "p": "RB",
+     "t": "IND",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jonathan Taylor",
+     "p": "RB",
+     "t": "IND",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Laquon Treadwell",
+     "p": "WR",
+     "t": "IND",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "TrifectaRich",
+    "Wallner",
+    "YoungBuck04",
+    "butterygoop",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 20.0
+  },
   {
    "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
    "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
@@ -189,98 +283,304 @@
     "thecreamer",
     "triccster"
    ],
-   "score": 20.0
+   "score": 18.0
   },
   {
-   "headline": "Why can't Richardson beat out struggling Jones as Colts QB1?",
-   "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
-   "date": "2026-11-19",
-   "kind": "story",
+   "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
+   "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
+   "date": "2026-11-20",
+   "kind": "news",
    "teams": [
-    "IND"
+    "CHI"
    ],
    "named": [
     {
-     "n": "Anthony Richardson Sr.",
-     "p": "QB",
-     "t": "IND",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "IND",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Anthony Richardson Sr.",
-    "Daniel Jones"
-   ],
-   "ripple": [
-    {
-     "n": "Ashton Dulin",
-     "p": "WR",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Deion Burks",
-     "p": "WR",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Will Mallory",
-     "p": "TE",
-     "t": "IND",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Seth McGowan",
+     "n": "Kyle Monangai",
      "p": "RB",
-     "t": "IND",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Tyler Warren",
-     "p": "TE",
-     "t": "IND",
+     "t": "CHI",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Alec Pierce",
+     "n": "Luther Burden III",
      "p": "WR",
-     "t": "IND",
+     "t": "CHI",
+     "h": "RebuildingRUs"
+    }
+   ],
+   "lead": [
+    "Kyle Monangai"
+   ],
+   "ripple": [
+    {
+     "n": "Zavion Thomas",
+     "p": "WR",
+     "t": "CHI",
+     "h": "Wallner"
+    },
+    {
+     "n": "Colston Loveland",
+     "p": "TE",
+     "t": "CHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Case Keenum",
+     "p": "QB",
+     "t": "CHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Kalif Raymond",
+     "p": "WR",
+     "t": "CHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Cole Kmet",
+     "p": "TE",
+     "t": "CHI",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Tyson Bagent",
+     "p": "QB",
+     "t": "CHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Caleb Williams",
+     "p": "QB",
+     "t": "CHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "D'Andre Swift",
+     "p": "RB",
+     "t": "CHI",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Rome Odunze",
+     "p": "WR",
+     "t": "CHI",
      "h": "DMsourbeer"
     },
     {
-     "n": "DJ Giddens",
+     "n": "Roschon Johnson",
      "p": "RB",
-     "t": "IND",
+     "t": "CHI",
      "h": "thecreamer"
-    },
-    {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
-     "h": "triccster"
     }
    ],
    "managers": [
     "Colt45Johnson",
     "DMsourbeer",
+    "RebuildingRUs",
+    "Wallner",
+    "brettmn13",
+    "thecreamer"
+   ],
+   "score": 17.0
+  },
+  {
+   "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
+   "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
+   "date": "2026-11-20",
+   "kind": "news",
+   "teams": [
+    "KC"
+   ],
+   "named": [
+    {
+     "n": "Kenneth Walker III",
+     "p": "RB",
+     "t": "KC",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Emmett Johnson",
+     "p": "RB",
+     "t": "KC",
+     "h": "brettmn13"
+    }
+   ],
+   "lead": [
+    "Kenneth Walker III"
+   ],
+   "ripple": [
+    {
+     "n": "Rashee Rice",
+     "p": "WR",
+     "t": "KC",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Cyrus Allen",
+     "p": "WR",
+     "t": "KC",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Justin Fields",
+     "p": "QB",
+     "t": "KC",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Patrick Mahomes",
+     "p": "QB",
+     "t": "KC",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Noah Gray",
+     "p": "TE",
+     "t": "KC",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Xavier Worthy",
+     "p": "WR",
+     "t": "KC",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Tyquan Thornton",
+     "p": "WR",
+     "t": "KC",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Josh Downs",
+     "p": "WR",
+     "t": "KC",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Travis Kelce",
+     "p": "TE",
+     "t": "KC",
+     "h": "triccster"
+    },
+    {
+     "n": "Brashard Smith",
+     "p": "RB",
+     "t": "KC",
+     "h": "Jbird531"
+    },
+    {
+     "n": "Jalen Royals",
+     "p": "WR",
+     "t": "KC",
+     "h": "Jbird531"
+    }
+   ],
+   "managers": [
+    "DMsourbeer",
+    "Jbird531",
+    "RebuildingRUs",
     "TrifectaRich",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "triccster"
+   ],
+   "score": 17.0
+  },
+  {
+   "headline": "Patriots QB Drake Maye has fractured fibula, sources say",
+   "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+   "date": "2026-11-20",
+   "kind": "news",
+   "teams": [
+    "NE"
+   ],
+   "named": [
+    {
+     "n": "Drake Maye",
+     "p": "QB",
+     "t": "NE",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "A.J. Brown",
+     "p": "WR",
+     "t": "NE",
+     "h": "RebuildingRUs"
+    }
+   ],
+   "lead": [
+    "Drake Maye"
+   ],
+   "ripple": [
+    {
+     "n": "Kyle Williams",
+     "p": "WR",
+     "t": "NE",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Romeo Doubs",
+     "p": "WR",
+     "t": "NE",
+     "h": "Wallner"
+    },
+    {
+     "n": "Mack Hollins",
+     "p": "WR",
+     "t": "NE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Corey Kiner",
+     "p": "RB",
+     "t": "NE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Eli Raridon",
+     "p": "TE",
+     "t": "NE",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Hunter Henry",
+     "p": "TE",
+     "t": "NE",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "TreVeyon Henderson",
+     "p": "RB",
+     "t": "NE",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Rhamondre Stevenson",
+     "p": "RB",
+     "t": "NE",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "DeMario Douglas",
+     "p": "WR",
+     "t": "NE",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Efton Chism III",
+     "p": "WR",
+     "t": "NE",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "RebuildingRUs",
+    "TuanonStan",
     "Wallner",
     "YoungBuck04",
     "butterygoop",
-    "thecreamer",
     "triccster"
    ],
    "score": 17.0
@@ -466,122 +766,95 @@
    "score": 17.0
   },
   {
-   "headline": "Texans DE Hunter, RB Marks to miss TNF; Colts rule out CB Ward, starting OTs",
-   "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-   "date": "2026-11-19",
+   "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
+   "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf",
+   "date": "2026-11-21",
    "kind": "news",
    "teams": [
-    "HOU",
-    "IND"
+    "CIN",
+    "WAS"
    ],
    "named": [
     {
-     "n": "Woody Marks",
-     "p": "RB",
-     "t": "HOU",
-     "h": "butterygoop"
+     "n": "Joe Burrow",
+     "p": "QB",
+     "t": "CIN",
+     "h": "brettmn13"
     }
    ],
    "lead": [
-    "Woody Marks"
+    "Joe Burrow"
    ],
    "ripple": [
     {
-     "n": "Dare Ogunbowale",
-     "p": "RB",
-     "t": "HOU",
-     "h": "Wallner"
-    },
-    {
-     "n": "Jaylin Noel",
+     "n": "Dohnte Meyers",
      "p": "WR",
-     "t": "HOU",
-     "h": "Wallner"
+     "t": "CIN",
+     "h": "brettmn13"
     },
     {
-     "n": "Davis Mills",
+     "n": "Joe Flacco",
      "p": "QB",
-     "t": "HOU",
-     "h": "Wallner"
+     "t": "CIN",
+     "h": "brettmn13"
     },
     {
-     "n": "Emari Demercado",
-     "p": "RB",
-     "t": "HOU",
+     "n": "Andrei Iosivas",
+     "p": "WR",
+     "t": "CIN",
      "h": "TrifectaRich"
     },
     {
-     "n": "Marvin Harrison Jr.",
-     "p": "WR",
-     "t": "HOU",
+     "n": "Mike Gesicki",
+     "p": "TE",
+     "t": "CIN",
      "h": "YoungBuck04"
     },
     {
-     "n": "David Montgomery",
+     "n": "Ja'Marr Chase",
+     "p": "WR",
+     "t": "CIN",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Tahj Brooks",
      "p": "RB",
-     "t": "HOU",
+     "t": "CIN",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Jayden Higgins",
+     "n": "Tee Higgins",
      "p": "WR",
-     "t": "HOU",
-     "h": "DMsourbeer"
+     "t": "CIN",
+     "h": "Colt45Johnson"
     },
     {
-     "n": "Kayshon Boutte",
-     "p": "WR",
-     "t": "HOU",
-     "h": "RebuildingRUs"
+     "n": "Chase Brown",
+     "p": "RB",
+     "t": "CIN",
+     "h": "thecreamer"
     },
     {
-     "n": "Dalton Schultz",
-     "p": "TE",
-     "t": "HOU",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Tank Dell",
-     "p": "WR",
-     "t": "HOU",
-     "h": "butterygoop"
-    },
-    {
-     "n": "C.J. Stroud",
-     "p": "QB",
-     "t": "HOU",
+     "n": "Samaje Perine",
+     "p": "RB",
+     "t": "CIN",
      "h": "triccster"
-    },
-    {
-     "n": "Xavier Hutchinson",
-     "p": "WR",
-     "t": "HOU",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Nico Collins",
-     "p": "WR",
-     "t": "HOU",
-     "h": "Jbird531"
     }
    ],
    "managers": [
     "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "RebuildingRUs",
     "TrifectaRich",
-    "Wallner",
     "YoungBuck04",
-    "butterygoop",
+    "brettmn13",
+    "thecreamer",
     "triccster"
    ],
    "score": 16.0
   },
   {
-   "headline": "Rams WR Puka Nacua to serve 3-game suspension while on IR",
-   "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
-   "date": "2026-11-19",
+   "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
+   "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+   "date": "2026-11-20",
    "kind": "news",
    "teams": [
     "LAR"
@@ -690,219 +963,9 @@
    "score": 16.0
   },
   {
-   "headline": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller",
-   "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
-   "date": "2026-11-19",
-   "kind": "news",
-   "teams": [
-    "PHI"
-   ],
-   "named": [
-    {
-     "n": "Joe Milton",
-     "p": "QB",
-     "t": "PHI",
-     "h": "YoungBuck04"
-    }
-   ],
-   "lead": [
-    "Joe Milton"
-   ],
-   "ripple": [
-    {
-     "n": "Dallas Goedert",
-     "p": "TE",
-     "t": "PHI",
-     "h": "Wallner"
-    },
-    {
-     "n": "Eli Stowers",
-     "p": "TE",
-     "t": "PHI",
-     "h": "Wallner"
-    },
-    {
-     "n": "Will Shipley",
-     "p": "RB",
-     "t": "PHI",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Dontayvion Wicks",
-     "p": "WR",
-     "t": "PHI",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jaydon Blue",
-     "p": "RB",
-     "t": "PHI",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Makai Lemon",
-     "p": "WR",
-     "t": "PHI",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Jalen Hurts",
-     "p": "QB",
-     "t": "PHI",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Tanner McKee",
-     "p": "QB",
-     "t": "PHI",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Darius Cooper",
-     "p": "WR",
-     "t": "PHI",
-     "h": "triccster"
-    },
-    {
-     "n": "Saquon Barkley",
-     "p": "RB",
-     "t": "PHI",
-     "h": "triccster"
-    },
-    {
-     "n": "DeVonta Smith",
-     "p": "WR",
-     "t": "PHI",
-     "h": "triccster"
-    },
-    {
-     "n": "Elijah Mitchell",
-     "p": "RB",
-     "t": "PHI",
-     "h": "triccster"
-    },
-    {
-     "n": "Tank Bigsby",
-     "p": "RB",
-     "t": "PHI",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "RebuildingRUs",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-   "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-   "date": "2026-11-18",
-   "kind": "news",
-   "teams": [
-    "NYG"
-   ],
-   "named": [
-    {
-     "n": "Cam Skattebo",
-     "p": "RB",
-     "t": "NYG",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Cam Skattebo"
-   ],
-   "ripple": [
-    {
-     "n": "Theo Johnson",
-     "p": "TE",
-     "t": "NYG",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Tyrone Tracy Jr.",
-     "p": "RB",
-     "t": "NYG",
-     "h": "Wallner"
-    },
-    {
-     "n": "Malachi Fields",
-     "p": "WR",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Darnell Mooney",
-     "p": "WR",
-     "t": "NYG",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Malik Nabers",
-     "p": "WR",
-     "t": "NYG",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Devin Singletary",
-     "p": "RB",
-     "t": "NYG",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Jaxson Dart",
-     "p": "QB",
-     "t": "NYG",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jameis Winston",
-     "p": "QB",
-     "t": "NYG",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "J.J. McCarthy",
-     "p": "QB",
-     "t": "NYG",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Isaiah Likely",
-     "p": "TE",
-     "t": "NYG",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Phil Mafah",
-     "p": "RB",
-     "t": "NYG",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "RebuildingRUs",
-    "TrifectaRich",
-    "TuanonStan",
-    "Wallner",
-    "brettmn13",
-    "butterygoop",
-    "thecreamer"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Jets QB Geno Smith (ankle) intends to play vs. Chargers: 'That's the plan'",
-   "url": "https://www.espn.com/mlb/story/_/id/50523800/jets-qb-geno-smith-ankle-intends-play-vs-chargers",
-   "date": "2026-11-18",
+   "headline": "Jets QB Geno Smith (ankle) cleared to start vs. Chargers",
+   "url": "https://www.espn.com/nfl/story/_/id/50543665/jets-qb-geno-smith-ankle-cleared-start-vs-chargers",
+   "date": "2026-11-20",
    "kind": "news",
    "teams": [
     "NYJ"
@@ -982,99 +1045,6 @@
     "TuanonStan",
     "YoungBuck04",
     "butterygoop"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Titans WR Wan'Dale Robinson out for season with ankle injury",
-   "url": "https://www.espn.com/nfl/story/_/id/50523261/titans-wr-wandale-robinson-season-ankle-injury",
-   "date": "2026-11-18",
-   "kind": "news",
-   "teams": [
-    "TEN"
-   ],
-   "named": [
-    {
-     "n": "Wan'Dale Robinson",
-     "p": "WR",
-     "t": "TEN",
-     "h": "RebuildingRUs"
-    }
-   ],
-   "lead": [
-    "Wan'Dale Robinson"
-   ],
-   "ripple": [
-    {
-     "n": "Nicholas Singleton",
-     "p": "RB",
-     "t": "TEN",
-     "h": "Wallner"
-    },
-    {
-     "n": "Tony Pollard",
-     "p": "RB",
-     "t": "TEN",
-     "h": "Wallner"
-    },
-    {
-     "n": "Cam Ward",
-     "p": "QB",
-     "t": "TEN",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Calvin Ridley",
-     "p": "WR",
-     "t": "TEN",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Gunnar Helm",
-     "p": "TE",
-     "t": "TEN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Chimere Dike",
-     "p": "WR",
-     "t": "TEN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Tyjae Spears",
-     "p": "RB",
-     "t": "TEN",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Elic Ayomanor",
-     "p": "WR",
-     "t": "TEN",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Hendon Hooker",
-     "p": "QB",
-     "t": "TEN",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Carnell Tate",
-     "p": "WR",
-     "t": "TEN",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "RebuildingRUs",
-    "TrifectaRich",
-    "Wallner",
-    "YoungBuck04",
-    "thecreamer",
-    "triccster"
    ],
    "score": 16.0
   },
@@ -1310,200 +1280,167 @@
    "score": 15.0
   },
   {
-   "headline": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
-   "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
-   "date": "2026-11-16",
+   "headline": "Raiders TE Brock Bowers (ankle, quad) listed as questionable",
+   "url": "https://www.espn.com/nfl/story/_/id/50543720/raiders-te-brock-bowers-ankle-quad-listed-questionable",
+   "date": "2026-11-21",
    "kind": "news",
    "teams": [
-    "SEA"
+    "LV"
    ],
    "named": [
     {
-     "n": "Sam Darnold",
-     "p": "QB",
-     "t": "SEA",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Drew Lock",
-     "p": "QB",
-     "t": "SEA",
-     "h": "triccster"
+     "n": "Brock Bowers",
+     "p": "TE",
+     "t": "LV",
+     "h": "Jbird531"
     }
    ],
    "lead": [
-    "Sam Darnold"
+    "Brock Bowers"
    ],
    "ripple": [
     {
-     "n": "Jalen Milroe",
-     "p": "QB",
-     "t": "SEA",
+     "n": "Ashton Jeanty",
+     "p": "RB",
+     "t": "LV",
      "h": "TuanonStan"
     },
     {
-     "n": "Zach Charbonnet",
-     "p": "RB",
-     "t": "SEA",
-     "h": "Wallner"
+     "n": "Fernando Mendoza",
+     "p": "QB",
+     "t": "LV",
+     "h": "TuanonStan"
     },
     {
-     "n": "Cooper Kupp",
+     "n": "Mike Washington Jr.",
+     "p": "RB",
+     "t": "LV",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Dont'e Thornton Jr.",
      "p": "WR",
-     "t": "SEA",
-     "h": "Wallner"
-    },
-    {
-     "n": "George Holani",
-     "p": "RB",
-     "t": "SEA",
+     "t": "LV",
      "h": "TrifectaRich"
     },
     {
-     "n": "Elijah Arroyo",
+     "n": "Tre Tucker",
+     "p": "WR",
+     "t": "LV",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jack Bech",
+     "p": "WR",
+     "t": "LV",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jalen Nailor",
+     "p": "WR",
+     "t": "LV",
+     "h": "triccster"
+    },
+    {
+     "n": "Michael Mayer",
      "p": "TE",
-     "t": "SEA",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Emanuel Wilson",
-     "p": "RB",
-     "t": "SEA",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "AJ Barner",
-     "p": "TE",
-     "t": "SEA",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Tory Horton",
-     "p": "WR",
-     "t": "SEA",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jaxon Smith-Njigba",
-     "p": "WR",
-     "t": "SEA",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Rashid Shaheed",
-     "p": "WR",
-     "t": "SEA",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Jadarian Price",
-     "p": "RB",
-     "t": "SEA",
-     "h": "thecreamer"
+     "t": "LV",
+     "h": "Jbird531"
     }
    ],
    "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
+    "Jbird531",
     "TrifectaRich",
     "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "thecreamer",
+    "brettmn13",
+    "butterygoop",
     "triccster"
    ],
-   "score": 15.0
+   "score": 14.0
   },
   {
-   "headline": "Titans' Calvin Ridley facing misdemeanor assault charge over airport incident",
-   "url": "https://www.espn.com/nfl/story/_/id/50539065/titans-calvin-ridley-assault-charge-airport-incident",
+   "headline": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
+   "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
    "date": "2026-11-20",
    "kind": "news",
    "teams": [
-    "TEN"
+    "BUF"
    ],
    "named": [
     {
-     "n": "Calvin Ridley",
-     "p": "WR",
-     "t": "TEN",
-     "h": "YoungBuck04"
+     "n": "Dalton Kincaid",
+     "p": "TE",
+     "t": "BUF",
+     "h": "Jbird531"
     }
    ],
    "lead": [
-    "Calvin Ridley"
+    "Dalton Kincaid"
    ],
    "ripple": [
     {
-     "n": "Nicholas Singleton",
-     "p": "RB",
-     "t": "TEN",
-     "h": "Wallner"
+     "n": "Dawson Knox",
+     "p": "TE",
+     "t": "BUF",
+     "h": "TuanonStan"
     },
     {
-     "n": "Tony Pollard",
+     "n": "Ray Davis",
      "p": "RB",
-     "t": "TEN",
-     "h": "Wallner"
-    },
-    {
-     "n": "Cam Ward",
-     "p": "QB",
-     "t": "TEN",
+     "t": "BUF",
      "h": "TrifectaRich"
     },
     {
-     "n": "Gunnar Helm",
-     "p": "TE",
-     "t": "TEN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Chimere Dike",
+     "n": "Keon Coleman",
      "p": "WR",
-     "t": "TEN",
-     "h": "Colt45Johnson"
+     "t": "BUF",
+     "h": "TrifectaRich"
     },
     {
-     "n": "Tyjae Spears",
-     "p": "RB",
-     "t": "TEN",
+     "n": "Khalil Shakir",
+     "p": "WR",
+     "t": "BUF",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Skyler Bell",
+     "p": "WR",
+     "t": "BUF",
      "h": "DMsourbeer"
     },
     {
-     "n": "Elic Ayomanor",
+     "n": "James Cook III",
+     "p": "RB",
+     "t": "BUF",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "DJ Moore",
      "p": "WR",
-     "t": "TEN",
+     "t": "BUF",
      "h": "RebuildingRUs"
     },
     {
-     "n": "Wan'Dale Robinson",
+     "n": "Greg Dortch",
      "p": "WR",
-     "t": "TEN",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Hendon Hooker",
-     "p": "QB",
-     "t": "TEN",
+     "t": "BUF",
      "h": "thecreamer"
     },
     {
-     "n": "Carnell Tate",
-     "p": "WR",
-     "t": "TEN",
-     "h": "triccster"
+     "n": "Josh Allen",
+     "p": "QB",
+     "t": "BUF",
+     "h": "Jbird531"
     }
    ],
    "managers": [
-    "Colt45Johnson",
     "DMsourbeer",
+    "Jbird531",
     "RebuildingRUs",
     "TrifectaRich",
-    "Wallner",
+    "TuanonStan",
     "YoungBuck04",
-    "thecreamer",
-    "triccster"
+    "thecreamer"
    ],
    "score": 14.0
   }

@@ -1,13 +1,534 @@
 {
- "generated": "2026-11-20T13:12:16+00:00",
+ "generated": "2026-11-21T13:11:12+00:00",
  "season": 2026,
  "week": 11,
  "playoff": false,
  "games": [
   {
+   "a": "butterygoop",
+   "b": "triccster",
+   "a_win": 50.5,
+   "rec": {
+    "butterygoop": [
+     7,
+     3
+    ],
+    "triccster": [
+     7,
+     3
+    ]
+   },
+   "avg": {
+    "butterygoop": 129.35,
+    "triccster": 120.21
+   },
+   "last3": {
+    "butterygoop": [
+     73.38,
+     86.24,
+     109.22
+    ],
+    "triccster": [
+     109.18,
+     112.96,
+     104.88
+    ]
+   },
+   "proj": {
+    "butterygoop": 121.92,
+    "triccster": 121.37
+   },
+   "h2h": {
+    "butterygoop": 8,
+    "triccster": 0,
+    "games": 8
+   },
+   "streak": [
+    "butterygoop",
+    8
+   ],
+   "last": {
+    "season": 2025,
+    "week": 9,
+    "label": null,
+    "score": {
+     "butterygoop": 151.96,
+     "triccster": 101.58
+    }
+   },
+   "flags": [
+    "{butterygoop} has won 8 straight in this series",
+    "{butterygoop} owns this series 8-0"
+   ],
+   "nfl": [
+    {
+     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Jonathan Taylor",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Laquon Treadwell",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Patriots QB Drake Maye has fractured fibula, sources say",
+     "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "DeMario Douglas",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Efton Chism III",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
+     "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "triccster": [
+       {
+        "n": "Puka Nacua",
+        "p": "WR",
+        "how": "named"
+       },
+       {
+        "n": "Jordan Whittington",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Konata Mumpfield",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "CJ Daniels",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Kyren Williams",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "butterygoop": [
+       {
+        "n": "Davante Adams",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "C.J. Stroud, defense star as Texans get critical win over Colts on TNF",
+     "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 15.0,
+     "touches": {
+      "triccster": [
+       {
+        "n": "C.J. Stroud",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "butterygoop": [
+       {
+        "n": "Jonathan Taylor",
+        "p": "RB",
+        "how": "named"
+       },
+       {
+        "n": "Woody Marks",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Dalton Schultz",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Tank Dell",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "a": "TrifectaRich",
+   "b": "YoungBuck04",
+   "a_win": 44.8,
+   "rec": {
+    "TrifectaRich": [
+     6,
+     4
+    ],
+    "YoungBuck04": [
+     6,
+     4
+    ]
+   },
+   "avg": {
+    "TrifectaRich": 104.32,
+    "YoungBuck04": 108.93
+   },
+   "last3": {
+    "TrifectaRich": [
+     96.04,
+     97.88,
+     104.54
+    ],
+    "YoungBuck04": [
+     90.08,
+     96.22,
+     181.88
+    ]
+   },
+   "proj": {
+    "TrifectaRich": 106.44,
+    "YoungBuck04": 111.68
+   },
+   "h2h": {
+    "TrifectaRich": 2,
+    "YoungBuck04": 3,
+    "games": 5
+   },
+   "streak": [
+    "YoungBuck04",
+    3
+   ],
+   "last": {
+    "season": 2025,
+    "week": 9,
+    "label": null,
+    "score": {
+     "TrifectaRich": 45.6,
+     "YoungBuck04": 116.5
+    }
+   },
+   "flags": [
+    "{YoungBuck04} has won 3 straight in this series"
+   ],
+   "nfl": [
+    {
+     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "YoungBuck04": [
+       {
+        "n": "Anthony Richardson Sr.",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Seth McGowan",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "TrifectaRich": [
+       {
+        "n": "Will Mallory",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
+     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
+     "date": "2026-11-18",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "TrifectaRich": [
+       {
+        "n": "George Kittle",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Jordan James",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jake Tonges",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
+     "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "TrifectaRich": [
+       {
+        "n": "Patrick Mahomes",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Noah Gray",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "TrifectaRich": [
+       {
+        "n": "Geno Smith",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Mason Taylor",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Omar Cooper Jr.",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "a": "DMsourbeer",
+   "b": "RebuildingRUs",
+   "a_win": 59.2,
+   "rec": {
+    "DMsourbeer": [
+     3,
+     7
+    ],
+    "RebuildingRUs": [
+     3,
+     7
+    ]
+   },
+   "avg": {
+    "DMsourbeer": 85.88,
+    "RebuildingRUs": 92.29
+   },
+   "last3": {
+    "DMsourbeer": [
+     89.58,
+     108.54,
+     73.62
+    ],
+    "RebuildingRUs": [
+     79.46,
+     86.84,
+     84.68
+    ]
+   },
+   "proj": {
+    "DMsourbeer": 98.79,
+    "RebuildingRUs": 89.43
+   },
+   "h2h": {
+    "DMsourbeer": 5,
+    "RebuildingRUs": 1,
+    "games": 6
+   },
+   "streak": [
+    "DMsourbeer",
+    1
+   ],
+   "last": {
+    "season": 2025,
+    "week": 8,
+    "label": null,
+    "score": {
+     "DMsourbeer": 116.98,
+     "RebuildingRUs": 88.88
+    }
+   },
+   "flags": [
+    "{DMsourbeer} owns this series 5-1"
+   ],
+   "nfl": [
+    {
+     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
+     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
+     "date": "2026-11-18",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Christian Kirk",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Treylon Burks",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "RebuildingRUs": [
+       {
+        "n": "Isaac Guerendo",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Brock Purdy",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
+     "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "RebuildingRUs": [
+       {
+        "n": "Luther Burden III",
+        "p": "WR",
+        "how": "named"
+       }
+      ],
+      "DMsourbeer": [
+       {
+        "n": "Rome Odunze",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
+     "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Xavier Worthy",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "RebuildingRUs": [
+       {
+        "n": "Tyquan Thornton",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Josh Downs",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
+     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
+     "date": "2026-11-16",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "RebuildingRUs": [
+       {
+        "n": "Cade Klubnik",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "DMsourbeer": [
+       {
+        "n": "Adonai Mitchell",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Kenyon Sadiq",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
    "a": "thecreamer",
    "b": "Jbird531",
-   "a_win": 28.6,
+   "a_win": 33.1,
    "rec": {
     "thecreamer": [
      5,
@@ -35,8 +556,8 @@
     ]
    },
    "proj": {
-    "thecreamer": 115.67,
-    "Jbird531": 138.43
+    "thecreamer": 115.46,
+    "Jbird531": 133.09
    },
    "h2h": {
     "thecreamer": 4,
@@ -57,8 +578,7 @@
     }
    },
    "flags": [
-    "{Jbird531} has won 4 straight in this series",
-    "Upset watch: {thecreamer} is the underdog"
+    "{Jbird531} has won 4 straight in this series"
    ],
    "nfl": [
     {
@@ -66,7 +586,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
      "date": "2026-11-18",
      "both": true,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "thecreamer": [
        {
@@ -113,9 +633,9 @@
      }
     },
     {
-     "headline": "Rams WR Puka Nacua to serve 3-game suspension while on IR",
-     "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
-     "date": "2026-11-19",
+     "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
+     "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+     "date": "2026-11-20",
      "both": true,
      "score": 16.0,
      "touches": {
@@ -141,559 +661,28 @@
      }
     },
     {
-     "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-     "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-     "date": "2026-11-18",
+     "headline": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
+     "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
+     "date": "2026-11-20",
      "both": true,
-     "score": 16.0,
+     "score": 14.0,
      "touches": {
-      "thecreamer": [
-       {
-        "n": "J.J. McCarthy",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
       "Jbird531": [
        {
-        "n": "Phil Mafah",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "a": "butterygoop",
-   "b": "triccster",
-   "a_win": 52.2,
-   "rec": {
-    "butterygoop": [
-     7,
-     3
-    ],
-    "triccster": [
-     7,
-     3
-    ]
-   },
-   "avg": {
-    "butterygoop": 129.35,
-    "triccster": 120.21
-   },
-   "last3": {
-    "butterygoop": [
-     73.38,
-     86.24,
-     109.22
-    ],
-    "triccster": [
-     109.18,
-     112.96,
-     104.88
-    ]
-   },
-   "proj": {
-    "butterygoop": 122.43,
-    "triccster": 120.25
-   },
-   "h2h": {
-    "butterygoop": 8,
-    "triccster": 0,
-    "games": 8
-   },
-   "streak": [
-    "butterygoop",
-    8
-   ],
-   "last": {
-    "season": 2025,
-    "week": 9,
-    "label": null,
-    "score": {
-     "butterygoop": 151.96,
-     "triccster": 101.58
-    }
-   },
-   "flags": [
-    "{butterygoop} has won 8 straight in this series",
-    "{butterygoop} owns this series 8-0"
-   ],
-   "nfl": [
-    {
-     "headline": "Why can't Richardson beat out struggling Jones as Colts QB1?",
-     "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "butterygoop": [
-       {
-        "n": "Jonathan Taylor",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "Laquon Treadwell",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Texans DE Hunter, RB Marks to miss TNF; Colts rule out CB Ward, starting OTs",
-     "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "butterygoop": [
-       {
-        "n": "Woody Marks",
-        "p": "RB",
+        "n": "Dalton Kincaid",
+        "p": "TE",
         "how": "named"
        },
        {
-        "n": "Dalton Schultz",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Tank Dell",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "C.J. Stroud",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Rams WR Puka Nacua to serve 3-game suspension while on IR",
-     "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "triccster": [
-       {
-        "n": "Puka Nacua",
-        "p": "WR",
-        "how": "named"
-       },
-       {
-        "n": "Jordan Whittington",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Konata Mumpfield",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "CJ Daniels",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Kyren Williams",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "butterygoop": [
-       {
-        "n": "Davante Adams",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller",
-     "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "butterygoop": [
-       {
-        "n": "Jalen Hurts",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "Tanner McKee",
+        "n": "Josh Allen",
         "p": "QB",
         "how": "ripple"
        }
       ],
-      "triccster": [
+      "thecreamer": [
        {
-        "n": "Darius Cooper",
+        "n": "Greg Dortch",
         "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Saquon Barkley",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "DeVonta Smith",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Elijah Mitchell",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Tank Bigsby",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "a": "TrifectaRich",
-   "b": "YoungBuck04",
-   "a_win": 41.6,
-   "rec": {
-    "TrifectaRich": [
-     6,
-     4
-    ],
-    "YoungBuck04": [
-     6,
-     4
-    ]
-   },
-   "avg": {
-    "TrifectaRich": 104.32,
-    "YoungBuck04": 108.93
-   },
-   "last3": {
-    "TrifectaRich": [
-     96.04,
-     97.88,
-     104.54
-    ],
-    "YoungBuck04": [
-     90.08,
-     96.22,
-     181.88
-    ]
-   },
-   "proj": {
-    "TrifectaRich": 103.55,
-    "YoungBuck04": 112.15
-   },
-   "h2h": {
-    "TrifectaRich": 2,
-    "YoungBuck04": 3,
-    "games": 5
-   },
-   "streak": [
-    "YoungBuck04",
-    3
-   ],
-   "last": {
-    "season": 2025,
-    "week": 9,
-    "label": null,
-    "score": {
-     "TrifectaRich": 45.6,
-     "YoungBuck04": 116.5
-    }
-   },
-   "flags": [
-    "{YoungBuck04} has won 3 straight in this series"
-   ],
-   "nfl": [
-    {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
-     "both": true,
-     "score": 20.0,
-     "touches": {
-      "TrifectaRich": [
-       {
-        "n": "George Kittle",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ],
-      "YoungBuck04": [
-       {
-        "n": "Jordan James",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Jake Tonges",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Why can't Richardson beat out struggling Jones as Colts QB1?",
-     "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "YoungBuck04": [
-       {
-        "n": "Anthony Richardson Sr.",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Seth McGowan",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "TrifectaRich": [
-       {
-        "n": "Will Mallory",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
-     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "TrifectaRich": [
-       {
-        "n": "Geno Smith",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "YoungBuck04": [
-       {
-        "n": "Mason Taylor",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Omar Cooper Jr.",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Texans DE Hunter, RB Marks to miss TNF; Colts rule out CB Ward, starting OTs",
-     "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "TrifectaRich": [
-       {
-        "n": "Emari Demercado",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "YoungBuck04": [
-       {
-        "n": "Marvin Harrison Jr.",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "a": "DMsourbeer",
-   "b": "RebuildingRUs",
-   "a_win": 60.4,
-   "rec": {
-    "DMsourbeer": [
-     3,
-     7
-    ],
-    "RebuildingRUs": [
-     3,
-     7
-    ]
-   },
-   "avg": {
-    "DMsourbeer": 85.88,
-    "RebuildingRUs": 92.29
-   },
-   "last3": {
-    "DMsourbeer": [
-     89.58,
-     108.54,
-     73.62
-    ],
-    "RebuildingRUs": [
-     79.46,
-     86.84,
-     84.68
-    ]
-   },
-   "proj": {
-    "DMsourbeer": 99.59,
-    "RebuildingRUs": 88.93
-   },
-   "h2h": {
-    "DMsourbeer": 5,
-    "RebuildingRUs": 1,
-    "games": 6
-   },
-   "streak": [
-    "DMsourbeer",
-    1
-   ],
-   "last": {
-    "season": 2025,
-    "week": 8,
-    "label": null,
-    "score": {
-     "DMsourbeer": 116.98,
-     "RebuildingRUs": 88.88
-    }
-   },
-   "flags": [
-    "{DMsourbeer} owns this series 5-1"
-   ],
-   "nfl": [
-    {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
-     "both": true,
-     "score": 20.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Christian Kirk",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Treylon Burks",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "RebuildingRUs": [
-       {
-        "n": "Isaac Guerendo",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Brock Purdy",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
-     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "RebuildingRUs": [
-       {
-        "n": "Cade Klubnik",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "DMsourbeer": [
-       {
-        "n": "Adonai Mitchell",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Kenyon Sadiq",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Texans DE Hunter, RB Marks to miss TNF; Colts rule out CB Ward, starting OTs",
-     "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Jayden Higgins",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "RebuildingRUs": [
-       {
-        "n": "Kayshon Boutte",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-     "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-     "date": "2026-11-18",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Cam Skattebo",
-        "p": "RB",
-        "how": "named"
-       }
-      ],
-      "RebuildingRUs": [
-       {
-        "n": "Jameis Winston",
-        "p": "QB",
         "how": "ripple"
        }
       ]
@@ -704,7 +693,7 @@
   {
    "a": "TuanonStan",
    "b": "Wallner",
-   "a_win": 60.4,
+   "a_win": 62.7,
    "rec": {
     "TuanonStan": [
      6,
@@ -732,8 +721,8 @@
     ]
    },
    "proj": {
-    "TuanonStan": 104.27,
-    "Wallner": 93.68
+    "TuanonStan": 106.53,
+    "Wallner": 93.51
    },
    "h2h": {
     "TuanonStan": 3,
@@ -760,7 +749,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
      "date": "2026-11-18",
      "both": true,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "TuanonStan": [
        {
@@ -799,6 +788,29 @@
      }
     },
     {
+     "headline": "Patriots QB Drake Maye has fractured fibula, sources say",
+     "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+     "date": "2026-11-20",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Kyle Williams",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Wallner": [
+       {
+        "n": "Romeo Doubs",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Bucs QB Baker Mayfield hopes to play Sunday despite foot injury: 'I feel ready'",
      "url": "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury",
      "date": "2026-11-19",
@@ -822,50 +834,20 @@
      }
     },
     {
-     "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-     "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-     "date": "2026-11-18",
-     "both": true,
-     "score": 16.0,
+     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+     "date": "2026-11-20",
+     "both": false,
+     "score": 20.0,
      "touches": {
-      "TuanonStan": [
-       {
-        "n": "Theo Johnson",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ],
       "Wallner": [
        {
-        "n": "Tyrone Tracy Jr.",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
-     "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 15.0,
-     "touches": {
-      "TuanonStan": [
-       {
-        "n": "Jalen Milroe",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
-      "Wallner": [
-       {
-        "n": "Zach Charbonnet",
-        "p": "RB",
+        "n": "Ashton Dulin",
+        "p": "WR",
         "how": "ripple"
        },
        {
-        "n": "Cooper Kupp",
+        "n": "Deion Burks",
         "p": "WR",
         "how": "ripple"
        }
@@ -877,7 +859,7 @@
   {
    "a": "brettmn13",
    "b": "Colt45Johnson",
-   "a_win": 30.6,
+   "a_win": 31.4,
    "rec": {
     "brettmn13": [
      3,
@@ -905,8 +887,8 @@
     ]
    },
    "proj": {
-    "brettmn13": 94.65,
-    "Colt45Johnson": 115.15
+    "brettmn13": 95.51,
+    "Colt45Johnson": 115.02
    },
    "h2h": {
     "brettmn13": 3,
@@ -933,7 +915,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
      "date": "2026-11-18",
      "both": true,
-     "score": 20.0,
+     "score": 18.0,
      "touches": {
       "brettmn13": [
        {
@@ -977,43 +959,52 @@
      }
     },
     {
-     "headline": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-     "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-     "date": "2026-11-18",
+     "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
+     "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
+     "date": "2026-11-20",
      "both": true,
-     "score": 16.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Malachi Fields",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Darnell Mooney",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "Colt45Johnson": [
-       {
-        "n": "Jaxson Dart",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Why can't Richardson beat out struggling Jones as Colts QB1?",
-     "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
-     "date": "2026-11-19",
-     "both": false,
      "score": 17.0,
      "touches": {
       "Colt45Johnson": [
        {
-        "n": "Tyler Warren",
+        "n": "Kyle Monangai",
+        "p": "RB",
+        "how": "named"
+       },
+       {
+        "n": "Tyson Bagent",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Caleb Williams",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "D'Andre Swift",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Colston Loveland",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Case Keenum",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kalif Raymond",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Cole Kmet",
         "p": "TE",
         "how": "ripple"
        }
@@ -1021,17 +1012,55 @@
      }
     },
     {
-     "headline": "Bucs QB Baker Mayfield hopes to play Sunday despite foot injury: 'I feel ready'",
-     "url": "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury",
-     "date": "2026-11-19",
-     "both": false,
-     "score": 17.0,
+     "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
+     "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf",
+     "date": "2026-11-21",
+     "both": true,
+     "score": 16.0,
      "touches": {
       "brettmn13": [
        {
-        "n": "Baker Mayfield",
+        "n": "Joe Burrow",
         "p": "QB",
         "how": "named"
+       },
+       {
+        "n": "Dohnte Meyers",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Joe Flacco",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Tahj Brooks",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Tee Higgins",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+     "date": "2026-11-20",
+     "both": false,
+     "score": 20.0,
+     "touches": {
+      "Colt45Johnson": [
+       {
+        "n": "Tyler Warren",
+        "p": "TE",
+        "how": "ripple"
        }
       ]
      }
@@ -1042,6 +1071,6 @@
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-20T13:12+00:00",
+ "nfl_read_at": "2026-11-21T13:11+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }
