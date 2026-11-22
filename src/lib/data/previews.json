@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T13:11:12+00:00",
+ "generated": "2026-11-22T13:13:05+00:00",
  "season": 2026,
  "week": 11,
  "playoff": false,
@@ -7,7 +7,7 @@
   {
    "a": "butterygoop",
    "b": "triccster",
-   "a_win": 50.5,
+   "a_win": 51.0,
    "rec": {
     "butterygoop": [
      7,
@@ -35,8 +35,8 @@
     ]
    },
    "proj": {
-    "butterygoop": 121.92,
-    "triccster": 121.37
+    "butterygoop": 122.06,
+    "triccster": 121.07
    },
    "h2h": {
     "butterygoop": 8,
@@ -108,42 +108,22 @@
      }
     },
     {
-     "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
-     "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
-     "date": "2026-11-20",
+     "headline": "Sources: Ex-Colts QB Daniel Jones likely to wait before signing with new team",
+     "url": "https://www.espn.com/nfl/story/_/id/50557657/sources-daniel-jones-likely-wait-joining-new-team",
+     "date": "2026-11-22",
      "both": true,
      "score": 16.0,
      "touches": {
-      "triccster": [
+      "butterygoop": [
        {
-        "n": "Puka Nacua",
-        "p": "WR",
-        "how": "named"
-       },
-       {
-        "n": "Jordan Whittington",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Konata Mumpfield",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "CJ Daniels",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Kyren Williams",
+        "n": "Jonathan Taylor",
         "p": "RB",
         "how": "ripple"
        }
       ],
-      "butterygoop": [
+      "triccster": [
        {
-        "n": "Davante Adams",
+        "n": "Laquon Treadwell",
         "p": "WR",
         "how": "ripple"
        }
@@ -151,37 +131,22 @@
      }
     },
     {
-     "headline": "C.J. Stroud, defense star as Texans get critical win over Colts on TNF",
-     "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense",
-     "date": "2026-11-20",
+     "headline": "Sources: Colts shut down Alec Pierce for season, plan for WR's return in 2027",
+     "url": "https://www.espn.com/nfl/story/_/id/50551004/sources-colts-shutting-alec-pierce-rest-season",
+     "date": "2026-11-22",
      "both": true,
-     "score": 15.0,
+     "score": 16.0,
      "touches": {
-      "triccster": [
-       {
-        "n": "C.J. Stroud",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
       "butterygoop": [
        {
         "n": "Jonathan Taylor",
         "p": "RB",
-        "how": "named"
-       },
-       {
-        "n": "Woody Marks",
-        "p": "RB",
         "how": "ripple"
-       },
+       }
+      ],
+      "triccster": [
        {
-        "n": "Dalton Schultz",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Tank Dell",
+        "n": "Laquon Treadwell",
         "p": "WR",
         "how": "ripple"
        }
@@ -193,7 +158,7 @@
   {
    "a": "TrifectaRich",
    "b": "YoungBuck04",
-   "a_win": 44.8,
+   "a_win": 42.4,
    "rec": {
     "TrifectaRich": [
      6,
@@ -221,8 +186,8 @@
     ]
    },
    "proj": {
-    "TrifectaRich": 106.44,
-    "YoungBuck04": 111.68
+    "TrifectaRich": 104.18,
+    "YoungBuck04": 111.92
    },
    "h2h": {
     "TrifectaRich": 2,
@@ -246,6 +211,29 @@
     "{YoungBuck04} has won 3 straight in this series"
    ],
    "nfl": [
+    {
+     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
+     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+     "date": "2026-11-21",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "TrifectaRich": [
+       {
+        "n": "Jeremiyah Love",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "YoungBuck04": [
+       {
+        "n": "Kendrick Bourne",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
     {
      "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
@@ -303,50 +291,22 @@
      }
     },
     {
-     "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
-     "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
-     "date": "2026-11-20",
+     "headline": "Steelers activate WR Roman Wilson off IR for Eagles game",
+     "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+     "date": "2026-11-21",
      "both": true,
      "score": 17.0,
      "touches": {
       "TrifectaRich": [
        {
-        "n": "Patrick Mahomes",
-        "p": "QB",
+        "n": "Germie Bernard",
+        "p": "WR",
         "how": "ripple"
        }
       ],
       "YoungBuck04": [
        {
-        "n": "Noah Gray",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
-     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "TrifectaRich": [
-       {
-        "n": "Geno Smith",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "YoungBuck04": [
-       {
-        "n": "Mason Taylor",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Omar Cooper Jr.",
+        "n": "DK Metcalf",
         "p": "WR",
         "how": "ripple"
        }
@@ -386,8 +346,8 @@
     ]
    },
    "proj": {
-    "DMsourbeer": 98.79,
-    "RebuildingRUs": 89.43
+    "DMsourbeer": 98.27,
+    "RebuildingRUs": 88.93
    },
    "h2h": {
     "DMsourbeer": 5,
@@ -411,6 +371,34 @@
     "{DMsourbeer} owns this series 5-1"
    ],
    "nfl": [
+    {
+     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
+     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+     "date": "2026-11-21",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "RebuildingRUs": [
+       {
+        "n": "Carson Beck",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Trey McBride",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "DMsourbeer": [
+       {
+        "n": "Bub Means",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
     {
      "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
@@ -445,6 +433,29 @@
      }
     },
     {
+     "headline": "Steelers activate WR Roman Wilson off IR for Eagles game",
+     "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+     "date": "2026-11-21",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Roman Wilson",
+        "p": "WR",
+        "how": "named"
+       }
+      ],
+      "RebuildingRUs": [
+       {
+        "n": "Michael Pittman Jr.",
+        "p": "WR",
+        "how": "named"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
      "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
      "date": "2026-11-20",
@@ -462,62 +473,6 @@
        {
         "n": "Rome Odunze",
         "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
-     "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
-     "date": "2026-11-20",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Xavier Worthy",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "RebuildingRUs": [
-       {
-        "n": "Tyquan Thornton",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Josh Downs",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Jets QB Geno Smith suffers ankle injury, replaced by rookie Cade Klubnik",
-     "url": "https://www.espn.com/nfl/story/_/id/50493391/jets-qb-geno-smith-suffers-ankle-injury-bills",
-     "date": "2026-11-16",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "RebuildingRUs": [
-       {
-        "n": "Cade Klubnik",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "DMsourbeer": [
-       {
-        "n": "Adonai Mitchell",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Kenyon Sadiq",
-        "p": "TE",
         "how": "ripple"
        }
       ]
@@ -556,8 +511,8 @@
     ]
    },
    "proj": {
-    "thecreamer": 115.46,
-    "Jbird531": 133.09
+    "thecreamer": 115.3,
+    "Jbird531": 132.9
    },
    "h2h": {
     "thecreamer": 4,
@@ -610,32 +565,9 @@
      }
     },
     {
-     "headline": "Bucs QB Baker Mayfield hopes to play Sunday despite foot injury: 'I feel ready'",
-     "url": "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "thecreamer": [
-       {
-        "n": "Tez Johnson",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "Jbird531": [
-       {
-        "n": "Jalen McMillan",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
-     "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
-     "date": "2026-11-20",
+     "headline": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
+     "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
+     "date": "2026-11-22",
      "both": true,
      "score": 16.0,
      "touches": {
@@ -661,28 +593,49 @@
      }
     },
     {
-     "headline": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
-     "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
-     "date": "2026-11-20",
+     "headline": "Kirk Cousins on pace to make history as 1st QB to play 18 regular-season games",
+     "url": "https://www.espn.com/nfl/story/_/id/50557919/vikings-qb-kirk-cousins-pace-make-nfl-history",
+     "date": "2026-11-22",
      "both": true,
-     "score": 14.0,
+     "score": 16.0,
+     "touches": {
+      "thecreamer": [
+       {
+        "n": "Kirk Cousins",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "Jbird531": [
+       {
+        "n": "Justin Jefferson",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
+     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+     "date": "2026-11-21",
+     "both": false,
+     "score": 20.0,
      "touches": {
       "Jbird531": [
        {
-        "n": "Dalton Kincaid",
-        "p": "TE",
-        "how": "named"
+        "n": "Michael Wilson",
+        "p": "WR",
+        "how": "ripple"
        },
        {
-        "n": "Josh Allen",
-        "p": "QB",
+        "n": "Trey Benson",
+        "p": "RB",
         "how": "ripple"
-       }
-      ],
-      "thecreamer": [
+       },
        {
-        "n": "Greg Dortch",
-        "p": "WR",
+        "n": "Tyler Allgeier",
+        "p": "RB",
         "how": "ripple"
        }
       ]
@@ -693,7 +646,7 @@
   {
    "a": "TuanonStan",
    "b": "Wallner",
-   "a_win": 62.7,
+   "a_win": 61.0,
    "rec": {
     "TuanonStan": [
      6,
@@ -721,8 +674,8 @@
     ]
    },
    "proj": {
-    "TuanonStan": 106.53,
-    "Wallner": 93.51
+    "TuanonStan": 105.52,
+    "Wallner": 94.24
    },
    "h2h": {
     "TuanonStan": 3,
@@ -788,6 +741,39 @@
      }
     },
     {
+     "headline": "Steelers activate WR Roman Wilson off IR for Eagles game",
+     "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+     "date": "2026-11-21",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Rico Dowdle",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Pat Freiermuth",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "Wallner": [
+       {
+        "n": "Mason Rudolph",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Will Howard",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Patriots QB Drake Maye has fractured fibula, sources say",
      "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
      "date": "2026-11-20",
@@ -811,44 +797,16 @@
      }
     },
     {
-     "headline": "Bucs QB Baker Mayfield hopes to play Sunday despite foot injury: 'I feel ready'",
-     "url": "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury",
-     "date": "2026-11-19",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "Wallner": [
-       {
-        "n": "Jalon Daniels",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "TuanonStan": [
-       {
-        "n": "Emeka Egbuka",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-     "date": "2026-11-20",
+     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
+     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
+     "date": "2026-11-21",
      "both": false,
      "score": 20.0,
      "touches": {
       "Wallner": [
        {
-        "n": "Ashton Dulin",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Deion Burks",
-        "p": "WR",
+        "n": "James Conner",
+        "p": "RB",
         "how": "ripple"
        }
       ]
@@ -859,7 +817,7 @@
   {
    "a": "brettmn13",
    "b": "Colt45Johnson",
-   "a_win": 31.4,
+   "a_win": 34.7,
    "rec": {
     "brettmn13": [
      3,
@@ -887,8 +845,8 @@
     ]
    },
    "proj": {
-    "brettmn13": 95.51,
-    "Colt45Johnson": 115.02
+    "brettmn13": 99.24,
+    "Colt45Johnson": 115.13
    },
    "h2h": {
     "brettmn13": 3,
@@ -1012,6 +970,34 @@
      }
     },
     {
+     "headline": "Kirk Cousins on pace to make history as 1st QB to play 18 regular-season games",
+     "url": "https://www.espn.com/nfl/story/_/id/50557919/vikings-qb-kirk-cousins-pace-make-nfl-history",
+     "date": "2026-11-22",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "brettmn13": [
+       {
+        "n": "Carson Wentz",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jauan Jennings",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Tai Felton",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
      "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf",
      "date": "2026-11-21",
@@ -1048,22 +1034,6 @@
        }
       ]
      }
-    },
-    {
-     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-     "date": "2026-11-20",
-     "both": false,
-     "score": 20.0,
-     "touches": {
-      "Colt45Johnson": [
-       {
-        "n": "Tyler Warren",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
     }
    ]
   }
@@ -1071,6 +1041,6 @@
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-21T13:11+00:00",
+ "nfl_read_at": "2026-11-22T13:13+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }
