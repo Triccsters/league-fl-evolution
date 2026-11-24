@@ -1,7 +1,7 @@
 {
- "read_at": "2026-11-23T13:11+00:00",
+ "read_at": "2026-11-24T13:12+00:00",
  "days": 7,
- "count": 105,
+ "count": 92,
  "items": [
   {
    "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
@@ -101,7 +101,7 @@
     "YoungBuck04",
     "butterygoop"
    ],
-   "score": 20.0
+   "score": 18.0
   },
   {
    "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
@@ -115,7 +115,7 @@
     {
      "n": "Daniel Jones",
      "p": "QB",
-     "t": "IND",
+     "t": "",
      "h": "DMsourbeer"
     },
     {
@@ -196,106 +196,6 @@
     "triccster"
    ],
    "score": 18.0
-  },
-  {
-   "headline": "Steelers activate WR Roman Wilson off IR for Eagles game",
-   "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
-   "date": "2026-11-21",
-   "kind": "news",
-   "teams": [
-    "PIT"
-   ],
-   "named": [
-    {
-     "n": "Roman Wilson",
-     "p": "WR",
-     "t": "PIT",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Michael Pittman Jr.",
-     "p": "WR",
-     "t": "PIT",
-     "h": "RebuildingRUs"
-    }
-   ],
-   "lead": [
-    "Roman Wilson"
-   ],
-   "ripple": [
-    {
-     "n": "Rico Dowdle",
-     "p": "RB",
-     "t": "PIT",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Pat Freiermuth",
-     "p": "TE",
-     "t": "PIT",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Mason Rudolph",
-     "p": "QB",
-     "t": "PIT",
-     "h": "Wallner"
-    },
-    {
-     "n": "Will Howard",
-     "p": "QB",
-     "t": "PIT",
-     "h": "Wallner"
-    },
-    {
-     "n": "Germie Bernard",
-     "p": "WR",
-     "t": "PIT",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "DK Metcalf",
-     "p": "WR",
-     "t": "PIT",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Drew Allar",
-     "p": "QB",
-     "t": "PIT",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Darnell Washington",
-     "p": "TE",
-     "t": "PIT",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Jaylen Warren",
-     "p": "RB",
-     "t": "PIT",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Aaron Rodgers",
-     "p": "QB",
-     "t": "PIT",
-     "h": "butterygoop"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "RebuildingRUs",
-    "TrifectaRich",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop",
-    "thecreamer"
-   ],
-   "score": 17.0
   },
   {
    "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
@@ -659,6 +559,430 @@
    "score": 16.0
   },
   {
+   "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
+   "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
+   "date": "2026-11-23",
+   "kind": "news",
+   "teams": [
+    "LAR"
+   ],
+   "named": [
+    {
+     "n": "Terrance Ferguson",
+     "p": "TE",
+     "t": "LAR",
+     "h": "brettmn13"
+    }
+   ],
+   "lead": [
+    "Terrance Ferguson"
+   ],
+   "ripple": [
+    {
+     "n": "Matthew Stafford",
+     "p": "QB",
+     "t": "LAR",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Blake Corum",
+     "p": "RB",
+     "t": "LAR",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Tyler Higbee",
+     "p": "TE",
+     "t": "LAR",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Colby Parkinson",
+     "p": "TE",
+     "t": "LAR",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Max Klare",
+     "p": "TE",
+     "t": "LAR",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Tutu Atwell",
+     "p": "WR",
+     "t": "LAR",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Davante Adams",
+     "p": "WR",
+     "t": "LAR",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jordan Whittington",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Konata Mumpfield",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "CJ Daniels",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Kyren Williams",
+     "p": "RB",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Puka Nacua",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Ty Simpson",
+     "p": "QB",
+     "t": "LAR",
+     "h": "Jbird531"
+    }
+   ],
+   "managers": [
+    "Jbird531",
+    "TrifectaRich",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Steelers' Metcalf denies trying to poke DeJean in eye; WR won't be suspended",
+   "url": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
+   "date": "2026-11-23",
+   "kind": "news",
+   "teams": [
+    "PHI",
+    "PIT"
+   ],
+   "named": [
+    {
+     "n": "DK Metcalf",
+     "p": "WR",
+     "t": "PIT",
+     "h": "YoungBuck04"
+    }
+   ],
+   "lead": [
+    "DK Metcalf"
+   ],
+   "ripple": [
+    {
+     "n": "Rico Dowdle",
+     "p": "RB",
+     "t": "PIT",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Pat Freiermuth",
+     "p": "TE",
+     "t": "PIT",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Mason Rudolph",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Wallner"
+    },
+    {
+     "n": "Will Howard",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Wallner"
+    },
+    {
+     "n": "Germie Bernard",
+     "p": "WR",
+     "t": "PIT",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Drew Allar",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Roman Wilson",
+     "p": "WR",
+     "t": "PIT",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Michael Pittman Jr.",
+     "p": "WR",
+     "t": "PIT",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Darnell Washington",
+     "p": "TE",
+     "t": "PIT",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jaylen Warren",
+     "p": "RB",
+     "t": "PIT",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Aaron Rodgers",
+     "p": "QB",
+     "t": "PIT",
+     "h": "butterygoop"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "RebuildingRUs",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "butterygoop",
+    "thecreamer"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
+   "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
+   "date": "2026-11-23",
+   "kind": "news",
+   "teams": [
+    "SF"
+   ],
+   "named": [
+    {
+     "n": "Brandon Aiyuk",
+     "p": "WR",
+     "t": "SF",
+     "h": "brettmn13"
+    }
+   ],
+   "lead": [
+    "Brandon Aiyuk"
+   ],
+   "ripple": [
+    {
+     "n": "Kaelon Black",
+     "p": "RB",
+     "t": "SF",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Christian McCaffrey",
+     "p": "RB",
+     "t": "SF",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Jordan Watkins",
+     "p": "WR",
+     "t": "SF",
+     "h": "Wallner"
+    },
+    {
+     "n": "Demarcus Robinson",
+     "p": "WR",
+     "t": "SF",
+     "h": "Wallner"
+    },
+    {
+     "n": "Keenan Allen",
+     "p": "WR",
+     "t": "SF",
+     "h": "brettmn13"
+    },
+    {
+     "n": "George Kittle",
+     "p": "TE",
+     "t": "SF",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Jordan James",
+     "p": "RB",
+     "t": "SF",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Jake Tonges",
+     "p": "TE",
+     "t": "SF",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Ricky Pearsall",
+     "p": "WR",
+     "t": "SF",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Christian Kirk",
+     "p": "WR",
+     "t": "SF",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Isaac Guerendo",
+     "p": "RB",
+     "t": "SF",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Brock Purdy",
+     "p": "QB",
+     "t": "SF",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Mac Jones",
+     "p": "QB",
+     "t": "SF",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Mike Evans",
+     "p": "WR",
+     "t": "SF",
+     "h": "triccster"
+    },
+    {
+     "n": "Deebo Samuel Sr.",
+     "p": "WR",
+     "t": "SF",
+     "h": "triccster"
+    },
+    {
+     "n": "De'Zhaun Stribling",
+     "p": "WR",
+     "t": "SF",
+     "h": "Jbird531"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "Jbird531",
+    "RebuildingRUs",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "brettmn13",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
+   "headline": "Commanders RB Jacory Croskey-Merritt activated from IR ahead of MNF",
+   "url": "https://www.espn.com/nfl/story/_/id/50576561/commanders-rb-jacory-croskey-merritt-activated-ir",
+   "date": "2026-11-23",
+   "kind": "news",
+   "teams": [
+    "WAS"
+   ],
+   "named": [
+    {
+     "n": "Jacory Croskey-Merritt",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    }
+   ],
+   "lead": [
+    "Jacory Croskey-Merritt"
+   ],
+   "ripple": [
+    {
+     "n": "Marcus Mariota",
+     "p": "QB",
+     "t": "WAS",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Stefon Diggs",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Wallner"
+    },
+    {
+     "n": "Rachaad White",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Chig Okonkwo",
+     "p": "TE",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Antonio Williams",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Treylon Burks",
+     "p": "WR",
+     "t": "WAS",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Terry McLaurin",
+     "p": "WR",
+     "t": "WAS",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jayden Daniels",
+     "p": "QB",
+     "t": "WAS",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "TuanonStan",
+    "Wallner",
+    "brettmn13",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
    "headline": "Sources: Ex-Colts QB Daniel Jones likely to wait before signing with new team",
    "url": "https://www.espn.com/nfl/story/_/id/50557657/sources-daniel-jones-likely-wait-joining-new-team",
    "date": "2026-11-22",
@@ -670,7 +994,7 @@
     {
      "n": "Daniel Jones",
      "p": "QB",
-     "t": "IND",
+     "t": "",
      "h": "DMsourbeer"
     }
    ],
@@ -808,12 +1132,6 @@
      "h": "Colt45Johnson"
     },
     {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "IND",
-     "h": "DMsourbeer"
-    },
-    {
      "n": "DJ Giddens",
      "p": "RB",
      "t": "IND",
@@ -838,117 +1156,6 @@
     "TrifectaRich",
     "Wallner",
     "YoungBuck04",
-    "butterygoop",
-    "thecreamer",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
-   "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
-   "date": "2026-11-22",
-   "kind": "news",
-   "teams": [
-    "LAR"
-   ],
-   "named": [
-    {
-     "n": "Puka Nacua",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    }
-   ],
-   "lead": [
-    "Puka Nacua"
-   ],
-   "ripple": [
-    {
-     "n": "Matthew Stafford",
-     "p": "QB",
-     "t": "LAR",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Terrance Ferguson",
-     "p": "TE",
-     "t": "LAR",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Blake Corum",
-     "p": "RB",
-     "t": "LAR",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Tyler Higbee",
-     "p": "TE",
-     "t": "LAR",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Colby Parkinson",
-     "p": "TE",
-     "t": "LAR",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Max Klare",
-     "p": "TE",
-     "t": "LAR",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Tutu Atwell",
-     "p": "WR",
-     "t": "LAR",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Davante Adams",
-     "p": "WR",
-     "t": "LAR",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Jordan Whittington",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Konata Mumpfield",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "CJ Daniels",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Kyren Williams",
-     "p": "RB",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Ty Simpson",
-     "p": "QB",
-     "t": "LAR",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Jbird531",
-    "TrifectaRich",
-    "TuanonStan",
-    "YoungBuck04",
-    "brettmn13",
     "butterygoop",
     "thecreamer",
     "triccster"
@@ -1050,6 +1257,106 @@
    "score": 16.0
   },
   {
+   "headline": "Steelers activate WR Roman Wilson off IR for Eagles game",
+   "url": "https://www.espn.com/nfl/story/_/id/50552701/sources-steelers-activate-wr-roman-wilson-ir-eagles-game",
+   "date": "2026-11-21",
+   "kind": "news",
+   "teams": [
+    "PIT"
+   ],
+   "named": [
+    {
+     "n": "Roman Wilson",
+     "p": "WR",
+     "t": "PIT",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Michael Pittman Jr.",
+     "p": "WR",
+     "t": "PIT",
+     "h": "RebuildingRUs"
+    }
+   ],
+   "lead": [
+    "Roman Wilson"
+   ],
+   "ripple": [
+    {
+     "n": "Rico Dowdle",
+     "p": "RB",
+     "t": "PIT",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Pat Freiermuth",
+     "p": "TE",
+     "t": "PIT",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Mason Rudolph",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Wallner"
+    },
+    {
+     "n": "Will Howard",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Wallner"
+    },
+    {
+     "n": "Germie Bernard",
+     "p": "WR",
+     "t": "PIT",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "DK Metcalf",
+     "p": "WR",
+     "t": "PIT",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Drew Allar",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Darnell Washington",
+     "p": "TE",
+     "t": "PIT",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jaylen Warren",
+     "p": "RB",
+     "t": "PIT",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Aaron Rodgers",
+     "p": "QB",
+     "t": "PIT",
+     "h": "butterygoop"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "RebuildingRUs",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "butterygoop",
+    "thecreamer"
+   ],
+   "score": 15.0
+  },
+  {
    "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
    "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
    "date": "2026-11-20",
@@ -1145,307 +1452,6 @@
     "thecreamer"
    ],
    "score": 15.0
-  },
-  {
-   "headline": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
-   "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
-   "date": "2026-11-20",
-   "kind": "news",
-   "teams": [
-    "KC"
-   ],
-   "named": [
-    {
-     "n": "Kenneth Walker III",
-     "p": "RB",
-     "t": "KC",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Emmett Johnson",
-     "p": "RB",
-     "t": "KC",
-     "h": "brettmn13"
-    }
-   ],
-   "lead": [
-    "Kenneth Walker III"
-   ],
-   "ripple": [
-    {
-     "n": "Rashee Rice",
-     "p": "WR",
-     "t": "KC",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Cyrus Allen",
-     "p": "WR",
-     "t": "KC",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Justin Fields",
-     "p": "QB",
-     "t": "KC",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Patrick Mahomes",
-     "p": "QB",
-     "t": "KC",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Noah Gray",
-     "p": "TE",
-     "t": "KC",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Xavier Worthy",
-     "p": "WR",
-     "t": "KC",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Tyquan Thornton",
-     "p": "WR",
-     "t": "KC",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Josh Downs",
-     "p": "WR",
-     "t": "KC",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Travis Kelce",
-     "p": "TE",
-     "t": "KC",
-     "h": "triccster"
-    },
-    {
-     "n": "Brashard Smith",
-     "p": "RB",
-     "t": "KC",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Jalen Royals",
-     "p": "WR",
-     "t": "KC",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "DMsourbeer",
-    "Jbird531",
-    "RebuildingRUs",
-    "TrifectaRich",
-    "TuanonStan",
-    "YoungBuck04",
-    "brettmn13",
-    "triccster"
-   ],
-   "score": 15.0
-  },
-  {
-   "headline": "Patriots QB Drake Maye has fractured fibula, sources say",
-   "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
-   "date": "2026-11-20",
-   "kind": "news",
-   "teams": [
-    "NE"
-   ],
-   "named": [
-    {
-     "n": "Drake Maye",
-     "p": "QB",
-     "t": "NE",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "A.J. Brown",
-     "p": "WR",
-     "t": "NE",
-     "h": "RebuildingRUs"
-    }
-   ],
-   "lead": [
-    "Drake Maye"
-   ],
-   "ripple": [
-    {
-     "n": "Kyle Williams",
-     "p": "WR",
-     "t": "NE",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Romeo Doubs",
-     "p": "WR",
-     "t": "NE",
-     "h": "Wallner"
-    },
-    {
-     "n": "Mack Hollins",
-     "p": "WR",
-     "t": "NE",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Corey Kiner",
-     "p": "RB",
-     "t": "NE",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Eli Raridon",
-     "p": "TE",
-     "t": "NE",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Hunter Henry",
-     "p": "TE",
-     "t": "NE",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "TreVeyon Henderson",
-     "p": "RB",
-     "t": "NE",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Rhamondre Stevenson",
-     "p": "RB",
-     "t": "NE",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "DeMario Douglas",
-     "p": "WR",
-     "t": "NE",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Efton Chism III",
-     "p": "WR",
-     "t": "NE",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "RebuildingRUs",
-    "TuanonStan",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop",
-    "triccster"
-   ],
-   "score": 15.0
-  },
-  {
-   "headline": "'Locked into the moment,' Bryce Young rallies first-place Panthers past Ravens",
-   "url": "https://www.espn.com/nfl/story/_/id/50567146/young-authors-game-winning-drive-first-place-panthers",
-   "date": "2026-11-23",
-   "kind": "news",
-   "teams": [
-    "BAL",
-    "CAR"
-   ],
-   "named": [
-    {
-     "n": "Bryce Young",
-     "p": "QB",
-     "t": "CAR",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Bryce Young"
-   ],
-   "ripple": [
-    {
-     "n": "Chris Brazzell II",
-     "p": "WR",
-     "t": "CAR",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Tommy Tremble",
-     "p": "TE",
-     "t": "CAR",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Chuba Hubbard",
-     "p": "RB",
-     "t": "CAR",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Jalen Coker",
-     "p": "WR",
-     "t": "CAR",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jonathon Brooks",
-     "p": "RB",
-     "t": "CAR",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Darren Waller",
-     "p": "TE",
-     "t": "CAR",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Ja'Tavion Sanders",
-     "p": "TE",
-     "t": "CAR",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Xavier Legette",
-     "p": "WR",
-     "t": "CAR",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Brycen Tremayne",
-     "p": "WR",
-     "t": "CAR",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Trevor Etienne",
-     "p": "RB",
-     "t": "CAR",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Tetairoa McMillan",
-     "p": "WR",
-     "t": "CAR",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "TrifectaRich",
-    "YoungBuck04",
-    "butterygoop"
-   ],
-   "score": 14.0
   }
  ],
  "source": "ESPN NFL news, headlines and links only",

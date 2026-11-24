@@ -6,106 +6,106 @@
    "n": "Michael Mayer",
    "p": "TE",
    "t": "LV",
-   "c": 4133259,
+   "c": 3678849,
    "h": "Jbird531"
   },
   {
    "n": "Xavier Hutchinson",
    "p": "WR",
    "t": "HOU",
-   "c": 3421516,
+   "c": 2965221,
    "h": "Jbird531"
   },
   {
    "n": "Detroit Lions",
    "p": "DEF",
    "t": "DET",
-   "c": 2826090,
+   "c": 2652390,
    "h": null
   },
   {
    "n": "Pat Bryant",
    "p": "WR",
    "t": "DEN",
-   "c": 2247648,
-   "h": "YoungBuck04"
-  },
-  {
-   "n": "Mark Andrews",
-   "p": "TE",
-   "t": "BAL",
-   "c": 2048211,
+   "c": 2035248,
    "h": "YoungBuck04"
   },
   {
    "n": "Chimere Dike",
    "p": "WR",
    "t": "TEN",
-   "c": 1912905,
+   "c": 2034027,
    "h": "Colt45Johnson"
+  },
+  {
+   "n": "Mark Andrews",
+   "p": "TE",
+   "t": "BAL",
+   "c": 1804122,
+   "h": "YoungBuck04"
+  },
+  {
+   "n": "Cairo Santos",
+   "p": "K",
+   "t": "CHI",
+   "c": 1550402,
+   "h": null
   },
   {
    "n": "Ryan Flournoy",
    "p": "WR",
    "t": "DAL",
-   "c": 1792928,
+   "c": 1539376,
    "h": "thecreamer"
   },
   {
-   "n": "Seth McGowan",
+   "n": "Justice Hill",
    "p": "RB",
-   "t": "IND",
-   "c": 1726504,
+   "t": "BAL",
+   "c": 1525554,
    "h": "YoungBuck04"
   },
   {
    "n": "Elic Ayomanor",
    "p": "WR",
    "t": "TEN",
-   "c": 1613328,
+   "c": 1514012,
    "h": "RebuildingRUs"
   },
   {
-   "n": "Cairo Santos",
-   "p": "K",
-   "t": "CHI",
-   "c": 1599878,
-   "h": null
-  },
-  {
-   "n": "Justice Hill",
+   "n": "Seth McGowan",
    "p": "RB",
-   "t": "BAL",
-   "c": 1409238,
+   "t": "IND",
+   "c": 1404896,
    "h": "YoungBuck04"
-  },
-  {
-   "n": "Jordyn Tyson",
-   "p": "WR",
-   "t": "NO",
-   "c": 1213792,
-   "h": "Jbird531"
   },
   {
    "n": "Jacory Croskey-Merritt",
    "p": "RB",
    "t": "WAS",
-   "c": 1097460,
+   "c": 1239075,
    "h": "brettmn13"
   },
   {
    "n": "Adonai Mitchell",
    "p": "WR",
    "t": "NYJ",
-   "c": 1022096,
+   "c": 973240,
    "h": "DMsourbeer"
   },
   {
-   "n": "Bo Nix",
-   "p": "QB",
-   "t": "DEN",
-   "c": 991506,
-   "h": "Wallner"
+   "n": "Chris Rodriguez Jr.",
+   "p": "RB",
+   "t": "JAX",
+   "c": 946899,
+   "h": "triccster"
+  },
+  {
+   "n": "Jordyn Tyson",
+   "p": "WR",
+   "t": "NO",
+   "c": 931936,
+   "h": "Jbird531"
   }
  ],
  "drop": [
@@ -113,106 +113,106 @@
    "n": "Corey Kiner",
    "p": "RB",
    "t": "NE",
-   "c": 2011818,
+   "c": 1787544,
    "h": "YoungBuck04"
   },
   {
    "n": "Devin Singletary",
    "p": "RB",
    "t": "NYG",
-   "c": 1828917,
+   "c": 1661634,
    "h": "TrifectaRich"
   },
   {
    "n": "Jason Myers",
    "p": "K",
    "t": "SEA",
-   "c": 1228450,
+   "c": 1145245,
    "h": null
   },
   {
    "n": "Darren Waller",
    "p": "TE",
    "t": "CAR",
-   "c": 1146456,
+   "c": 1050642,
    "h": "DMsourbeer"
   },
   {
    "n": "Konata Mumpfield",
    "p": "WR",
    "t": "LAR",
-   "c": 1056474,
+   "c": 997182,
    "h": "triccster"
   },
   {
    "n": "New England Patriots",
    "p": "DEF",
    "t": "NE",
-   "c": 1010793,
+   "c": 949844,
    "h": null
   },
   {
    "n": "Tyler Higbee",
    "p": "TE",
    "t": "LAR",
-   "c": 1000575,
+   "c": 932742,
    "h": "TrifectaRich"
   },
   {
    "n": "Jordan Addison",
    "p": "WR",
    "t": "MIN",
-   "c": 964260,
+   "c": 854307,
    "h": "DMsourbeer"
   },
   {
    "n": "Tutu Atwell",
    "p": "WR",
    "t": "LAR",
-   "c": 947583,
+   "c": 845089,
    "h": "thecreamer"
   },
   {
    "n": "Omar Cooper Jr.",
    "p": "WR",
    "t": "NYJ",
-   "c": 930792,
+   "c": 837448,
    "h": "YoungBuck04"
   },
   {
    "n": "Devaughn Vele",
    "p": "WR",
    "t": "NO",
-   "c": 883862,
+   "c": 798763,
+   "h": "Wallner"
+  },
+  {
+   "n": "Demarcus Robinson",
+   "p": "WR",
+   "t": "SF",
+   "c": 790566,
    "h": "Wallner"
   },
   {
    "n": "Chris Rodriguez Jr.",
    "p": "RB",
    "t": "JAX",
-   "c": 875376,
+   "c": 780165,
    "h": "triccster"
-  },
-  {
-   "n": "Demarcus Robinson",
-   "p": "WR",
-   "t": "SF",
-   "c": 867330,
-   "h": "Wallner"
   },
   {
    "n": "Audric Estime",
    "p": "RB",
    "t": "NO",
-   "c": 783534,
+   "c": 715890,
    "h": "DMsourbeer"
   },
   {
-   "n": "Baltimore Ravens",
-   "p": "DEF",
-   "t": "BAL",
-   "c": 733116,
-   "h": null
+   "n": "Puka Nacua",
+   "p": "WR",
+   "t": "LAR",
+   "c": 713097,
+   "h": "triccster"
   }
  ]
 }

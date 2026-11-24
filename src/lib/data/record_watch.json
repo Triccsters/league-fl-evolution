@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "through_week": 10,
- "weeks_left": 4,
+ "through_week": 11,
+ "weeks_left": 3,
  "season_games": 14,
  "records": [
   {
@@ -17,9 +17,9 @@
    "chasers": [
     {
      "h": "Jbird531",
-     "text": "At 9 with 4 to play. 4 more breaks it, 3 ties it.",
-     "now": 9,
-     "heat": 0.2,
+     "text": "At 10 with 3 to play. 3 more breaks it, 2 ties it.",
+     "now": 10,
+     "heat": 0.25,
      "broke": false
     }
    ]
@@ -37,8 +37,8 @@
    "chasers": [
     {
      "h": "Wallner",
-     "text": "At 9 with 4 to play. Lose out to tie it.",
-     "now": 9,
+     "text": "At 10 with 3 to play. Lose out to tie it.",
+     "now": 10,
      "heat": 0.05,
      "broke": false
     }
@@ -69,7 +69,7 @@
    "chasers": [
     {
      "h": "Jbird531",
-     "text": "At 1 with 4 to play. One more only ties it; none sets the record.",
+     "text": "At 1 with 3 to play. One more only ties it; none sets the record.",
      "now": 1,
      "heat": 0.3,
      "broke": false
@@ -89,9 +89,9 @@
    "chasers": [
     {
      "h": "Jbird531",
-     "text": "1,430.62 so far, 143.1 a game. Needs 136.3 a game over the last 4.",
-     "now": 1430.62,
-     "heat": 1,
+     "text": "1,523.32 so far, 138.5 a game. Needs 150.9 a game over the last 3.",
+     "now": 1523.32,
+     "heat": 0.918,
      "broke": false
     }
    ]
@@ -109,9 +109,9 @@
    "chasers": [
     {
      "h": "Jbird531",
-     "text": "143.06 a game now. Needs 136.3 a game the rest of the way to finish above it.",
-     "now": 143.06,
-     "heat": 1,
+     "text": "138.48 a game now. Needs 150.9 a game the rest of the way to finish above it.",
+     "now": 138.48,
+     "heat": 0.918,
      "broke": false
     }
    ]
@@ -153,16 +153,9 @@
    "chasers": [
     {
      "h": "TuanonStan",
-     "text": "99.43 a game now. Finishes under it by averaging less than 88 the rest of the way.",
-     "now": 99.43,
-     "heat": 0.885,
-     "broke": false
-    },
-    {
-     "h": "TrifectaRich",
-     "text": "100.03 a game now. Finishes under it by averaging less than 86.5 the rest of the way.",
-     "now": 100.03,
-     "heat": 0.865,
+     "text": "97.18 a game now. Finishes under it by averaging less than 92.5 the rest of the way.",
+     "now": 97.18,
+     "heat": 0.951,
      "broke": false
     }
    ]
@@ -180,16 +173,9 @@
    "chasers": [
     {
      "h": "Jbird531",
-     "text": "At 5 with 4 to play. 3 more breaks it, 2 ties it.",
+     "text": "At 5 with 3 to play. 3 more breaks it, 2 ties it.",
      "now": 5,
-     "heat": 0.4,
-     "broke": false
-    },
-    {
-     "h": "butterygoop",
-     "text": "At 3 with 4 to play. Top the week out to tie it.",
-     "now": 3,
-     "heat": 0.05,
+     "heat": 0.25,
      "broke": false
     }
    ]
@@ -246,11 +232,11 @@
   },
   {
    "title": "Closest game",
-   "rank": 5,
-   "h": "triccster",
-   "week": 10,
-   "value": 0.34,
-   "text": "{triccster} beat {TrifectaRich} by 0.34 in week 10, 5th on the all-time list."
+   "rank": 4,
+   "h": "YoungBuck04",
+   "week": 11,
+   "value": 0.26,
+   "text": "{YoungBuck04} beat {TrifectaRich} by 0.26 in week 11, 4th on the all-time list."
   },
   {
    "title": "Highest score",
@@ -367,8 +353,8 @@
    "h": "Jbird531",
    "stat": "wins",
    "label": "career wins",
-   "value": 54,
-   "rank": 6,
+   "value": 55,
+   "rank": 5,
    "of": 16,
    "mark": 50,
    "reached": true,
@@ -379,7 +365,7 @@
     "pts": 136.92,
     "opts": 91.58
    },
-   "text": "{Jbird531} reached 50 career wins in week 5 against {TrifectaRich}. 6th on the all-time list.",
+   "text": "{Jbird531} reached 50 career wins in week 5 against {TrifectaRich}. 5th on the all-time list.",
    "detail": {
     "by_season": [
      [
@@ -408,7 +394,7 @@
      ],
      [
       2026,
-      9
+      10
      ]
     ],
     "beaten_most": [
@@ -448,7 +434,7 @@
    "h": "brettmn13",
    "stat": "wins",
    "label": "career wins",
-   "value": 51,
+   "value": 52,
    "rank": 7,
    "of": 16,
    "mark": 50,
@@ -489,7 +475,7 @@
      ],
      [
       2026,
-      3
+      4
      ]
     ],
     "beaten_most": [
@@ -614,7 +600,7 @@
    "h": "DMsourbeer",
    "stat": "wins",
    "label": "career wins",
-   "value": 25,
+   "value": 26,
    "rank": 11,
    "of": 16,
    "mark": 25,
@@ -647,20 +633,20 @@
      ],
      [
       2026,
-      3
+      4
      ]
     ],
     "beaten_most": [
+     [
+      "RebuildingRUs",
+      4
+     ],
      [
       "triccster",
       4
      ],
      [
       "YoungBuck04",
-      3
-     ],
-     [
-      "RebuildingRUs",
       3
      ]
     ],
@@ -705,7 +691,7 @@
    "h": "RebuildingRUs",
    "stat": "losses",
    "label": "career losses",
-   "value": 53,
+   "value": 54,
    "rank": 4,
    "of": 16,
    "mark": 50,
@@ -723,7 +709,7 @@
    "h": "thecreamer",
    "stat": "losses",
    "label": "career losses",
-   "value": 51,
+   "value": 52,
    "rank": 6,
    "of": 16,
    "mark": 50,
@@ -738,10 +724,28 @@
    "text": "{thecreamer} reached 50 career losses in week 6 against {TrifectaRich}. 6th on the all-time list."
   },
   {
+   "h": "Wallner",
+   "stat": "losses",
+   "label": "career losses",
+   "value": 50,
+   "rank": 7,
+   "of": 16,
+   "mark": 50,
+   "reached": true,
+   "game": {
+    "season": 2026,
+    "week": 11,
+    "opp": "TuanonStan",
+    "pts": 74.7,
+    "opts": 112.02
+   },
+   "text": "{Wallner} reached 50 career losses in week 11 against {TuanonStan}. 7th on the all-time list."
+  },
+  {
    "h": "butterygoop",
    "stat": "losses",
    "label": "career losses",
-   "value": 27,
+   "value": 28,
    "rank": 12,
    "of": 16,
    "mark": 25,
@@ -759,7 +763,7 @@
    "h": "butterygoop",
    "stat": "points",
    "label": "career points",
-   "value": 13629.44,
+   "value": 13726.42,
    "rank": 1,
    "of": 16,
    "mark": 12500,
@@ -777,7 +781,7 @@
    "h": "Jbird531",
    "stat": "points",
    "label": "career points",
-   "value": 12521.62,
+   "value": 12614.32,
    "rank": 2,
    "of": 16,
    "mark": 12500,
@@ -795,7 +799,7 @@
    "h": "triccster",
    "stat": "points",
    "label": "career points",
-   "value": 10920.86,
+   "value": 11065.18,
    "rank": 9,
    "of": 16,
    "mark": 10000,
@@ -813,7 +817,7 @@
    "h": "TrifectaRich",
    "stat": "points",
    "label": "career points",
-   "value": 8008.36,
+   "value": 8127.44,
    "rank": 10,
    "of": 16,
    "mark": 7500,
@@ -831,7 +835,7 @@
    "h": "RebuildingRUs",
    "stat": "points",
    "label": "career points",
-   "value": 5189.06,
+   "value": 5252.76,
    "rank": 12,
    "of": 16,
    "mark": 5000,
@@ -849,7 +853,7 @@
    "h": "TuanonStan",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 1,
    "of": 16,
    "mark": 100,
@@ -867,7 +871,7 @@
    "h": "Wallner",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 2,
    "of": 16,
    "mark": 100,
@@ -885,7 +889,7 @@
    "h": "Jbird531",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 3,
    "of": 16,
    "mark": 100,
@@ -903,7 +907,7 @@
    "h": "brettmn13",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 4,
    "of": 16,
    "mark": 100,
@@ -921,7 +925,7 @@
    "h": "YoungBuck04",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 5,
    "of": 16,
    "mark": 100,
@@ -939,7 +943,7 @@
    "h": "Colt45Johnson",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 6,
    "of": 16,
    "mark": 100,
@@ -957,7 +961,7 @@
    "h": "butterygoop",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 7,
    "of": 16,
    "mark": 100,
@@ -975,7 +979,7 @@
    "h": "thecreamer",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 8,
    "of": 16,
    "mark": 100,
@@ -993,7 +997,7 @@
    "h": "triccster",
    "stat": "games",
    "label": "games played",
-   "value": 106,
+   "value": 107,
    "rank": 9,
    "of": 16,
    "mark": 100,
@@ -1008,28 +1012,16 @@
    "text": "{triccster} reached 100 games played in week 4 against {brettmn13}. 9th on the all-time list."
   },
   {
-   "h": "Wallner",
-   "stat": "losses",
-   "label": "career losses",
-   "value": 49,
-   "rank": 7,
-   "of": 16,
-   "mark": 50,
-   "reached": false,
-   "away": 1,
-   "text": "{Wallner} is 1 away from 50 career losses, with 4 weeks left."
-  },
-  {
    "h": "triccster",
    "stat": "wins",
    "label": "career wins",
-   "value": 48,
+   "value": 49,
    "rank": 9,
    "of": 16,
    "mark": 50,
    "reached": false,
-   "away": 2,
-   "text": "{triccster} is 2 away from 50 career wins, with 4 weeks left.",
+   "away": 1,
+   "text": "{triccster} is 1 away from 50 career wins, with 3 weeks left.",
    "detail": {
     "by_season": [
      [
@@ -1062,7 +1054,7 @@
      ],
      [
       2026,
-      7
+      8
      ]
     ],
     "beaten_most": [
@@ -1099,19 +1091,19 @@
    }
   },
   {
-   "h": "YoungBuck04",
+   "h": "TrifectaRich",
    "stat": "losses",
    "label": "career losses",
-   "value": 48,
+   "value": 49,
    "rank": 8,
    "of": 16,
    "mark": 50,
    "reached": false,
-   "away": 2,
-   "text": "{YoungBuck04} is 2 away from 50 career losses, with 4 weeks left."
+   "away": 1,
+   "text": "{TrifectaRich} is 1 away from 50 career losses, with 3 weeks left."
   },
   {
-   "h": "TrifectaRich",
+   "h": "YoungBuck04",
    "stat": "losses",
    "label": "career losses",
    "value": 48,
@@ -1120,19 +1112,19 @@
    "mark": 50,
    "reached": false,
    "away": 2,
-   "text": "{TrifectaRich} is 2 away from 50 career losses, with 4 weeks left."
+   "text": "{YoungBuck04} is 2 away from 50 career losses, with 3 weeks left."
   },
   {
    "h": "Wallner",
    "stat": "points",
    "label": "career points",
-   "value": 12135.06,
+   "value": 12209.76,
    "rank": 3,
    "of": 16,
    "mark": 12500,
    "reached": false,
-   "away": 364.94,
-   "text": "{Wallner} is 364.9 away from 12,500 career points, with 4 weeks left."
+   "away": 290.24,
+   "text": "{Wallner} is 290.2 away from 12,500 career points, with 3 weeks left."
   }
  ],
  "passing": [
@@ -1142,7 +1134,7 @@
    "stat": "wins",
    "rank": 3,
    "done": true,
-   "text": "{YoungBuck04} passed {Wallner} this season and is 3rd in career wins (58)."
+   "text": "{YoungBuck04} passed {Wallner} this season and is 3rd in career wins (59)."
   },
   {
    "h": "Wallner",
@@ -1150,42 +1142,42 @@
    "stat": "wins",
    "rank": 3,
    "done": false,
-   "gap": 1,
-   "text": "{Wallner} (57) is 1 behind {YoungBuck04} for 3rd in career wins. Both are still playing."
-  },
-  {
-   "h": "thecreamer",
-   "over": "Wallner",
-   "stat": "wins",
-   "rank": 4,
-   "done": false,
    "gap": 2,
-   "text": "{thecreamer} (55) is 2 behind {Wallner} for 4th in career wins. Both are still playing."
+   "text": "{Wallner} (57) is 2 behind {YoungBuck04} for 3rd in career wins. Both are still playing."
   },
   {
    "h": "Jbird531",
    "over": "brettmn13",
    "stat": "wins",
-   "rank": 6,
+   "rank": 5,
    "done": true,
-   "text": "{Jbird531} passed {brettmn13} this season and is 6th in career wins (54)."
+   "text": "{Jbird531} passed {brettmn13} this season and is 5th in career wins (55)."
   },
   {
    "h": "Jbird531",
    "over": "Colt45Johnson",
    "stat": "wins",
-   "rank": 6,
+   "rank": 5,
    "done": true,
-   "text": "{Jbird531} passed {Colt45Johnson} this season and is 6th in career wins (54)."
+   "text": "{Jbird531} passed {Colt45Johnson} this season and is 5th in career wins (55)."
   },
   {
    "h": "Jbird531",
-   "over": "thecreamer",
+   "over": "Wallner",
+   "stat": "wins",
+   "rank": 4,
+   "done": false,
+   "gap": 2,
+   "text": "{Jbird531} (55) is 2 behind {Wallner} for 4th in career wins. Both are still playing."
+  },
+  {
+   "h": "thecreamer",
+   "over": "Jbird531",
    "stat": "wins",
    "rank": 5,
    "done": false,
-   "gap": 1,
-   "text": "{Jbird531} (54) is 1 behind {thecreamer} for 5th in career wins. Both are still playing."
+   "gap": 0,
+   "text": "{thecreamer} (55) is tied with {Jbird531} for 5th in career wins. Both are still playing."
   },
   {
    "h": "Colt45Johnson",
@@ -1193,8 +1185,8 @@
    "stat": "wins",
    "rank": 7,
    "done": false,
-   "gap": 1,
-   "text": "{Colt45Johnson} (50) is 1 behind {brettmn13} for 7th in career wins. Both are still playing."
+   "gap": 2,
+   "text": "{Colt45Johnson} (50) is 2 behind {brettmn13} for 7th in career wins. Both are still playing."
   },
   {
    "h": "triccster",
@@ -1202,8 +1194,8 @@
    "stat": "wins",
    "rank": 8,
    "done": false,
-   "gap": 2,
-   "text": "{triccster} (48) is 2 behind {Colt45Johnson} for 8th in career wins. Both are still playing."
+   "gap": 1,
+   "text": "{triccster} (49) is 1 behind {Colt45Johnson} for 8th in career wins. Both are still playing."
   },
   {
    "h": "Colt45Johnson",
@@ -1211,7 +1203,7 @@
    "stat": "losses",
    "rank": 2,
    "done": true,
-   "text": "{Colt45Johnson} passed {Jbird531} this season and is 2nd in career losses (56)."
+   "text": "{Colt45Johnson} passed {Jbird531} this season and is 2nd in career losses (57)."
   },
   {
    "h": "brettmn13",
@@ -1227,15 +1219,7 @@
    "stat": "losses",
    "rank": 4,
    "done": true,
-   "text": "{RebuildingRUs} passed {Jbird531} this season and is 4th in career losses (53)."
-  },
-  {
-   "h": "Wallner",
-   "over": "YoungBuck04",
-   "stat": "losses",
-   "rank": 7,
-   "done": true,
-   "text": "{Wallner} passed {YoungBuck04} this season and is 7th in career losses (49)."
+   "text": "{RebuildingRUs} passed {Jbird531} this season and is 4th in career losses (54)."
   },
   {
    "h": "Wallner",
@@ -1243,7 +1227,15 @@
    "stat": "losses",
    "rank": 7,
    "done": true,
-   "text": "{Wallner} passed {TrifectaRich} this season and is 7th in career losses (49)."
+   "text": "{Wallner} passed {TrifectaRich} this season and is 7th in career losses (50)."
+  },
+  {
+   "h": "Wallner",
+   "over": "YoungBuck04",
+   "stat": "losses",
+   "rank": 7,
+   "done": true,
+   "text": "{Wallner} passed {YoungBuck04} this season and is 7th in career losses (50)."
   },
   {
    "h": "Jbird531",
@@ -1251,7 +1243,7 @@
    "stat": "points",
    "rank": 2,
    "done": true,
-   "text": "{Jbird531} passed {Wallner} this season and is 2nd in career points (12,521.62)."
+   "text": "{Jbird531} passed {Wallner} this season and is 2nd in career points (12,614.32)."
   },
   {
    "h": "Colt45Johnson",
@@ -1259,7 +1251,7 @@
    "stat": "points",
    "rank": 6,
    "done": true,
-   "text": "{Colt45Johnson} passed {brettmn13} this season and is 6th in career points (11,403.66)."
+   "text": "{Colt45Johnson} passed {brettmn13} this season and is 6th in career points (11,493.58)."
   },
   {
    "h": "YoungBuck04",
@@ -1267,7 +1259,7 @@
    "stat": "points",
    "rank": 7,
    "done": true,
-   "text": "{YoungBuck04} passed {brettmn13} this season and is 7th in career points (11,211.1)."
+   "text": "{YoungBuck04} passed {brettmn13} this season and is 7th in career points (11,330.44)."
   }
  ],
  "lines": [
@@ -1280,103 +1272,89 @@
   },
   {
    "k": "milestone",
-   "h": "Jbird531",
-   "title": "12,500 career points",
-   "text": "{Jbird531} reached 12,500 career points in week 10 against {DMsourbeer}. 2nd on the all-time list.",
-   "week": 10
+   "h": "Wallner",
+   "title": "50 career losses",
+   "text": "{Wallner} reached 50 career losses in week 11 against {TuanonStan}. 7th on the all-time list.",
+   "week": 11
   },
   {
    "k": "milestone",
    "h": "triccster",
    "title": "50 career wins",
-   "text": "{triccster} is 2 away from 50 career wins, with 4 weeks left."
+   "text": "{triccster} is 1 away from 50 career wins, with 3 weeks left."
   },
   {
    "k": "milestone",
    "h": "Wallner",
    "title": "12,500 career points",
-   "text": "{Wallner} is 364.9 away from 12,500 career points, with 4 weeks left."
+   "text": "{Wallner} is 290.2 away from 12,500 career points, with 3 weeks left."
   },
   {
    "k": "pass",
    "h": "Wallner",
    "title": "Career wins",
-   "text": "{Wallner} (57) is 1 behind {YoungBuck04} for 3rd in career wins. Both are still playing."
+   "text": "{Wallner} (57) is 2 behind {YoungBuck04} for 3rd in career wins. Both are still playing."
+  },
+  {
+   "k": "pass",
+   "h": "Jbird531",
+   "title": "Career wins",
+   "text": "{Jbird531} (55) is 2 behind {Wallner} for 4th in career wins. Both are still playing."
   },
   {
    "k": "pass",
    "h": "thecreamer",
    "title": "Career wins",
-   "text": "{thecreamer} (55) is 2 behind {Wallner} for 4th in career wins. Both are still playing."
-  },
-  {
-   "k": "pass",
-   "h": "Jbird531",
-   "title": "Career wins",
-   "text": "{Jbird531} (54) is 1 behind {thecreamer} for 5th in career wins. Both are still playing."
-  },
-  {
-   "k": "chase",
-   "h": "Jbird531",
-   "holder": "Jbird531",
-   "title": "Most points in a season",
-   "text": "{Jbird531}: 1,430.62 so far, 143.1 a game. Needs 136.3 a game over the last 4. The record is 1,975.9 points, {Jbird531} in 2025."
-  },
-  {
-   "k": "chase",
-   "h": "Jbird531",
-   "holder": "Jbird531",
-   "title": "Highest scoring average in a season",
-   "text": "{Jbird531}: 143.06 a game now. Needs 136.3 a game the rest of the way to finish above it. The record is 141.14 a game, {Jbird531} in 2025."
+   "text": "{thecreamer} (55) is tied with {Jbird531} for 5th in career wins. Both are still playing."
   },
   {
    "k": "chase",
    "h": "TuanonStan",
    "holder": "Jbird531",
    "title": "Fewest points against per game",
-   "text": "{TuanonStan}: 99.43 a game now. Finishes under it by averaging less than 88 the rest of the way. The record is 96.17 a game, {Jbird531} in 2024."
-  },
-  {
-   "k": "chase",
-   "h": "TrifectaRich",
-   "holder": "Jbird531",
-   "title": "Fewest points against per game",
-   "text": "{TrifectaRich}: 100.03 a game now. Finishes under it by averaging less than 86.5 the rest of the way. The record is 96.17 a game, {Jbird531} in 2024."
+   "text": "{TuanonStan}: 97.18 a game now. Finishes under it by averaging less than 92.5 the rest of the way. The record is 96.17 a game, {Jbird531} in 2024."
   },
   {
    "k": "chase",
    "h": "Jbird531",
-   "holder": "butterygoop",
-   "title": "Most weekly high scores in a season",
-   "text": "{Jbird531}: At 5 with 4 to play. 3 more breaks it, 2 ties it. The record is 7 weeks on top, {butterygoop} in 2019 (and 2 more)."
+   "holder": "Jbird531",
+   "title": "Most points in a season",
+   "text": "{Jbird531}: 1,523.32 so far, 138.5 a game. Needs 150.9 a game over the last 3. The record is 1,975.9 points, {Jbird531} in 2025."
+  },
+  {
+   "k": "chase",
+   "h": "Jbird531",
+   "holder": "Jbird531",
+   "title": "Highest scoring average in a season",
+   "text": "{Jbird531}: 138.48 a game now. Needs 150.9 a game the rest of the way to finish above it. The record is 141.14 a game, {Jbird531} in 2025."
   },
   {
    "k": "chase",
    "h": "Jbird531",
    "holder": "butterygoop",
    "title": "Fewest losses in a season",
-   "text": "{Jbird531}: At 1 with 4 to play. One more only ties it; none sets the record. The record is 2 losses, {butterygoop} in 2019 (and 4 more)."
+   "text": "{Jbird531}: At 1 with 3 to play. One more only ties it; none sets the record. The record is 2 losses, {butterygoop} in 2019 (and 4 more)."
   },
   {
    "k": "chase",
    "h": "Jbird531",
    "holder": "TuanonStan",
    "title": "Most wins in a season",
-   "text": "{Jbird531}: At 9 with 4 to play. 4 more breaks it, 3 ties it. The record is 12 wins, {TuanonStan} in 2022 (and 2 more)."
+   "text": "{Jbird531}: At 10 with 3 to play. 3 more breaks it, 2 ties it. The record is 12 wins, {TuanonStan} in 2022 (and 2 more)."
+  },
+  {
+   "k": "chase",
+   "h": "Jbird531",
+   "holder": "butterygoop",
+   "title": "Most weekly high scores in a season",
+   "text": "{Jbird531}: At 5 with 3 to play. 3 more breaks it, 2 ties it. The record is 7 weeks on top, {butterygoop} in 2019 (and 2 more)."
   },
   {
    "k": "chase",
    "h": "Wallner",
    "holder": "brettmn13",
    "title": "Most losses in a season",
-   "text": "{Wallner}: At 9 with 4 to play. Lose out to tie it. The record is 13 losses, {brettmn13} in 2019 (and 3 more)."
-  },
-  {
-   "k": "chase",
-   "h": "butterygoop",
-   "holder": "butterygoop",
-   "title": "Most weekly high scores in a season",
-   "text": "{butterygoop}: At 3 with 4 to play. Top the week out to tie it. The record is 7 weeks on top, {butterygoop} in 2019 (and 2 more)."
+   "text": "{Wallner}: At 10 with 3 to play. Lose out to tie it. The record is 13 losses, {brettmn13} in 2019 (and 3 more)."
   },
   {
    "k": "milestone",
@@ -1388,7 +1366,7 @@
    "k": "milestone",
    "h": "Jbird531",
    "title": "50 career wins",
-   "text": "{Jbird531} reached 50 career wins in week 5 against {TrifectaRich}. 6th on the all-time list."
+   "text": "{Jbird531} reached 50 career wins in week 5 against {TrifectaRich}. 5th on the all-time list."
   },
   {
    "k": "milestone",
@@ -1437,6 +1415,12 @@
    "h": "butterygoop",
    "title": "12,500 career points",
    "text": "{butterygoop} reached 12,500 career points in week 2 against {Colt45Johnson}. 1st on the all-time list."
+  },
+  {
+   "k": "milestone",
+   "h": "Jbird531",
+   "title": "12,500 career points",
+   "text": "{Jbird531} reached 12,500 career points in week 10 against {DMsourbeer}. 2nd on the all-time list."
   },
   {
    "k": "milestone",
@@ -1526,10 +1510,10 @@
   },
   {
    "k": "fresh",
-   "h": "triccster",
+   "h": "YoungBuck04",
    "title": "Closest game",
-   "text": "{triccster} beat {TrifectaRich} by 0.34 in week 10, 5th on the all-time list.",
-   "week": 10
+   "text": "{YoungBuck04} beat {TrifectaRich} by 0.26 in week 11, 4th on the all-time list.",
+   "week": 11
   },
   {
    "k": "fresh",
@@ -1556,25 +1540,25 @@
    "k": "pass",
    "h": "YoungBuck04",
    "title": "Career wins",
-   "text": "{YoungBuck04} passed {Wallner} this season and is 3rd in career wins (58)."
+   "text": "{YoungBuck04} passed {Wallner} this season and is 3rd in career wins (59)."
   },
   {
    "k": "pass",
    "h": "Jbird531",
    "title": "Career wins",
-   "text": "{Jbird531} passed {brettmn13} this season and is 6th in career wins (54)."
+   "text": "{Jbird531} passed {brettmn13} this season and is 5th in career wins (55)."
   },
   {
    "k": "pass",
    "h": "Jbird531",
    "title": "Career wins",
-   "text": "{Jbird531} passed {Colt45Johnson} this season and is 6th in career wins (54)."
+   "text": "{Jbird531} passed {Colt45Johnson} this season and is 5th in career wins (55)."
   },
   {
    "k": "pass",
    "h": "Colt45Johnson",
    "title": "Career losses",
-   "text": "{Colt45Johnson} passed {Jbird531} this season and is 2nd in career losses (56)."
+   "text": "{Colt45Johnson} passed {Jbird531} this season and is 2nd in career losses (57)."
   },
   {
    "k": "pass",
@@ -1586,37 +1570,37 @@
    "k": "pass",
    "h": "RebuildingRUs",
    "title": "Career losses",
-   "text": "{RebuildingRUs} passed {Jbird531} this season and is 4th in career losses (53)."
+   "text": "{RebuildingRUs} passed {Jbird531} this season and is 4th in career losses (54)."
   },
   {
    "k": "pass",
    "h": "Wallner",
    "title": "Career losses",
-   "text": "{Wallner} passed {YoungBuck04} this season and is 7th in career losses (49)."
+   "text": "{Wallner} passed {TrifectaRich} this season and is 7th in career losses (50)."
   },
   {
    "k": "pass",
    "h": "Wallner",
    "title": "Career losses",
-   "text": "{Wallner} passed {TrifectaRich} this season and is 7th in career losses (49)."
+   "text": "{Wallner} passed {YoungBuck04} this season and is 7th in career losses (50)."
   },
   {
    "k": "pass",
    "h": "Jbird531",
    "title": "Career points",
-   "text": "{Jbird531} passed {Wallner} this season and is 2nd in career points (12,521.62)."
+   "text": "{Jbird531} passed {Wallner} this season and is 2nd in career points (12,614.32)."
   },
   {
    "k": "pass",
    "h": "Colt45Johnson",
    "title": "Career points",
-   "text": "{Colt45Johnson} passed {brettmn13} this season and is 6th in career points (11,403.66)."
+   "text": "{Colt45Johnson} passed {brettmn13} this season and is 6th in career points (11,493.58)."
   },
   {
    "k": "pass",
    "h": "YoungBuck04",
    "title": "Career points",
-   "text": "{YoungBuck04} passed {brettmn13} this season and is 7th in career points (11,211.1)."
+   "text": "{YoungBuck04} passed {brettmn13} this season and is 7th in career points (11,330.44)."
   }
  ],
  "snap": {
@@ -1698,6 +1682,46 @@
     "h": "thecreamer",
     "title": "Career wins",
     "text": "{thecreamer} (55) is 2 behind {Wallner} for 4th in career wins. Both are still playing."
+   }
+  ],
+  "2026-w11": [
+   {
+    "k": "fresh",
+    "h": "Jbird531",
+    "title": "Highest combined score",
+    "text": "{Jbird531} and {butterygoop} combined for 348.3 in week 4, a new league record.",
+    "week": 4
+   },
+   {
+    "k": "milestone",
+    "h": "Wallner",
+    "title": "50 career losses",
+    "text": "{Wallner} reached 50 career losses in week 11 against {TuanonStan}. 7th on the all-time list.",
+    "week": 11
+   },
+   {
+    "k": "milestone",
+    "h": "triccster",
+    "title": "50 career wins",
+    "text": "{triccster} is 1 away from 50 career wins, with 3 weeks left."
+   },
+   {
+    "k": "milestone",
+    "h": "Wallner",
+    "title": "12,500 career points",
+    "text": "{Wallner} is 290.2 away from 12,500 career points, with 3 weeks left."
+   },
+   {
+    "k": "pass",
+    "h": "Wallner",
+    "title": "Career wins",
+    "text": "{Wallner} (57) is 2 behind {YoungBuck04} for 3rd in career wins. Both are still playing."
+   },
+   {
+    "k": "pass",
+    "h": "Jbird531",
+    "title": "Career wins",
+    "text": "{Jbird531} (55) is 2 behind {Wallner} for 4th in career wins. Both are still playing."
    }
   ]
  }
