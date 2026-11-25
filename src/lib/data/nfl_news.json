@@ -1,8 +1,109 @@
 {
- "read_at": "2026-11-24T13:12+00:00",
+ "read_at": "2026-11-25T13:11+00:00",
  "days": 7,
  "count": 92,
  "items": [
+  {
+   "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+   "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+   "date": "2026-11-25",
+   "kind": "news",
+   "teams": [
+    "PIT"
+   ],
+   "named": [
+    {
+     "n": "Mason Rudolph",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Wallner"
+    },
+    {
+     "n": "Aaron Rodgers",
+     "p": "QB",
+     "t": "PIT",
+     "h": "butterygoop"
+    }
+   ],
+   "lead": [
+    "Mason Rudolph",
+    "Aaron Rodgers"
+   ],
+   "ripple": [
+    {
+     "n": "Rico Dowdle",
+     "p": "RB",
+     "t": "PIT",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Pat Freiermuth",
+     "p": "TE",
+     "t": "PIT",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Will Howard",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Wallner"
+    },
+    {
+     "n": "Germie Bernard",
+     "p": "WR",
+     "t": "PIT",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "DK Metcalf",
+     "p": "WR",
+     "t": "PIT",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Drew Allar",
+     "p": "QB",
+     "t": "PIT",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Roman Wilson",
+     "p": "WR",
+     "t": "PIT",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Michael Pittman Jr.",
+     "p": "WR",
+     "t": "PIT",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Darnell Washington",
+     "p": "TE",
+     "t": "PIT",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Jaylen Warren",
+     "p": "RB",
+     "t": "PIT",
+     "h": "butterygoop"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "RebuildingRUs",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "butterygoop",
+    "thecreamer"
+   ],
+   "score": 20.0
+  },
   {
    "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
    "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
@@ -195,7 +296,7 @@
     "thecreamer",
     "triccster"
    ],
-   "score": 18.0
+   "score": 17.0
   },
   {
    "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
@@ -386,284 +487,172 @@
    "score": 17.0
   },
   {
-   "headline": "Despite loss to Broncos, Fernando Mendoza settling in as Raiders' starting QB",
-   "url": "https://www.espn.com/nfl/story/_/id/50569797/fernando-mendoza-settling-raiders-starting-quarterback",
-   "date": "2026-11-23",
+   "headline": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
+   "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
+   "date": "2026-11-25",
    "kind": "news",
    "teams": [
-    "LV"
+    "DEN"
    ],
    "named": [
     {
-     "n": "Fernando Mendoza",
-     "p": "QB",
-     "t": "LV",
-     "h": "TuanonStan"
+     "n": "J.K. Dobbins",
+     "p": "RB",
+     "t": "DEN",
+     "h": "YoungBuck04"
     }
    ],
    "lead": [
-    "Fernando Mendoza"
+    "J.K. Dobbins"
    ],
    "ripple": [
     {
-     "n": "Ashton Jeanty",
-     "p": "RB",
-     "t": "LV",
+     "n": "Courtland Sutton",
+     "p": "WR",
+     "t": "DEN",
      "h": "TuanonStan"
     },
     {
-     "n": "Mike Washington Jr.",
-     "p": "RB",
-     "t": "LV",
+     "n": "Jarrett Stidham",
+     "p": "QB",
+     "t": "DEN",
+     "h": "Wallner"
+    },
+    {
+     "n": "Bo Nix",
+     "p": "QB",
+     "t": "DEN",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jaylen Waddle",
+     "p": "WR",
+     "t": "DEN",
      "h": "brettmn13"
     },
     {
-     "n": "Dont'e Thornton Jr.",
+     "n": "Pat Bryant",
      "p": "WR",
-     "t": "LV",
-     "h": "TrifectaRich"
+     "t": "DEN",
+     "h": "YoungBuck04"
     },
     {
-     "n": "Tre Tucker",
+     "n": "Marvin Mims Jr.",
      "p": "WR",
-     "t": "LV",
-     "h": "butterygoop"
+     "t": "DEN",
+     "h": "DMsourbeer"
     },
     {
-     "n": "Jack Bech",
-     "p": "WR",
-     "t": "LV",
-     "h": "butterygoop"
+     "n": "RJ Harvey",
+     "p": "RB",
+     "t": "DEN",
+     "h": "RebuildingRUs"
     },
     {
-     "n": "Jalen Nailor",
+     "n": "Evan Engram",
+     "p": "TE",
+     "t": "DEN",
+     "h": "RebuildingRUs"
+    },
+    {
+     "n": "Troy Franklin",
      "p": "WR",
-     "t": "LV",
+     "t": "DEN",
      "h": "triccster"
     },
     {
-     "n": "Brock Bowers",
-     "p": "TE",
-     "t": "LV",
-     "h": "Jbird531"
-    },
-    {
-     "n": "Michael Mayer",
-     "p": "TE",
-     "t": "LV",
-     "h": "Jbird531"
+     "n": "Jonah Coleman",
+     "p": "RB",
+     "t": "DEN",
+     "h": "triccster"
     }
    ],
    "managers": [
-    "Jbird531",
-    "TrifectaRich",
+    "DMsourbeer",
+    "RebuildingRUs",
     "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
     "brettmn13",
-    "butterygoop",
     "triccster"
    ],
    "score": 16.0
   },
   {
-   "headline": "Chargers' Justin Herbert lands in concussion protocol",
-   "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol",
-   "date": "2026-11-23",
+   "headline": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
+   "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
+   "date": "2026-11-25",
    "kind": "news",
    "teams": [
-    "LAC"
+    "WAS"
    ],
    "named": [
     {
-     "n": "Justin Herbert",
-     "p": "QB",
-     "t": "LAC",
-     "h": "YoungBuck04"
+     "n": "Stefon Diggs",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Wallner"
     }
    ],
    "lead": [
-    "Justin Herbert"
+    "Stefon Diggs"
    ],
    "ripple": [
     {
-     "n": "Kimani Vidal",
-     "p": "RB",
-     "t": "LAC",
+     "n": "Marcus Mariota",
+     "p": "QB",
+     "t": "WAS",
      "h": "TuanonStan"
     },
     {
-     "n": "Oronde Gadsden",
+     "n": "Jacory Croskey-Merritt",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Rachaad White",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Chig Okonkwo",
      "p": "TE",
-     "t": "LAC",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Tre' Harris",
-     "p": "WR",
-     "t": "LAC",
-     "h": "Wallner"
-    },
-    {
-     "n": "Brenen Thompson",
-     "p": "WR",
-     "t": "LAC",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Omarion Hampton",
-     "p": "RB",
-     "t": "LAC",
+     "t": "WAS",
      "h": "Colt45Johnson"
     },
     {
-     "n": "Keaton Mitchell",
-     "p": "RB",
-     "t": "LAC",
+     "n": "Antonio Williams",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Treylon Burks",
+     "p": "WR",
+     "t": "WAS",
      "h": "DMsourbeer"
     },
     {
-     "n": "Quentin Johnston",
+     "n": "Terry McLaurin",
      "p": "WR",
-     "t": "LAC",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Charlie Kolar",
-     "p": "TE",
-     "t": "LAC",
+     "t": "WAS",
      "h": "thecreamer"
     },
     {
-     "n": "David Njoku",
-     "p": "TE",
-     "t": "LAC",
+     "n": "Jayden Daniels",
+     "p": "QB",
+     "t": "WAS",
      "h": "triccster"
-    },
-    {
-     "n": "Ladd McConkey",
-     "p": "WR",
-     "t": "LAC",
-     "h": "Jbird531"
     }
    ],
    "managers": [
     "Colt45Johnson",
     "DMsourbeer",
-    "Jbird531",
-    "RebuildingRUs",
     "TuanonStan",
     "Wallner",
-    "YoungBuck04",
-    "thecreamer",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
-   "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
-   "date": "2026-11-23",
-   "kind": "news",
-   "teams": [
-    "LAR"
-   ],
-   "named": [
-    {
-     "n": "Terrance Ferguson",
-     "p": "TE",
-     "t": "LAR",
-     "h": "brettmn13"
-    }
-   ],
-   "lead": [
-    "Terrance Ferguson"
-   ],
-   "ripple": [
-    {
-     "n": "Matthew Stafford",
-     "p": "QB",
-     "t": "LAR",
-     "h": "TuanonStan"
-    },
-    {
-     "n": "Blake Corum",
-     "p": "RB",
-     "t": "LAR",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Tyler Higbee",
-     "p": "TE",
-     "t": "LAR",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Colby Parkinson",
-     "p": "TE",
-     "t": "LAR",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Max Klare",
-     "p": "TE",
-     "t": "LAR",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Tutu Atwell",
-     "p": "WR",
-     "t": "LAR",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Davante Adams",
-     "p": "WR",
-     "t": "LAR",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Jordan Whittington",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Konata Mumpfield",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "CJ Daniels",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Kyren Williams",
-     "p": "RB",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Puka Nacua",
-     "p": "WR",
-     "t": "LAR",
-     "h": "triccster"
-    },
-    {
-     "n": "Ty Simpson",
-     "p": "QB",
-     "t": "LAR",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Jbird531",
-    "TrifectaRich",
-    "TuanonStan",
-    "YoungBuck04",
     "brettmn13",
-    "butterygoop",
     "thecreamer",
     "triccster"
    ],
@@ -672,7 +661,7 @@
   {
    "headline": "Steelers' Metcalf denies trying to poke DeJean in eye; WR won't be suspended",
    "url": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "kind": "news",
    "teams": [
     "PHI",
@@ -773,7 +762,7 @@
   {
    "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
    "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "kind": "news",
    "teams": [
     "SF"
@@ -903,6 +892,117 @@
    "score": 16.0
   },
   {
+   "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
+   "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
+   "date": "2026-11-23",
+   "kind": "news",
+   "teams": [
+    "LAR"
+   ],
+   "named": [
+    {
+     "n": "Terrance Ferguson",
+     "p": "TE",
+     "t": "LAR",
+     "h": "brettmn13"
+    }
+   ],
+   "lead": [
+    "Terrance Ferguson"
+   ],
+   "ripple": [
+    {
+     "n": "Matthew Stafford",
+     "p": "QB",
+     "t": "LAR",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Blake Corum",
+     "p": "RB",
+     "t": "LAR",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Tyler Higbee",
+     "p": "TE",
+     "t": "LAR",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Colby Parkinson",
+     "p": "TE",
+     "t": "LAR",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "Max Klare",
+     "p": "TE",
+     "t": "LAR",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Tutu Atwell",
+     "p": "WR",
+     "t": "LAR",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Davante Adams",
+     "p": "WR",
+     "t": "LAR",
+     "h": "butterygoop"
+    },
+    {
+     "n": "Jordan Whittington",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Konata Mumpfield",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "CJ Daniels",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Kyren Williams",
+     "p": "RB",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Puka Nacua",
+     "p": "WR",
+     "t": "LAR",
+     "h": "triccster"
+    },
+    {
+     "n": "Ty Simpson",
+     "p": "QB",
+     "t": "LAR",
+     "h": "Jbird531"
+    }
+   ],
+   "managers": [
+    "Jbird531",
+    "TrifectaRich",
+    "TuanonStan",
+    "YoungBuck04",
+    "brettmn13",
+    "butterygoop",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 16.0
+  },
+  {
    "headline": "Commanders RB Jacory Croskey-Merritt activated from IR ahead of MNF",
    "url": "https://www.espn.com/nfl/story/_/id/50576561/commanders-rb-jacory-croskey-merritt-activated-ir",
    "date": "2026-11-23",
@@ -977,280 +1077,6 @@
     "TuanonStan",
     "Wallner",
     "brettmn13",
-    "thecreamer",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Sources: Ex-Colts QB Daniel Jones likely to wait before signing with new team",
-   "url": "https://www.espn.com/nfl/story/_/id/50557657/sources-daniel-jones-likely-wait-joining-new-team",
-   "date": "2026-11-22",
-   "kind": "news",
-   "teams": [
-    "IND"
-   ],
-   "named": [
-    {
-     "n": "Daniel Jones",
-     "p": "QB",
-     "t": "",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Daniel Jones"
-   ],
-   "ripple": [
-    {
-     "n": "Ashton Dulin",
-     "p": "WR",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Deion Burks",
-     "p": "WR",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Will Mallory",
-     "p": "TE",
-     "t": "IND",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Anthony Richardson Sr.",
-     "p": "QB",
-     "t": "IND",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Seth McGowan",
-     "p": "RB",
-     "t": "IND",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Tyler Warren",
-     "p": "TE",
-     "t": "IND",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Alec Pierce",
-     "p": "WR",
-     "t": "IND",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "DJ Giddens",
-     "p": "RB",
-     "t": "IND",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "TrifectaRich",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop",
-    "thecreamer",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Sources: Colts shut down Alec Pierce for season, plan for WR's return in 2027",
-   "url": "https://www.espn.com/nfl/story/_/id/50551004/sources-colts-shutting-alec-pierce-rest-season",
-   "date": "2026-11-22",
-   "kind": "news",
-   "teams": [
-    "IND"
-   ],
-   "named": [
-    {
-     "n": "Alec Pierce",
-     "p": "WR",
-     "t": "IND",
-     "h": "DMsourbeer"
-    }
-   ],
-   "lead": [
-    "Alec Pierce"
-   ],
-   "ripple": [
-    {
-     "n": "Ashton Dulin",
-     "p": "WR",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Deion Burks",
-     "p": "WR",
-     "t": "IND",
-     "h": "Wallner"
-    },
-    {
-     "n": "Will Mallory",
-     "p": "TE",
-     "t": "IND",
-     "h": "TrifectaRich"
-    },
-    {
-     "n": "Anthony Richardson Sr.",
-     "p": "QB",
-     "t": "IND",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Seth McGowan",
-     "p": "RB",
-     "t": "IND",
-     "h": "YoungBuck04"
-    },
-    {
-     "n": "Tyler Warren",
-     "p": "TE",
-     "t": "IND",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "DJ Giddens",
-     "p": "RB",
-     "t": "IND",
-     "h": "thecreamer"
-    },
-    {
-     "n": "Jonathan Taylor",
-     "p": "RB",
-     "t": "IND",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Laquon Treadwell",
-     "p": "WR",
-     "t": "IND",
-     "h": "triccster"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "TrifectaRich",
-    "Wallner",
-    "YoungBuck04",
-    "butterygoop",
-    "thecreamer",
-    "triccster"
-   ],
-   "score": 16.0
-  },
-  {
-   "headline": "Kirk Cousins on pace to make history as 1st QB to play 18 regular-season games",
-   "url": "https://www.espn.com/nfl/story/_/id/50557919/vikings-qb-kirk-cousins-pace-make-nfl-history",
-   "date": "2026-11-22",
-   "kind": "news",
-   "teams": [
-    "MIN"
-   ],
-   "named": [
-    {
-     "n": "Kirk Cousins",
-     "p": "QB",
-     "t": "MIN",
-     "h": "thecreamer"
-    }
-   ],
-   "lead": [
-    "Kirk Cousins"
-   ],
-   "ripple": [
-    {
-     "n": "Aaron Jones Sr.",
-     "p": "RB",
-     "t": "MIN",
-     "h": "Wallner"
-    },
-    {
-     "n": "T.J. Hockenson",
-     "p": "TE",
-     "t": "MIN",
-     "h": "Wallner"
-    },
-    {
-     "n": "Carson Wentz",
-     "p": "QB",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Jauan Jennings",
-     "p": "WR",
-     "t": "MIN",
-     "h": "brettmn13"
-    },
-    {
-     "n": "Tai Felton",
-     "p": "WR",
-     "t": "MIN",
-     "h": "Colt45Johnson"
-    },
-    {
-     "n": "Jordan Addison",
-     "p": "WR",
-     "t": "MIN",
-     "h": "DMsourbeer"
-    },
-    {
-     "n": "Jordan Mason",
-     "p": "RB",
-     "t": "MIN",
-     "h": "RebuildingRUs"
-    },
-    {
-     "n": "Demond Claiborne",
-     "p": "RB",
-     "t": "MIN",
-     "h": "butterygoop"
-    },
-    {
-     "n": "Kyler Murray",
-     "p": "QB",
-     "t": "MIN",
-     "h": "triccster"
-    },
-    {
-     "n": "Justin Jefferson",
-     "p": "WR",
-     "t": "MIN",
-     "h": "Jbird531"
-    }
-   ],
-   "managers": [
-    "Colt45Johnson",
-    "DMsourbeer",
-    "Jbird531",
-    "RebuildingRUs",
-    "Wallner",
-    "brettmn13",
-    "butterygoop",
     "thecreamer",
     "triccster"
    ],
@@ -1357,29 +1183,23 @@
    "score": 15.0
   },
   {
-   "headline": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
-   "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
-   "date": "2026-11-20",
+   "headline": "Bears' Johnson has no plan to stop using Swift in run game despite costly fumbles",
+   "url": "https://www.espn.com/nfl/story/_/id/50587324/bears-johnson-stick-swift-role-bears-run-game",
+   "date": "2026-11-25",
    "kind": "news",
    "teams": [
     "CHI"
    ],
    "named": [
     {
-     "n": "Kyle Monangai",
+     "n": "D'Andre Swift",
      "p": "RB",
      "t": "CHI",
      "h": "Colt45Johnson"
-    },
-    {
-     "n": "Luther Burden III",
-     "p": "WR",
-     "t": "CHI",
-     "h": "RebuildingRUs"
     }
    ],
    "lead": [
-    "Kyle Monangai"
+    "D'Andre Swift"
    ],
    "ripple": [
     {
@@ -1425,7 +1245,7 @@
      "h": "Colt45Johnson"
     },
     {
-     "n": "D'Andre Swift",
+     "n": "Kyle Monangai",
      "p": "RB",
      "t": "CHI",
      "h": "Colt45Johnson"
@@ -1435,6 +1255,12 @@
      "p": "WR",
      "t": "CHI",
      "h": "DMsourbeer"
+    },
+    {
+     "n": "Luther Burden III",
+     "p": "WR",
+     "t": "CHI",
+     "h": "RebuildingRUs"
     },
     {
      "n": "Roschon Johnson",
@@ -1451,7 +1277,193 @@
     "brettmn13",
     "thecreamer"
    ],
-   "score": 15.0
+   "score": 14.0
+  },
+  {
+   "headline": "Seahawks to monitor Sam Darnold status this week before final call vs. 49ers",
+   "url": "https://www.espn.com/nfl/story/_/id/50578357/seahawks-holding-final-sam-darnold-call-vs-49ers",
+   "date": "2026-11-24",
+   "kind": "news",
+   "teams": [
+    "SEA",
+    "SF"
+   ],
+   "named": [
+    {
+     "n": "Sam Darnold",
+     "p": "QB",
+     "t": "SEA",
+     "h": "DMsourbeer"
+    }
+   ],
+   "lead": [
+    "Sam Darnold"
+   ],
+   "ripple": [
+    {
+     "n": "Jalen Milroe",
+     "p": "QB",
+     "t": "SEA",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Zach Charbonnet",
+     "p": "RB",
+     "t": "SEA",
+     "h": "Wallner"
+    },
+    {
+     "n": "Cooper Kupp",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Wallner"
+    },
+    {
+     "n": "George Holani",
+     "p": "RB",
+     "t": "SEA",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Elijah Arroyo",
+     "p": "TE",
+     "t": "SEA",
+     "h": "TrifectaRich"
+    },
+    {
+     "n": "Emanuel Wilson",
+     "p": "RB",
+     "t": "SEA",
+     "h": "YoungBuck04"
+    },
+    {
+     "n": "AJ Barner",
+     "p": "TE",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Tory Horton",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Jaxon Smith-Njigba",
+     "p": "WR",
+     "t": "SEA",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Rashid Shaheed",
+     "p": "WR",
+     "t": "SEA",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Jadarian Price",
+     "p": "RB",
+     "t": "SEA",
+     "h": "thecreamer"
+    },
+    {
+     "n": "Drew Lock",
+     "p": "QB",
+     "t": "SEA",
+     "h": "triccster"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "TrifectaRich",
+    "TuanonStan",
+    "Wallner",
+    "YoungBuck04",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 14.0
+  },
+  {
+   "headline": "Jayden Daniels again delivers in 'high-pressure' situation for Commanders",
+   "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+   "date": "2026-11-24",
+   "kind": "news",
+   "teams": [
+    "WAS"
+   ],
+   "named": [
+    {
+     "n": "Jayden Daniels",
+     "p": "QB",
+     "t": "WAS",
+     "h": "triccster"
+    }
+   ],
+   "lead": [
+    "Jayden Daniels"
+   ],
+   "ripple": [
+    {
+     "n": "Marcus Mariota",
+     "p": "QB",
+     "t": "WAS",
+     "h": "TuanonStan"
+    },
+    {
+     "n": "Stefon Diggs",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Wallner"
+    },
+    {
+     "n": "Jacory Croskey-Merritt",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Rachaad White",
+     "p": "RB",
+     "t": "WAS",
+     "h": "brettmn13"
+    },
+    {
+     "n": "Chig Okonkwo",
+     "p": "TE",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Antonio Williams",
+     "p": "WR",
+     "t": "WAS",
+     "h": "Colt45Johnson"
+    },
+    {
+     "n": "Treylon Burks",
+     "p": "WR",
+     "t": "WAS",
+     "h": "DMsourbeer"
+    },
+    {
+     "n": "Terry McLaurin",
+     "p": "WR",
+     "t": "WAS",
+     "h": "thecreamer"
+    }
+   ],
+   "managers": [
+    "Colt45Johnson",
+    "DMsourbeer",
+    "TuanonStan",
+    "Wallner",
+    "brettmn13",
+    "thecreamer",
+    "triccster"
+   ],
+   "score": 14.0
   }
  ],
  "source": "ESPN NFL news, headlines and links only",

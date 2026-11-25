@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:12:12+00:00",
+ "generated": "2026-11-25T13:11:08+00:00",
  "season": 2026,
  "week": 12,
  "playoff": false,
@@ -7,7 +7,7 @@
   {
    "a": "Wallner",
    "b": "Colt45Johnson",
-   "a_win": 27.9,
+   "a_win": 29.1,
    "rec": {
     "Wallner": [
      1,
@@ -35,8 +35,8 @@
     ]
    },
    "proj": {
-    "Wallner": 91.75,
-    "Colt45Johnson": 115.01
+    "Wallner": 92.45,
+    "Colt45Johnson": 114.37
    },
    "h2h": {
     "Wallner": 10,
@@ -63,6 +63,34 @@
     "Upset watch: {Wallner} is the underdog"
    ],
    "nfl": [
+    {
+     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+     "date": "2026-11-25",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "Wallner": [
+       {
+        "n": "Mason Rudolph",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Will Howard",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Drew Allar",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
     {
      "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
      "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
@@ -91,7 +119,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
      "date": "2026-11-20",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "Wallner": [
        {
@@ -156,36 +184,13 @@
        }
       ]
      }
-    },
-    {
-     "headline": "Chargers' Justin Herbert lands in concussion protocol",
-     "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol",
-     "date": "2026-11-23",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "Wallner": [
-       {
-        "n": "Tre' Harris",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "Colt45Johnson": [
-       {
-        "n": "Omarion Hampton",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
     }
    ]
   },
   {
    "a": "TuanonStan",
    "b": "brettmn13",
-   "a_win": 62.3,
+   "a_win": 60.8,
    "rec": {
     "TuanonStan": [
      7,
@@ -213,8 +218,8 @@
     ]
    },
    "proj": {
-    "TuanonStan": 103.22,
-    "brettmn13": 90.76
+    "TuanonStan": 102.65,
+    "brettmn13": 91.8
    },
    "h2h": {
     "TuanonStan": 7,
@@ -289,51 +294,51 @@
      }
     },
     {
-     "headline": "Despite loss to Broncos, Fernando Mendoza settling in as Raiders' starting QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50569797/fernando-mendoza-settling-raiders-starting-quarterback",
-     "date": "2026-11-23",
+     "headline": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
+     "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
+     "date": "2026-11-25",
      "both": true,
      "score": 16.0,
      "touches": {
       "TuanonStan": [
        {
-        "n": "Fernando Mendoza",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Ashton Jeanty",
-        "p": "RB",
+        "n": "Courtland Sutton",
+        "p": "WR",
         "how": "ripple"
        }
       ],
       "brettmn13": [
        {
-        "n": "Mike Washington Jr.",
-        "p": "RB",
+        "n": "Jaylen Waddle",
+        "p": "WR",
         "how": "ripple"
        }
       ]
      }
     },
     {
-     "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
-     "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
-     "date": "2026-11-23",
+     "headline": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
+     "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
+     "date": "2026-11-25",
      "both": true,
      "score": 16.0,
      "touches": {
-      "brettmn13": [
-       {
-        "n": "Terrance Ferguson",
-        "p": "TE",
-        "how": "named"
-       }
-      ],
       "TuanonStan": [
        {
-        "n": "Matthew Stafford",
+        "n": "Marcus Mariota",
         "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Jacory Croskey-Merritt",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Rachaad White",
+        "p": "RB",
         "how": "ripple"
        }
       ]
@@ -342,7 +347,7 @@
     {
      "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
      "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "both": true,
      "score": 16.0,
      "touches": {
@@ -377,7 +382,7 @@
   {
    "a": "TrifectaRich",
    "b": "butterygoop",
-   "a_win": 35.3,
+   "a_win": 35.6,
    "rec": {
     "TrifectaRich": [
      6,
@@ -405,8 +410,8 @@
     ]
    },
    "proj": {
-    "TrifectaRich": 104.57,
-    "butterygoop": 119.61
+    "TrifectaRich": 104.56,
+    "butterygoop": 119.23
    },
    "h2h": {
     "TrifectaRich": 1,
@@ -432,6 +437,34 @@
     "{butterygoop} owns this series 9-1"
    ],
    "nfl": [
+    {
+     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+     "date": "2026-11-25",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Aaron Rodgers",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Jaylen Warren",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "TrifectaRich": [
+       {
+        "n": "Germie Bernard",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
     {
      "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
      "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
@@ -465,7 +498,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
      "date": "2026-11-20",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "TrifectaRich": [
        {
@@ -484,56 +517,28 @@
      }
     },
     {
-     "headline": "Despite loss to Broncos, Fernando Mendoza settling in as Raiders' starting QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50569797/fernando-mendoza-settling-raiders-starting-quarterback",
-     "date": "2026-11-23",
+     "headline": "Steelers' Metcalf denies trying to poke DeJean in eye; WR won't be suspended",
+     "url": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
+     "date": "2026-11-24",
      "both": true,
      "score": 16.0,
      "touches": {
       "TrifectaRich": [
        {
-        "n": "Dont'e Thornton Jr.",
+        "n": "Germie Bernard",
         "p": "WR",
         "how": "ripple"
        }
       ],
       "butterygoop": [
        {
-        "n": "Tre Tucker",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Jack Bech",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
-     "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
-     "date": "2026-11-23",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "TrifectaRich": [
-       {
-        "n": "Blake Corum",
+        "n": "Jaylen Warren",
         "p": "RB",
         "how": "ripple"
        },
        {
-        "n": "Tyler Higbee",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ],
-      "butterygoop": [
-       {
-        "n": "Davante Adams",
-        "p": "WR",
+        "n": "Aaron Rodgers",
+        "p": "QB",
         "how": "ripple"
        }
       ]
@@ -544,7 +549,7 @@
   {
    "a": "DMsourbeer",
    "b": "thecreamer",
-   "a_win": 34.3,
+   "a_win": 35.9,
    "rec": {
     "DMsourbeer": [
      4,
@@ -572,8 +577,8 @@
     ]
    },
    "proj": {
-    "DMsourbeer": 98.51,
-    "thecreamer": 114.58
+    "DMsourbeer": 98.87,
+    "thecreamer": 113.17
    },
    "h2h": {
     "DMsourbeer": 0,
@@ -600,11 +605,34 @@
    ],
    "nfl": [
     {
+     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+     "date": "2026-11-25",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Roman Wilson",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "thecreamer": [
+       {
+        "n": "Darnell Washington",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
      "date": "2026-11-20",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "DMsourbeer": [
        {
@@ -661,46 +689,23 @@
      }
     },
     {
-     "headline": "Chargers' Justin Herbert lands in concussion protocol",
-     "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol",
-     "date": "2026-11-23",
+     "headline": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
+     "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
+     "date": "2026-11-25",
      "both": true,
      "score": 16.0,
      "touches": {
       "DMsourbeer": [
        {
-        "n": "Keaton Mitchell",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "thecreamer": [
-       {
-        "n": "Charlie Kolar",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Steelers' Metcalf denies trying to poke DeJean in eye; WR won't be suspended",
-     "url": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
-     "date": "2026-11-23",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Roman Wilson",
+        "n": "Treylon Burks",
         "p": "WR",
         "how": "ripple"
        }
       ],
       "thecreamer": [
        {
-        "n": "Darnell Washington",
-        "p": "TE",
+        "n": "Terry McLaurin",
+        "p": "WR",
         "how": "ripple"
        }
       ]
@@ -711,7 +716,7 @@
   {
    "a": "RebuildingRUs",
    "b": "Jbird531",
-   "a_win": 12.5,
+   "a_win": 13.0,
    "rec": {
     "RebuildingRUs": [
      3,
@@ -739,8 +744,8 @@
     ]
    },
    "proj": {
-    "RebuildingRUs": 93.01,
-    "Jbird531": 138.75
+    "RebuildingRUs": 92.4,
+    "Jbird531": 137.2
    },
    "h2h": {
     "RebuildingRUs": 1,
@@ -833,32 +838,9 @@
      }
     },
     {
-     "headline": "Chargers' Justin Herbert lands in concussion protocol",
-     "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol",
-     "date": "2026-11-23",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "RebuildingRUs": [
-       {
-        "n": "Quentin Johnston",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "Jbird531": [
-       {
-        "n": "Ladd McConkey",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
      "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
      "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "both": true,
      "score": 16.0,
      "touches": {
@@ -882,13 +864,29 @@
        }
       ]
      }
+    },
+    {
+     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+     "date": "2026-11-25",
+     "both": false,
+     "score": 20.0,
+     "touches": {
+      "RebuildingRUs": [
+       {
+        "n": "Michael Pittman Jr.",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
     }
    ]
   },
   {
    "a": "YoungBuck04",
    "b": "triccster",
-   "a_win": 38.6,
+   "a_win": 36.8,
    "rec": {
     "YoungBuck04": [
      7,
@@ -916,8 +914,8 @@
     ]
    },
    "proj": {
-    "YoungBuck04": 107.99,
-    "triccster": 119.51
+    "YoungBuck04": 108.6,
+    "triccster": 121.97
    },
    "h2h": {
     "YoungBuck04": 7,
@@ -946,7 +944,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
      "date": "2026-11-20",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "YoungBuck04": [
        {
@@ -1008,70 +1006,65 @@
      }
     },
     {
-     "headline": "Chargers' Justin Herbert lands in concussion protocol",
-     "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol",
-     "date": "2026-11-23",
+     "headline": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
+     "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
+     "date": "2026-11-25",
      "both": true,
      "score": 16.0,
      "touches": {
       "YoungBuck04": [
        {
-        "n": "Justin Herbert",
-        "p": "QB",
+        "n": "J.K. Dobbins",
+        "p": "RB",
         "how": "named"
        },
        {
-        "n": "Brenen Thompson",
+        "n": "Pat Bryant",
         "p": "WR",
         "how": "ripple"
        }
       ],
       "triccster": [
        {
-        "n": "David Njoku",
-        "p": "TE",
+        "n": "Troy Franklin",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Jonah Coleman",
+        "p": "RB",
         "how": "ripple"
        }
       ]
      }
     },
     {
-     "headline": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
-     "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
-     "date": "2026-11-23",
+     "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
+     "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
+     "date": "2026-11-24",
      "both": true,
      "score": 16.0,
      "touches": {
       "YoungBuck04": [
        {
-        "n": "Colby Parkinson",
+        "n": "Jordan James",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jake Tonges",
         "p": "TE",
         "how": "ripple"
        }
       ],
       "triccster": [
        {
-        "n": "Jordan Whittington",
+        "n": "Mike Evans",
         "p": "WR",
         "how": "ripple"
        },
        {
-        "n": "Konata Mumpfield",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "CJ Daniels",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Kyren Williams",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Puka Nacua",
+        "n": "Deebo Samuel Sr.",
         "p": "WR",
         "how": "ripple"
        }
@@ -1084,6 +1077,6 @@
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-24T13:12+00:00",
+ "nfl_read_at": "2026-11-25T13:11+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }
