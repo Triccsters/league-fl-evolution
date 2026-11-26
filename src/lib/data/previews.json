@@ -1,13 +1,185 @@
 {
- "generated": "2026-11-25T13:11:08+00:00",
+ "generated": "2026-11-26T13:12:03+00:00",
  "season": 2026,
  "week": 12,
  "playoff": false,
  "games": [
   {
+   "a": "TuanonStan",
+   "b": "brettmn13",
+   "a_win": 56.6,
+   "rec": {
+    "TuanonStan": [
+     7,
+     4
+    ],
+    "brettmn13": [
+     4,
+     7
+    ]
+   },
+   "avg": {
+    "TuanonStan": 105.57,
+    "brettmn13": 88.71
+   },
+   "last3": {
+    "TuanonStan": [
+     82.24,
+     135.52,
+     112.02
+    ],
+    "brettmn13": [
+     67.46,
+     110.06,
+     98.18
+    ]
+   },
+   "proj": {
+    "TuanonStan": 103.21,
+    "brettmn13": 96.58
+   },
+   "h2h": {
+    "TuanonStan": 7,
+    "brettmn13": 6,
+    "games": 13
+   },
+   "streak": [
+    "TuanonStan",
+    3
+   ],
+   "last": {
+    "season": 2026,
+    "week": 1,
+    "label": null,
+    "score": {
+     "TuanonStan": 111.9,
+     "brettmn13": 82.1
+    }
+   },
+   "flags": [
+    "{TuanonStan} has won 3 straight in this series",
+    "Rematch of the 2023 final",
+    "Revenge game: {brettmn13} lost in week 1"
+   ],
+   "nfl": [
+    {
+     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
+     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
+     "date": "2026-11-26",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Kaelon Black",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Christian McCaffrey",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Keenan Allen",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Brandon Aiyuk",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Brandon Aiyuk joining Commanders, reunites with college QB Jayden Daniels",
+     "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
+     "date": "2026-11-26",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "brettmn13": [
+       {
+        "n": "Brandon Aiyuk",
+        "p": "WR",
+        "how": "named"
+       },
+       {
+        "n": "Keenan Allen",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "TuanonStan": [
+       {
+        "n": "Kaelon Black",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Christian McCaffrey",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "RB Derrick Henry in concussion protocol but Ravens expect him to play Sunday",
+     "url": "https://www.espn.com/nfl/story/_/id/50597502/henry-concussion-protocol-ravens-expect-play",
+     "date": "2026-11-25",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Jacoby Brissett",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Ja'Kobi Lane",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
+     "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
+     "date": "2026-11-25",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Courtland Sutton",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Jaylen Waddle",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
    "a": "Wallner",
    "b": "Colt45Johnson",
-   "a_win": 29.1,
+   "a_win": 31.2,
    "rec": {
     "Wallner": [
      1,
@@ -35,8 +207,8 @@
     ]
    },
    "proj": {
-    "Wallner": 92.45,
-    "Colt45Johnson": 114.37
+    "Wallner": 94.45,
+    "Colt45Johnson": 113.97
    },
    "h2h": {
     "Wallner": 10,
@@ -59,16 +231,15 @@
    "flags": [
     "{Colt45Johnson} has won 3 straight in this series",
     "Revenge game: {Wallner} lost in week 1",
-    "{Wallner} owns this series 10-4",
-    "Upset watch: {Wallner} is the underdog"
+    "{Wallner} owns this series 10-4"
    ],
    "nfl": [
     {
-     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "headline": "Sources: Aaron Rodgers excused from Steelers facility to process benching",
      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
      "date": "2026-11-25",
      "both": true,
-     "score": 20.0,
+     "score": 17.0,
      "touches": {
       "Wallner": [
        {
@@ -96,7 +267,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
      "date": "2026-11-21",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "Wallner": [
        {
@@ -143,11 +314,11 @@
      }
     },
     {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
+     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
+     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
+     "date": "2026-11-26",
      "both": true,
-     "score": 17.0,
+     "score": 16.0,
      "touches": {
       "Wallner": [
        {
@@ -159,219 +330,12 @@
         "n": "Demarcus Robinson",
         "p": "WR",
         "how": "ripple"
-       },
-       {
-        "n": "Stefon Diggs",
-        "p": "WR",
-        "how": "ripple"
        }
       ],
       "Colt45Johnson": [
        {
         "n": "Ricky Pearsall",
         "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Chig Okonkwo",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Antonio Williams",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  {
-   "a": "TuanonStan",
-   "b": "brettmn13",
-   "a_win": 60.8,
-   "rec": {
-    "TuanonStan": [
-     7,
-     4
-    ],
-    "brettmn13": [
-     4,
-     7
-    ]
-   },
-   "avg": {
-    "TuanonStan": 105.57,
-    "brettmn13": 88.71
-   },
-   "last3": {
-    "TuanonStan": [
-     82.24,
-     135.52,
-     112.02
-    ],
-    "brettmn13": [
-     67.46,
-     110.06,
-     98.18
-    ]
-   },
-   "proj": {
-    "TuanonStan": 102.65,
-    "brettmn13": 91.8
-   },
-   "h2h": {
-    "TuanonStan": 7,
-    "brettmn13": 6,
-    "games": 13
-   },
-   "streak": [
-    "TuanonStan",
-    3
-   ],
-   "last": {
-    "season": 2026,
-    "week": 1,
-    "label": null,
-    "score": {
-     "TuanonStan": 111.9,
-     "brettmn13": 82.1
-    }
-   },
-   "flags": [
-    "{TuanonStan} has won 3 straight in this series",
-    "Rematch of the 2023 final",
-    "Revenge game: {brettmn13} lost in week 1"
-   ],
-   "nfl": [
-    {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Brandon Aiyuk",
-        "p": "WR",
-        "how": "named"
-       },
-       {
-        "n": "Keenan Allen",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Jacory Croskey-Merritt",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Rachaad White",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "TuanonStan": [
-       {
-        "n": "Kaelon Black",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Christian McCaffrey",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Marcus Mariota",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
-     "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
-     "date": "2026-11-25",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "TuanonStan": [
-       {
-        "n": "Courtland Sutton",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "brettmn13": [
-       {
-        "n": "Jaylen Waddle",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
-     "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
-     "date": "2026-11-25",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "TuanonStan": [
-       {
-        "n": "Marcus Mariota",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
-      "brettmn13": [
-       {
-        "n": "Jacory Croskey-Merritt",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Rachaad White",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
-     "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-     "date": "2026-11-24",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Brandon Aiyuk",
-        "p": "WR",
-        "how": "named"
-       },
-       {
-        "n": "Keenan Allen",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "TuanonStan": [
-       {
-        "n": "Kaelon Black",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Christian McCaffrey",
-        "p": "RB",
         "how": "ripple"
        }
       ]
@@ -382,7 +346,7 @@
   {
    "a": "TrifectaRich",
    "b": "butterygoop",
-   "a_win": 35.6,
+   "a_win": 42.0,
    "rec": {
     "TrifectaRich": [
      6,
@@ -410,8 +374,8 @@
     ]
    },
    "proj": {
-    "TrifectaRich": 104.56,
-    "butterygoop": 119.23
+    "TrifectaRich": 104.79,
+    "butterygoop": 112.83
    },
    "h2h": {
     "TrifectaRich": 1,
@@ -438,11 +402,11 @@
    ],
    "nfl": [
     {
-     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "headline": "Sources: Aaron Rodgers excused from Steelers facility to process benching",
      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
      "date": "2026-11-25",
      "both": true,
-     "score": 20.0,
+     "score": 17.0,
      "touches": {
       "butterygoop": [
        {
@@ -470,7 +434,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
      "date": "2026-11-21",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "butterygoop": [
        {
@@ -517,28 +481,23 @@
      }
     },
     {
-     "headline": "Steelers' Metcalf denies trying to poke DeJean in eye; WR won't be suspended",
-     "url": "https://www.espn.com/nfl/story/_/id/50573989/steelers-metcalf-denies-trying-poke-eagles-dejean-eye",
-     "date": "2026-11-24",
+     "headline": "Colts' Alec Pierce: 'Definitely a chance' to return from heel injury this season",
+     "url": "https://www.espn.com/nfl/story/_/id/50597055/colts-alec-pierce-heel-injury-hopeful-return-season",
+     "date": "2026-11-25",
      "both": true,
      "score": 16.0,
      "touches": {
       "TrifectaRich": [
        {
-        "n": "Germie Bernard",
-        "p": "WR",
+        "n": "Will Mallory",
+        "p": "TE",
         "how": "ripple"
        }
       ],
       "butterygoop": [
        {
-        "n": "Jaylen Warren",
+        "n": "Jonathan Taylor",
         "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Aaron Rodgers",
-        "p": "QB",
         "how": "ripple"
        }
       ]
@@ -549,7 +508,7 @@
   {
    "a": "DMsourbeer",
    "b": "thecreamer",
-   "a_win": 35.9,
+   "a_win": 35.8,
    "rec": {
     "DMsourbeer": [
      4,
@@ -577,8 +536,8 @@
     ]
    },
    "proj": {
-    "DMsourbeer": 98.87,
-    "thecreamer": 113.17
+    "DMsourbeer": 99.95,
+    "thecreamer": 114.39
    },
    "h2h": {
     "DMsourbeer": 0,
@@ -605,11 +564,11 @@
    ],
    "nfl": [
     {
-     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+     "headline": "Sources: Aaron Rodgers excused from Steelers facility to process benching",
      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
      "date": "2026-11-25",
      "both": true,
-     "score": 20.0,
+     "score": 17.0,
      "touches": {
       "DMsourbeer": [
        {
@@ -656,20 +615,15 @@
      }
     },
     {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
+     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
+     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
+     "date": "2026-11-26",
      "both": true,
-     "score": 17.0,
+     "score": 16.0,
      "touches": {
       "DMsourbeer": [
        {
         "n": "Christian Kirk",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Treylon Burks",
         "p": "WR",
         "how": "ripple"
        }
@@ -679,33 +633,28 @@
         "n": "Mac Jones",
         "p": "QB",
         "how": "ripple"
-       },
-       {
-        "n": "Terry McLaurin",
-        "p": "WR",
-        "how": "ripple"
        }
       ]
      }
     },
     {
-     "headline": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
-     "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
-     "date": "2026-11-25",
+     "headline": "Brandon Aiyuk joining Commanders, reunites with college QB Jayden Daniels",
+     "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
+     "date": "2026-11-26",
      "both": true,
      "score": 16.0,
      "touches": {
       "DMsourbeer": [
        {
-        "n": "Treylon Burks",
+        "n": "Christian Kirk",
         "p": "WR",
         "how": "ripple"
        }
       ],
       "thecreamer": [
        {
-        "n": "Terry McLaurin",
-        "p": "WR",
+        "n": "Mac Jones",
+        "p": "QB",
         "how": "ripple"
        }
       ]
@@ -716,7 +665,7 @@
   {
    "a": "RebuildingRUs",
    "b": "Jbird531",
-   "a_win": 13.0,
+   "a_win": 15.3,
    "rec": {
     "RebuildingRUs": [
      3,
@@ -744,8 +693,8 @@
     ]
    },
    "proj": {
-    "RebuildingRUs": 92.4,
-    "Jbird531": 137.2
+    "RebuildingRUs": 92.38,
+    "Jbird531": 133.09
    },
    "h2h": {
     "RebuildingRUs": 1,
@@ -776,7 +725,7 @@
      "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
      "date": "2026-11-21",
      "both": true,
-     "score": 18.0,
+     "score": 17.0,
      "touches": {
       "RebuildingRUs": [
        {
@@ -810,21 +759,21 @@
      }
     },
     {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
+     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
+     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
+     "date": "2026-11-26",
      "both": true,
-     "score": 17.0,
+     "score": 16.0,
      "touches": {
       "RebuildingRUs": [
        {
-        "n": "Isaac Guerendo",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
         "n": "Brock Purdy",
         "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Isaac Guerendo",
+        "p": "RB",
         "how": "ripple"
        }
       ],
@@ -838,9 +787,9 @@
      }
     },
     {
-     "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
-     "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-     "date": "2026-11-24",
+     "headline": "Brandon Aiyuk joining Commanders, reunites with college QB Jayden Daniels",
+     "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
+     "date": "2026-11-26",
      "both": true,
      "score": 16.0,
      "touches": {
@@ -866,15 +815,37 @@
      }
     },
     {
-     "headline": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
-     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+     "headline": "Chiefs rule RB Kenneth Walker III (groin) out for showdown vs. Bills",
+     "url": "https://www.espn.com/nfl/story/_/id/50594656/chiefs-rb-kenneth-walker-iii-groin-thursday-vs-bills",
      "date": "2026-11-25",
-     "both": false,
-     "score": 20.0,
+     "both": true,
+     "score": 16.0,
      "touches": {
+      "Jbird531": [
+       {
+        "n": "Kenneth Walker III",
+        "p": "RB",
+        "how": "named"
+       },
+       {
+        "n": "Brashard Smith",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jalen Royals",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
       "RebuildingRUs": [
        {
-        "n": "Michael Pittman Jr.",
+        "n": "Tyquan Thornton",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Josh Downs",
         "p": "WR",
         "how": "ripple"
        }
@@ -914,8 +885,8 @@
     ]
    },
    "proj": {
-    "YoungBuck04": 108.6,
-    "triccster": 121.97
+    "YoungBuck04": 109.1,
+    "triccster": 122.54
    },
    "h2h": {
     "YoungBuck04": 7,
@@ -968,29 +939,12 @@
      }
     },
     {
-     "headline": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-     "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-     "date": "2026-11-18",
+     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
+     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
+     "date": "2026-11-26",
      "both": true,
-     "score": 17.0,
+     "score": 16.0,
      "touches": {
-      "triccster": [
-       {
-        "n": "Jayden Daniels",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Mike Evans",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Deebo Samuel Sr.",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
       "YoungBuck04": [
        {
         "n": "Jordan James",
@@ -1002,69 +956,76 @@
         "p": "TE",
         "how": "ripple"
        }
+      ],
+      "triccster": [
+       {
+        "n": "Mike Evans",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Deebo Samuel Sr.",
+        "p": "WR",
+        "how": "ripple"
+       }
       ]
      }
     },
     {
-     "headline": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
-     "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
+     "headline": "Brandon Aiyuk joining Commanders, reunites with college QB Jayden Daniels",
+     "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
+     "date": "2026-11-26",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "YoungBuck04": [
+       {
+        "n": "Jordan James",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Jake Tonges",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Mike Evans",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Deebo Samuel Sr.",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "RB Derrick Henry in concussion protocol but Ravens expect him to play Sunday",
+     "url": "https://www.espn.com/nfl/story/_/id/50597502/henry-concussion-protocol-ravens-expect-play",
      "date": "2026-11-25",
      "both": true,
      "score": 16.0,
      "touches": {
       "YoungBuck04": [
        {
-        "n": "J.K. Dobbins",
-        "p": "RB",
-        "how": "named"
-       },
-       {
-        "n": "Pat Bryant",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "Troy Franklin",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Jonah Coleman",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "49ers release WR Brandon Aiyuk with roster exemption ending",
-     "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-     "date": "2026-11-24",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "YoungBuck04": [
-       {
-        "n": "Jordan James",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Jake Tonges",
+        "n": "Mark Andrews",
         "p": "TE",
         "how": "ripple"
+       },
+       {
+        "n": "Justice Hill",
+        "p": "RB",
+        "how": "ripple"
        }
       ],
       "triccster": [
        {
-        "n": "Mike Evans",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Deebo Samuel Sr.",
+        "n": "Zay Flowers",
         "p": "WR",
         "how": "ripple"
        }
@@ -1077,6 +1038,6 @@
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-25T13:11+00:00",
+ "nfl_read_at": "2026-11-26T13:12+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }
