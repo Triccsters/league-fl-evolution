@@ -1,193 +1,13 @@
 {
- "generated": "2026-11-27T13:11:03+00:00",
+ "generated": "2026-11-28T13:11:58+00:00",
  "season": 2026,
  "week": 12,
  "playoff": false,
  "games": [
   {
-   "a": "TuanonStan",
-   "b": "brettmn13",
-   "a_win": 56.6,
-   "rec": {
-    "TuanonStan": [
-     7,
-     4
-    ],
-    "brettmn13": [
-     4,
-     7
-    ]
-   },
-   "avg": {
-    "TuanonStan": 105.57,
-    "brettmn13": 88.71
-   },
-   "last3": {
-    "TuanonStan": [
-     82.24,
-     135.52,
-     112.02
-    ],
-    "brettmn13": [
-     67.46,
-     110.06,
-     98.18
-    ]
-   },
-   "proj": {
-    "TuanonStan": 103.15,
-    "brettmn13": 96.57
-   },
-   "h2h": {
-    "TuanonStan": 7,
-    "brettmn13": 6,
-    "games": 13
-   },
-   "streak": [
-    "TuanonStan",
-    3
-   ],
-   "last": {
-    "season": 2026,
-    "week": 1,
-    "label": null,
-    "score": {
-     "TuanonStan": 111.9,
-     "brettmn13": 82.1
-    }
-   },
-   "flags": [
-    "{TuanonStan} has won 3 straight in this series",
-    "Rematch of the 2023 final",
-    "Revenge game: {brettmn13} lost in week 1"
-   ],
-   "nfl": [
-    {
-     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
-     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
-     "date": "2026-11-26",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "TuanonStan": [
-       {
-        "n": "Kaelon Black",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Christian McCaffrey",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "brettmn13": [
-       {
-        "n": "Keenan Allen",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Brandon Aiyuk joining Commanders, reunites with college QB Jayden Daniels",
-     "url": "https://www.espn.com/nfl/story/_/id/50595281/brandon-aiyuk-finishes-visit-commanders",
-     "date": "2026-11-26",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Brandon Aiyuk",
-        "p": "WR",
-        "how": "named"
-       },
-       {
-        "n": "Jacory Croskey-Merritt",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Rachaad White",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "TuanonStan": [
-       {
-        "n": "Marcus Mariota",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "RB Derrick Henry in concussion protocol but Ravens expect him to play Sunday",
-     "url": "https://www.espn.com/nfl/story/_/id/50597502/henry-concussion-protocol-ravens-expect-play",
-     "date": "2026-11-25",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "TuanonStan": [
-       {
-        "n": "Jacoby Brissett",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
-      "brettmn13": [
-       {
-        "n": "Ja'Kobi Lane",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Caleb Williams' late TD to Rome Odunze gives Bears dramatic win over Lions",
-     "url": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
-     "date": "2026-11-27",
-     "both": false,
-     "score": 24.0,
-     "touches": {
-      "brettmn13": [
-       {
-        "n": "Colston Loveland",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Case Keenum",
-        "p": "QB",
-        "how": "ripple"
-       },
-       {
-        "n": "Kalif Raymond",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Cole Kmet",
-        "p": "TE",
-        "how": "ripple"
-       },
-       {
-        "n": "Isaac TeSlaa",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  {
    "a": "Wallner",
    "b": "Colt45Johnson",
-   "a_win": 31.4,
+   "a_win": 26.7,
    "rec": {
     "Wallner": [
      1,
@@ -215,8 +35,8 @@
     ]
    },
    "proj": {
-    "Wallner": 94.41,
-    "Colt45Johnson": 113.7
+    "Wallner": 90.28,
+    "Colt45Johnson": 114.97
    },
    "h2h": {
     "Wallner": 10,
@@ -239,7 +59,8 @@
    "flags": [
     "{Colt45Johnson} has won 3 straight in this series",
     "Revenge game: {Wallner} lost in week 1",
-    "{Wallner} owns this series 10-4"
+    "{Wallner} owns this series 10-4",
+    "Upset watch: {Wallner} is the underdog"
    ],
    "nfl": [
     {
@@ -296,37 +117,27 @@
      }
     },
     {
-     "headline": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions",
-     "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
-     "date": "2026-11-27",
+     "headline": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
+     "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+     "date": "2026-11-28",
      "both": true,
-     "score": 17.0,
+     "score": 20.0,
      "touches": {
-      "Colt45Johnson": [
+      "Wallner": [
        {
-        "n": "Caleb Williams",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Tyson Bagent",
-        "p": "QB",
+        "n": "Jordan Watkins",
+        "p": "WR",
         "how": "ripple"
        },
        {
-        "n": "Kyle Monangai",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "D'Andre Swift",
-        "p": "RB",
+        "n": "Demarcus Robinson",
+        "p": "WR",
         "how": "ripple"
        }
       ],
-      "Wallner": [
+      "Colt45Johnson": [
        {
-        "n": "Zavion Thomas",
+        "n": "Ricky Pearsall",
         "p": "WR",
         "how": "ripple"
        }
@@ -334,39 +145,11 @@
      }
     },
     {
-     "headline": "Sources: Aaron Rodgers excused from Steelers facility to process benching",
-     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
-     "date": "2026-11-25",
+     "headline": "Cardinals to start QB Josh Johnson again with Carson Beck (back spasms) out",
+     "url": "https://www.espn.com/nfl/story/_/id/50612845/cardinals-start-qb-johnson-again-beck-back-spasms-out",
+     "date": "2026-11-27",
      "both": true,
-     "score": 17.0,
-     "touches": {
-      "Wallner": [
-       {
-        "n": "Mason Rudolph",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Will Howard",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
-      "Colt45Johnson": [
-       {
-        "n": "Drew Allar",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
-     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
-     "date": "2026-11-21",
-     "both": true,
-     "score": 17.0,
+     "score": 20.0,
      "touches": {
       "Wallner": [
        {
@@ -383,13 +166,204 @@
        }
       ]
      }
+    },
+    {
+     "headline": "DJ Uiagalelei to start for Chargers with Justin Herbert in concussion protocol",
+     "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol",
+     "date": "2026-11-28",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "Wallner": [
+       {
+        "n": "Tre' Harris",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Colt45Johnson": [
+       {
+        "n": "Omarion Hampton",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "a": "TuanonStan",
+   "b": "brettmn13",
+   "a_win": 54.1,
+   "rec": {
+    "TuanonStan": [
+     7,
+     4
+    ],
+    "brettmn13": [
+     4,
+     7
+    ]
+   },
+   "avg": {
+    "TuanonStan": 105.57,
+    "brettmn13": 88.71
+   },
+   "last3": {
+    "TuanonStan": [
+     82.24,
+     135.52,
+     112.02
+    ],
+    "brettmn13": [
+     67.46,
+     110.06,
+     98.18
+    ]
+   },
+   "proj": {
+    "TuanonStan": 102.93,
+    "brettmn13": 98.87
+   },
+   "h2h": {
+    "TuanonStan": 7,
+    "brettmn13": 6,
+    "games": 13
+   },
+   "streak": [
+    "TuanonStan",
+    3
+   ],
+   "last": {
+    "season": 2026,
+    "week": 1,
+    "label": null,
+    "score": {
+     "TuanonStan": 111.9,
+     "brettmn13": 82.1
+    }
+   },
+   "flags": [
+    "{TuanonStan} has won 3 straight in this series",
+    "Rematch of the 2023 final",
+    "Revenge game: {brettmn13} lost in week 1"
+   ],
+   "nfl": [
+    {
+     "headline": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
+     "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+     "date": "2026-11-28",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Kaelon Black",
+        "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Christian McCaffrey",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Keenan Allen",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Saints rule TE Juwan Johnson out vs. Bengals; TE Noah Fant questionable",
+     "url": "https://www.espn.com/nfl/story/_/id/50613922/saints-rule-te-johnson-vs-bengals-te-fant-questionable",
+     "date": "2026-11-27",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "TuanonStan": [
+       {
+        "n": "Juwan Johnson",
+        "p": "TE",
+        "how": "named"
+       }
+      ],
+      "brettmn13": [
+       {
+        "n": "Alvin Kamara",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Caleb Williams' late TD to Rome Odunze gives Bears dramatic win over Lions",
+     "url": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
+     "date": "2026-11-27",
+     "both": false,
+     "score": 24.0,
+     "touches": {
+      "brettmn13": [
+       {
+        "n": "Colston Loveland",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Case Keenum",
+        "p": "QB",
+        "how": "ripple"
+       },
+       {
+        "n": "Kalif Raymond",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Cole Kmet",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Isaac TeSlaa",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Jaguars' Parker Washington, Bhayshul Tuten both out Sunday",
+     "url": "https://www.espn.com/nfl/story/_/id/50612050/jaguars-wr-parker-washington-shoulder-week-week",
+     "date": "2026-11-27",
+     "both": false,
+     "score": 20.0,
+     "touches": {
+      "brettmn13": [
+       {
+        "n": "Jakobi Meyers",
+        "p": "WR",
+        "how": "ripple"
+       },
+       {
+        "n": "Brenton Strange",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
     }
    ]
   },
   {
    "a": "TrifectaRich",
    "b": "butterygoop",
-   "a_win": 41.4,
+   "a_win": 35.3,
    "rec": {
     "TrifectaRich": [
      6,
@@ -417,8 +391,8 @@
     ]
    },
    "proj": {
-    "TrifectaRich": 104.5,
-    "butterygoop": 113.1
+    "TrifectaRich": 105.39,
+    "butterygoop": 120.4
    },
    "h2h": {
     "TrifectaRich": 1,
@@ -473,39 +447,11 @@
      }
     },
     {
-     "headline": "Sources: Aaron Rodgers excused from Steelers facility to process benching",
-     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
-     "date": "2026-11-25",
+     "headline": "Cardinals to start QB Josh Johnson again with Carson Beck (back spasms) out",
+     "url": "https://www.espn.com/nfl/story/_/id/50612845/cardinals-start-qb-johnson-again-beck-back-spasms-out",
+     "date": "2026-11-27",
      "both": true,
-     "score": 17.0,
-     "touches": {
-      "butterygoop": [
-       {
-        "n": "Aaron Rodgers",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Jaylen Warren",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "TrifectaRich": [
-       {
-        "n": "Germie Bernard",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
-     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
-     "date": "2026-11-21",
-     "both": true,
-     "score": 17.0,
+     "score": 20.0,
      "touches": {
       "butterygoop": [
        {
@@ -529,23 +475,56 @@
      }
     },
     {
-     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-     "date": "2026-11-20",
+     "headline": "Steelers activate Michael Pittman Jr. off IR, sign Max Hurleman to active roster",
+     "url": "https://www.espn.com/nfl/story/_/id/50606063/steelers-activate-michael-pittman-jr-ir-sign-max-hurleman-active-roster-practice-squad",
+     "date": "2026-11-26",
      "both": true,
-     "score": 17.0,
+     "score": 16.0,
      "touches": {
       "TrifectaRich": [
        {
-        "n": "Will Mallory",
-        "p": "TE",
+        "n": "Germie Bernard",
+        "p": "WR",
         "how": "ripple"
        }
       ],
       "butterygoop": [
        {
-        "n": "Jonathan Taylor",
+        "n": "Jaylen Warren",
         "p": "RB",
+        "how": "ripple"
+       },
+       {
+        "n": "Aaron Rodgers",
+        "p": "QB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Sources corroborate Aaron Rodgers' allegations on Steelers coach Mike McCarthy",
+     "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
+     "date": "2026-11-26",
+     "both": true,
+     "score": 16.0,
+     "touches": {
+      "butterygoop": [
+       {
+        "n": "Aaron Rodgers",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Jaylen Warren",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "TrifectaRich": [
+       {
+        "n": "Germie Bernard",
+        "p": "WR",
         "how": "ripple"
        }
       ]
@@ -556,7 +535,7 @@
   {
    "a": "DMsourbeer",
    "b": "thecreamer",
-   "a_win": 35.5,
+   "a_win": 34.4,
    "rec": {
     "DMsourbeer": [
      4,
@@ -584,8 +563,8 @@
     ]
    },
    "proj": {
-    "DMsourbeer": 99.75,
-    "thecreamer": 114.51
+    "DMsourbeer": 98.95,
+    "thecreamer": 114.87
    },
    "h2h": {
     "DMsourbeer": 0,
@@ -640,6 +619,52 @@
      }
     },
     {
+     "headline": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
+     "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+     "date": "2026-11-28",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "thecreamer": [
+       {
+        "n": "Mac Jones",
+        "p": "QB",
+        "how": "named"
+       }
+      ],
+      "DMsourbeer": [
+       {
+        "n": "Christian Kirk",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "DJ Uiagalelei to start for Chargers with Justin Herbert in concussion protocol",
+     "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol",
+     "date": "2026-11-28",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "DMsourbeer": [
+       {
+        "n": "Keaton Mitchell",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "thecreamer": [
+       {
+        "n": "Charlie Kolar",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions",
      "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
      "date": "2026-11-27",
@@ -661,64 +686,13 @@
        }
       ]
      }
-    },
-    {
-     "headline": "Sources: Aaron Rodgers excused from Steelers facility to process benching",
-     "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
-     "date": "2026-11-25",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Roman Wilson",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "thecreamer": [
-       {
-        "n": "Darnell Washington",
-        "p": "TE",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-     "date": "2026-11-20",
-     "both": true,
-     "score": 17.0,
-     "touches": {
-      "DMsourbeer": [
-       {
-        "n": "Daniel Jones",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Alec Pierce",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ],
-      "thecreamer": [
-       {
-        "n": "DJ Giddens",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
     }
    ]
   },
   {
    "a": "RebuildingRUs",
    "b": "Jbird531",
-   "a_win": 15.3,
+   "a_win": 14.2,
    "rec": {
     "RebuildingRUs": [
      3,
@@ -746,8 +720,8 @@
     ]
    },
    "proj": {
-    "RebuildingRUs": 92.39,
-    "Jbird531": 133.11
+    "RebuildingRUs": 87.73,
+    "Jbird531": 130.35
    },
    "h2h": {
     "RebuildingRUs": 1,
@@ -774,11 +748,39 @@
    ],
    "nfl": [
     {
-     "headline": "Cardinals rule out rookie Carson Beck, turn to 40-year-old Josh Johnson vs. Chiefs",
-     "url": "https://www.espn.com/nfl/story/_/id/50553035/cardinals-downgrade-qb-carson-beck-josh-johnson-set-start",
-     "date": "2026-11-21",
+     "headline": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
+     "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+     "date": "2026-11-28",
      "both": true,
-     "score": 17.0,
+     "score": 20.0,
+     "touches": {
+      "RebuildingRUs": [
+       {
+        "n": "Brock Purdy",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Isaac Guerendo",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ],
+      "Jbird531": [
+       {
+        "n": "De'Zhaun Stribling",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Cardinals to start QB Josh Johnson again with Carson Beck (back spasms) out",
+     "url": "https://www.espn.com/nfl/story/_/id/50612845/cardinals-start-qb-johnson-again-beck-back-spasms-out",
+     "date": "2026-11-27",
+     "both": true,
+     "score": 20.0,
      "touches": {
       "RebuildingRUs": [
        {
@@ -812,6 +814,34 @@
      }
     },
     {
+     "headline": "DJ Uiagalelei to start for Chargers with Justin Herbert in concussion protocol",
+     "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol",
+     "date": "2026-11-28",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "RebuildingRUs": [
+       {
+        "n": "Drake Maye",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Quentin Johnston",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "Jbird531": [
+       {
+        "n": "Ladd McConkey",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
      "headline": "Bills QB Josh Allen struggles vs. Chiefs in 'grossest' conditions",
      "url": "https://www.espn.com/nfl/story/_/id/50609813/bills-qb-josh-allen-struggles-vs-chiefs-grossest-conditions",
      "date": "2026-11-27",
@@ -838,57 +868,13 @@
        }
       ]
      }
-    },
-    {
-     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
-     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
-     "date": "2026-11-26",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "RebuildingRUs": [
-       {
-        "n": "Brock Purdy",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Isaac Guerendo",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "Jbird531": [
-       {
-        "n": "De'Zhaun Stribling",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Caleb Williams' late TD to Rome Odunze gives Bears dramatic win over Lions",
-     "url": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
-     "date": "2026-11-27",
-     "both": false,
-     "score": 24.0,
-     "touches": {
-      "RebuildingRUs": [
-       {
-        "n": "Luther Burden III",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
     }
    ]
   },
   {
    "a": "YoungBuck04",
    "b": "triccster",
-   "a_win": 36.8,
+   "a_win": 35.4,
    "rec": {
     "YoungBuck04": [
      7,
@@ -916,8 +902,8 @@
     ]
    },
    "proj": {
-    "YoungBuck04": 109.35,
-    "triccster": 122.74
+    "YoungBuck04": 108.82,
+    "triccster": 123.7
    },
    "h2h": {
     "YoungBuck04": 7,
@@ -942,125 +928,11 @@
    ],
    "nfl": [
     {
-     "headline": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-     "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-     "date": "2026-11-20",
+     "headline": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
+     "url": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
+     "date": "2026-11-28",
      "both": true,
-     "score": 17.0,
-     "touches": {
-      "YoungBuck04": [
-       {
-        "n": "Anthony Richardson Sr.",
-        "p": "QB",
-        "how": "named"
-       },
-       {
-        "n": "Seth McGowan",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "Laquon Treadwell",
-        "p": "WR",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Eagles QB Joe Milton wows teammates with breakout game in Dallas",
-     "url": "https://www.espn.com/nfl/story/_/id/50609081/eagles-qb-joe-milton-wows-teammates-breakout-game-dallas",
-     "date": "2026-11-27",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "YoungBuck04": [
-       {
-        "n": "Joe Milton",
-        "p": "QB",
-        "how": "named"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "Darius Cooper",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Saquon Barkley",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "DeVonta Smith",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Elijah Mitchell",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Tank Bigsby",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "Will Shipley brushes off argument with coach Nick Sirianni: 'Emotions were running high'",
-     "url": "https://www.espn.com/nfl/story/_/id/50608884/will-shipley-brushes-argument-coach-nick-sirianni",
-     "date": "2026-11-27",
-     "both": true,
-     "score": 16.0,
-     "touches": {
-      "YoungBuck04": [
-       {
-        "n": "Joe Milton",
-        "p": "QB",
-        "how": "ripple"
-       }
-      ],
-      "triccster": [
-       {
-        "n": "Darius Cooper",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Saquon Barkley",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "DeVonta Smith",
-        "p": "WR",
-        "how": "ripple"
-       },
-       {
-        "n": "Elijah Mitchell",
-        "p": "RB",
-        "how": "ripple"
-       },
-       {
-        "n": "Tank Bigsby",
-        "p": "RB",
-        "how": "ripple"
-       }
-      ]
-     }
-    },
-    {
-     "headline": "49ers QB Brock Purdy has ankle injury, sits out practice Wednesday",
-     "url": "https://www.espn.com/nfl/story/_/id/50596930/49ers-brock-purdy-ankle-injury-practice-wednesday",
-     "date": "2026-11-26",
-     "both": true,
-     "score": 16.0,
+     "score": 20.0,
      "touches": {
       "YoungBuck04": [
        {
@@ -1087,6 +959,90 @@
        }
       ]
      }
+    },
+    {
+     "headline": "Jaguars' Parker Washington, Bhayshul Tuten both out Sunday",
+     "url": "https://www.espn.com/nfl/story/_/id/50612050/jaguars-wr-parker-washington-shoulder-week-week",
+     "date": "2026-11-27",
+     "both": true,
+     "score": 20.0,
+     "touches": {
+      "YoungBuck04": [
+       {
+        "n": "Tanner Koziol",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Chris Rodriguez Jr.",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "DJ Uiagalelei to start for Chargers with Justin Herbert in concussion protocol",
+     "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol",
+     "date": "2026-11-28",
+     "both": true,
+     "score": 18.0,
+     "touches": {
+      "YoungBuck04": [
+       {
+        "n": "Justin Herbert",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "Brenen Thompson",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Tommy DeVito",
+        "p": "QB",
+        "how": "named"
+       },
+       {
+        "n": "David Njoku",
+        "p": "TE",
+        "how": "ripple"
+       }
+      ]
+     }
+    },
+    {
+     "headline": "Bengals WR Tee Higgins dealing with 'sore' hamstring, says coach Zac Taylor",
+     "url": "https://www.espn.com/nfl/story/_/id/50614804/bengals-wr-higgins-dealing-sore-hamstring-says-taylor",
+     "date": "2026-11-27",
+     "both": true,
+     "score": 17.0,
+     "touches": {
+      "YoungBuck04": [
+       {
+        "n": "Mike Gesicki",
+        "p": "TE",
+        "how": "ripple"
+       },
+       {
+        "n": "Ja'Marr Chase",
+        "p": "WR",
+        "how": "ripple"
+       }
+      ],
+      "triccster": [
+       {
+        "n": "Samaje Perine",
+        "p": "RB",
+        "how": "ripple"
+       }
+      ]
+     }
     }
    ]
   }
@@ -1094,6 +1050,6 @@
  "league_note": "",
  "byline": "",
  "note": "Win chances use each team's scoring this season, pulled toward last season while the sample is small.",
- "nfl_read_at": "2026-11-27T13:11+00:00",
+ "nfl_read_at": "2026-11-28T13:12+00:00",
  "nfl_note": "NFL headlines from ESPN that touch a player on either roster. A 'ripple' player was not in the headline; he plays on that NFL offence, so the story moves his value too."
 }
